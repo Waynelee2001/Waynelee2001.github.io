@@ -1,15 +1,106 @@
 {
-  "generatedAt": "2026-05-31T06:27:38.734Z",
+  "generatedAt": "2026-06-01T07:14:19.664Z",
   "range": {
     "start": "2026-01-01",
-    "end": "2026-05-31"
+    "end": "2026-06-01"
   },
   "totals": {
-    "news": 932,
+    "news": 937,
     "research": 116,
-    "days": 106
+    "days": 107
   },
   "briefs": [
+    {
+      "date": "2026-05-31",
+      "news": [
+        {
+          "date": "2026-05-31",
+          "platform": "LegalTech Monitor",
+          "titleEn": "Supreme Court Signs Off on Rio Grande Water Deal Ending Interstate Fight",
+          "titleZh": "最高法院批准格兰德河水资源协议，终结州际争端",
+          "url": "https://www.legaltechmonitor.com/2026/05/supreme-court-signs-off-on-rio-grande-water-deal-ending-interstate-fight",
+          "summaryZh": "美国最高法院批准了一项和解协议，结束了德克萨斯州、新墨西哥州和科罗拉多州之间关于格兰德河水资源分配的长期争端。该协议确立了新墨西哥州向德克萨斯州输水的管理框架。诉讼围绕《格兰德河契约》展开，德克萨斯州指控新墨西哥州允许地下水抽取等行为干扰其应得的水流量。联邦政府因运营格兰德河项目和履行下游交付义务而深度介入。该裁决关闭了一起罕见的原始诉讼案件，最高法院在此案中充当了初审法庭。此案凸显了联邦政府在契约诉讼中的重要作用。对于处理水、环境、能源或基础设施事务的律师而言，此案提醒州际契约可能产生诉讼风险。该和解为特别主事官程序如何影响最高法院原始诉讼路径提供了范例。西南地区的公用事业、农业利益、市政当局和项目运营商的内部法律顾问应关注该法令提供的治理框架。更广泛的意义在于，契约执行仍是公共法律诉讼中活跃且重要的领域。",
+          "bodyHtml": "",
+          "bodyText": "",
+          "contentAuthor": "brunoqueirozdocketalarm-com",
+          "sourceUrl": "https://www.docketalarm.com/blog/2026/05/supreme-court-signs-off-on-rio-grande.html",
+          "sourceAuthor": "brunoqueirozdocketalarm-com",
+          "sourceAccess": "paywalled",
+          "relevance": "low",
+          "relevanceReason": "文章主要涉及最高法院批准州际水资源协议，属于水法和公共法律诉讼领域，虽提及法律程序（如特别主事官、原始管辖权），但核心内容并非关于法律人工智能或法律技术，仅与法律实践间接相关。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-05-31",
+          "platform": "LegalTech Monitor",
+          "titleEn": "Supreme Court Rejects Mexican Government’s Gun Industry Suit",
+          "titleZh": "美国最高法院驳回墨西哥政府对枪支行业的诉讼",
+          "url": "https://www.legaltechmonitor.com/2026/05/supreme-court-rejects-mexican-governments-gun-industry-suit",
+          "summaryZh": "美国最高法院一致驳回墨西哥政府要求美国枪支制造商为跨境枪支贩运和卡特尔暴力负责的诉讼。裁决维护了《合法枪支交易保护法》的豁免范围，表明法院对将刑事滥用行为重新包装为传统侵权理论的尝试持怀疑态度。墨西哥主张制造商和分销商明知故犯地通过可预测助长非法贩运网络的渠道供应枪支，但法院认为起诉未合理符合法律例外情形，原告需承担沉重的诉状举证责任。\n\n对诉讼律师而言，裁决提示应尽早援引法定豁免抗辩，尤其当原告依赖市场范围指控、公害理论或合法分销行为可预见地助长非法行为等概括性主张时。企业内部法律顾问可参考法院推理：在高度监管行业运营的公司仍面临直接违反法规或具体不当行为的索赔风险，但不太可能因合法产品被第三方滥用而承担广泛侵权责任。合规团队应继续记录销售实践、渠道监控、可疑订单审查和监管报告等控制措施，以应对原告援引法定例外或绕过豁免的尝试。该判决是本期最高法院最重要的民事案件之一，对产品责任、公害和域外损害理论具有指导意义。",
+          "bodyHtml": "",
+          "bodyText": "",
+          "contentAuthor": "brunoqueirozdocketalarm-com",
+          "sourceUrl": "https://www.docketalarm.com/blog/2026/05/supreme-court-rejects-mexican.html",
+          "sourceAuthor": "brunoqueirozdocketalarm-com",
+          "sourceAccess": "paywalled",
+          "relevance": "medium",
+          "relevanceReason": "文章主要讨论美国最高法院对墨西哥诉枪支行业案的裁决及其对产品责任、法定豁免和侵权诉讼的影响，虽涉及法律程序和合规，但核心并非法律AI或法律科技，而是传统法律领域。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-05-31",
+          "platform": "LegalTech Monitor",
+          "titleEn": "Amazon Targets PTAB Review in IPR2026-00361",
+          "titleZh": "亚马逊针对IPR2026-00361提起PTAB复审请求",
+          "url": "https://www.legaltechmonitor.com/2026/05/amazon-targets-ptab-review-in-ipr2026-00361",
+          "summaryZh": "亚马逊服务有限责任公司于2026年5月26日向专利审判与上诉委员会提交了一份新的双方复审请求，案卷号为IPR2026-00361。目前公开的案卷摘要仅显示亚马逊为请求人，未披露专利权人及涉案专利号。该申请值得关注，因为新提起的IPR通常暗示存在平行地区法院诉讼、许可压力或涉及战略重要技术的更广泛专利组合行动。由于程序刚启动，挑战的权利要求、引用的现有技术以及依据的法定条款等关键细节将在后续文件中披露。涉案专利若涉及电子商务、物流、云系统、用户界面、数据处理或推荐技术，将为研究请求人如何攻击软件及平台类权利要求提供参考。亚马逊在PTAB的策略常反映防御性趋势，值得内部知识产权团队及外部律师关注。程序上，早期文件可揭示请求人是否采取激进的页数限制策略、使用多份专家声明或为平行诉讼保留论点。专利权人的初步答复可能涉及自由裁量驳回、真正利益方争议或Fintiv等机构原则挑战。目前，IPR2026-00361被视为一项重要的新PTAB申请，待专利及理由完全披露后可能产生重大影响。",
+          "bodyHtml": "",
+          "bodyText": "",
+          "contentAuthor": "brunoqueirozdocketalarm-com",
+          "sourceUrl": "https://www.docketalarm.com/blog/2026/05/amazon-targets-ptab-review-in-ipr2026.html",
+          "sourceAuthor": "brunoqueirozdocketalarm-com",
+          "sourceAccess": "paywalled",
+          "relevance": "medium",
+          "relevanceReason": "文章主要报道亚马逊提起的PTAB复审请求，涉及专利诉讼和PTAB程序，属于知识产权法律领域，但未直接聚焦于法律AI或法律科技产品，因此相关性为中等。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-05-31",
+          "platform": "LegalTech Monitor",
+          "titleEn": "It’s Time To Say Goodbye To Water Cooler Training",
+          "titleZh": "是时候告别“饮水机培训”了",
+          "url": "https://www.legaltechmonitor.com/2026/05/its-time-to-say-goodbye-to-water-cooler-training",
+          "summaryZh": "人工智能正在改变律师（尤其是诉讼律师）至关重要的协作方式。法律行业应放弃依赖非正式的“饮水机培训”模式，转向更正式、更有计划的学习方式。作者是前大型律所合伙人，拥有近30年执业经验，主要从事大规模侵权、数据泄露、隐私及网络保险领域的诉讼工作，并为Above the Law撰稿，同时是LegalTech Week圆桌讨论的固定嘉宾。",
+          "bodyHtml": "",
+          "bodyText": "AI is changing the work collaberation that so essential to lawyers, particularly litigators. It’s time we quit relying on the water cooler training notion and moved to something more formal and deliberate. Here’s my thoughts for Above the Law. TechLaw Crossroads is a no-bullshit blog written mainly by me. As Harold Ross, the New Yorker founding Editor said, “Everybody knows the news. Now tell us something about it.” That’s my goal. I am a former lawyer who practiced as a partner with a large law firm for the better part of 30 years. I was a trial lawyer, mostly in mass tort and, later, in data breach, privacy, and cyber insurance areas. I also write for Above the Law. I am a panelist on LegalTech Week, a weekly roundtable of legal tech journalists where we discuss the most significant legal tech stories of the week. Je ne regrette rien",
+          "contentAuthor": "Stephen Embry",
+          "sourceUrl": "https://www.techlawcrossroads.com/2026/05/its-time-to-say-goodbye-to-water-cooler-training",
+          "sourceAuthor": "Stephen Embry",
+          "sourceAccess": "unknown",
+          "relevance": "medium",
+          "relevanceReason": "文章主要讨论法律行业培训方式的变革，提及AI对律师协作的影响，但核心是培训方法论而非直接聚焦法律AI产品或技术应用。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-05-31",
+          "platform": "LegalTech Daily",
+          "titleEn": "Shared Links (bi-weekly) May 31, 2026",
+          "titleZh": "共享链接（双周）2026年5月31日",
+          "url": "https://www.legaltechdaily.com/2026/05/shared-links-bi-weekly-may-31-2026",
+          "summaryZh": "本文为2026年5月31日的双周共享链接汇总。内容来自Mike McBride Online，鼓励读者订阅新闻通讯以获取更多类似链接。同时提供RSS订阅选项。",
+          "bodyHtml": "</p>\n<p>For more like this, <a href=\"https://mikemcbride.substack.com\">subscribe to the newsletter</a> and get these links and more in your email.</p>\n<p>The post <a href=\"https://www.mikemcbrideonline.com/2026/05/shared-links-bi-weekly-may-31-2026/\">Shared Links (bi-weekly) May 31, 2026</a> appeared first on <a href=\"https://www.mikemcbrideonline.com\">Mike McBride Online</a>. If you want to see more like this, consider subscribing to the RSS Feed.</p>",
+          "bodyText": "For more like this, subscribe to the newsletter and get these links and more in your email. The post Shared Links (bi-weekly) May 31, 2026 appeared first on Mike McBride Online. If you want to see more like this, consider subscribing to the RSS Feed.",
+          "contentAuthor": "Mike McBride",
+          "sourceUrl": "https://www.mikemcbrideonline.com/2026/05/shared-links-bi-weekly-may-31-2026",
+          "sourceAuthor": "Mike McBride",
+          "sourceAccess": "accessible",
+          "relevance": "unrelated",
+          "relevanceReason": "内容仅为链接汇总，未涉及任何法律AI或法律技术相关主题。",
+          "isAggregatedSource": true
+        }
+      ],
+      "research": []
+    },
     {
       "date": "2026-05-30",
       "news": [
@@ -752,7 +843,7 @@
             "Xuyang Chen"
           ],
           "abstractEn": "Legal article retrieval is critical for building traceable and reliable legal AI systems, where conclusions must be grounded in specific legal articles. However, existing open-domain retrieval methods rely heavily on surface-level lexical or semantic similarity, making it difficult for them to distinguish legally relevant articles from those that are textually similar but legally inapplicable or misaligned with the user's underlying intent. To bridge this gap, we propose \\textsc{LexPath}, a domain-oriented multi-path framework comprising a multi-path retrieval module and an intent-aware reranking module. The retrieval module combines two complementary legal-specific paths to collect candidate articles: an IRAC-guided sparse path that expands queries with legally informative keywords, and a structure-guided dense path trained with hard negatives derived from legal hierarchy and citation relations. Then, the reranking module further refines the candidate ranking by incorporating the intent consistency score between queries and legal articles. We evaluate \\textsc{LexPath} on two publicly available benchmarks focusing on general-public queries and a self-constructed benchmark targeting domain-professional scenarios. Experimental results demonstrate that \\textsc{LexPath} consistently outperforms lexical, dense, hybrid, and adaptive retrieval-augmented generation (RAG) baselines. Ablation studies further verify the effectiveness of each component.",
-          "abstractZh": "法律条文检索对于构建可追溯且可靠的法律人工智能系统至关重要，这类系统的结论必须基于具体的法律条文。然而，现有的开放域检索方法严重依赖表面层次的词汇或语义相似性，难以区分法律相关条文与那些文本相似但在法律上不适用或与用户潜在意图不一致的条文。为弥补这一差距，我们提出了LexPath，一个面向领域的多路径框架，包含多路径检索模块和意图感知重排序模块。检索模块结合两条互补的法律专用路径来收集候选条文：一条是IRAC引导的稀疏路径，用法律信息关键词扩展查询；另一条是结构引导的稠密路径，使用从法律层级和引用关系中推导出的困难负样本进行训练。然后，重排序模块通过引入查询与法律条文之间的意图一致性分数，进一步优化候选排序。我们在两个面向公众查询的公开基准测试和一个面向领域专业场景的自建基准测试上评估了LexPath。实验结果表明，LexPath始终优于词汇、稠密、混合和自适应检索增强生成（RAG）基线方法。消融研究进一步验证了每个组件的有效性。",
+          "abstractZh": "法律条文检索对于构建可追溯且可靠的法律人工智能系统至关重要，这类系统的结论必须基于具体的法律条文。然而，现有的开放域检索方法严重依赖表面层面的词汇或语义相似性，难以区分法律相关条文与那些文本相似但在法律上不适用或与用户潜在意图不符的条文。为弥补这一差距，我们提出了\textsc{LexPath}，一个面向领域的多路径框架，包含多路径检索模块和意图感知重排序模块。检索模块结合两条互补的法律专用路径来收集候选条文：一条是IRAC引导的稀疏路径，通过法律信息关键词扩展查询；另一条是结构引导的稠密路径，利用从法律层级和引用关系中推导出的困难负样本进行训练。然后，重排序模块通过引入查询与法律条文之间的意图一致性得分，进一步优化候选排序。我们在两个面向公众查询的公开基准测试和一个面向领域专业场景的自建基准测试上评估了\textsc{LexPath}。实验结果表明，\textsc{LexPath}始终优于词汇、稠密、混合和自适应检索增强生成（RAG）基线。消融研究进一步验证了每个组件的有效性。",
           "pdfUrl": "https://arxiv.org/pdf/2605.30205v1"
         },
         {
@@ -764,7 +855,7 @@
             "Volodymyr Ovcharov"
           ],
           "abstractEn": "Legal NLP benchmarks overwhelmingly evaluate a single language or aggregate tasks that differ fundamentally across jurisdictions, making cross-lingual comparison impossible. We introduce Multi-Legal-Bench, the first cross-jurisdictional legal benchmark that evaluates identical tasks across six countries (Ukraine, France, Netherlands, Poland, Czech Republic, Lithuania), four language families, and 134 million court decisions. The benchmark defines five tasks court-type classification, judgment form classification, case-outcome prediction, legal norm extraction, and cause category prediction mapped to structured metadata from national court registries, forming a deliberately sparse 5x6 task-jurisdiction matrix (20 of 30 cells filled). We evaluate 7 frontier LLMs under zero-shot and 3-shot prompting via AWS Bedrock, with 4 additional small/medium models (3-12B) for scaling analysis. Our results reveal that: (1) task-dependent few-shot effects discovered in Ukrainian replicate across all jurisdictions; (2) no single model dominates any language rankings shift with both task and jurisdiction; (3) cross-lingual few-shot transfer does not follow language proximity: UA->FR (Romance, -2.1 pp) transfers better than UA->PL (Slavic, -13.7 pp), with label-set alignment predicting transfer quality better than language family; and (4) tokenizer fertility, despite a 2.3x spread, does not significantly predict cross-lingual accuracy (r=-0.27, p=0.14), suggesting that model architecture and pretraining data dominate tokenizer efficiency. We release all data, prompts, and model predictions.",
-          "abstractZh": "法律自然语言处理基准绝大多数评估单一语言或聚合不同司法管辖区中根本不同的任务，使得跨语言比较成为不可能。我们引入了多法律基准，这是第一个跨司法管辖区的法律基准，评估六个国家（乌克兰、法国、荷兰、波兰、捷克共和国、立陶宛）、四个语系和1.34亿份法院判决中的相同任务。该基准定义了五个任务——法院类型分类、判决形式分类、案件结果预测、法律规范提取和原因类别预测——映射到国家法院登记处的结构化元数据，形成一个故意稀疏的5x6任务-司法管辖区矩阵（30个单元格中填充了20个）。我们通过AWS Bedrock在零样本和3样本提示下评估了7个前沿大语言模型，并额外使用了4个小/中型模型（3-12B）进行规模分析。我们的结果表明：（1）在乌克兰发现的依赖于任务的少样本效应在所有司法管辖区中复制；（2）没有单一模型在所有语言中占主导地位——排名随任务和司法管辖区而变化；（3）跨语言少样本迁移不遵循语言接近性：乌克兰语->法语（罗曼语族，-2.1个百分点）的迁移效果优于乌克兰语->波兰语（斯拉夫语族，-13.7个百分点），标签集对齐比语系更能预测迁移质量；（4）分词器生育率尽管有2.3倍的差异，并不能显著预测跨语言准确性（r=-0.27，p=0.14），这表明模型架构和预训练数据主导了分词器效率。我们发布了所有数据、提示和模型预测。",
+          "abstractZh": "法律自然语言处理基准绝大多数评估单一语言或汇总不同司法管辖区根本不同的任务，使得跨语言比较成为不可能。我们引入了多法律基准，这是第一个跨司法管辖区的法律基准，评估六个国家（乌克兰、法国、荷兰、波兰、捷克共和国、立陶宛）、四个语系和1.34亿份法院判决中的相同任务。该基准定义了五个任务——法院类型分类、判决形式分类、案件结果预测、法律规范提取和原因类别预测——映射到国家法院登记处的结构化元数据，形成一个故意稀疏的5x6任务-司法管辖区矩阵（30个单元格中填充了20个）。我们通过AWS Bedrock在零样本和3样本提示下评估了7个前沿大语言模型，并额外使用了4个小/中型模型（3-12B）进行扩展分析。我们的结果表明：（1）在乌克兰发现的依赖于任务的少样本效应在所有司法管辖区中复制；（2）没有单一模型在所有语言中占主导地位——排名随任务和司法管辖区而变化；（3）跨语言少样本迁移不遵循语言接近性：乌克兰语->法语（罗曼语族，-2.1个百分点）的迁移效果优于乌克兰语->波兰语（斯拉夫语族，-13.7个百分点），标签集对齐比语系更能预测迁移质量；（4）分词器生育率尽管有2.3倍的差异，并不能显著预测跨语言准确性（r=-0.27，p=0.14），这表明模型架构和预训练数据主导了分词器效率。我们发布了所有数据、提示和模型预测。",
           "pdfUrl": "https://arxiv.org/pdf/2605.29738v1"
         }
       ]
@@ -1015,13 +1106,13 @@
         {
           "date": "2026-05-27",
           "titleEn": "UA-Legal-Bench: A Benchmark for Evaluating Large Language Models on Ukrainian Legal Reasoning",
-          "titleZh": "UA-Legal-Bench：评估大型语言模型在乌克兰法律推理中的基准",
+          "titleZh": "UA-Legal-Bench：评估大型语言模型在乌克兰法律推理上的基准",
           "url": "https://arxiv.org/abs/2605.29170v1",
           "authors": [
             "Volodymyr Ovcharov"
           ],
           "abstractEn": "Legal NLP benchmarks are overwhelmingly English-centric, leaving failure modes in morphologically rich, non-Latin-script languages undetected. We introduce UA-Legal-Bench, a five-task benchmark for evaluating large language models on Ukrainian legal reasoning, built from the Unified State Register of Court Decisions (EDRSR) -- one of the world's largest open judicial corpora (99.5 million decisions). The benchmark comprises: (1) case-type classification (4 classes, n=2,000), (2) judgment form classification (4 classes, n=2,000), (3) case-outcome prediction (6 classes, n=800), (4) legal norm extraction (n=1,794), and (5) cause category prediction (22 classes, n=1,871). We evaluate 11 LLMs (3B--675B) from five families under zero-shot and 3-shot prompting via AWS Bedrock with 158K API calls. Our results reveal sharply task-dependent few-shot effects: few-shot prompting improves judgment form classification by up to +38.6 pp but has mixed effects on outcome prediction. We show that accuracy is misleading on imbalanced legal tasks: the model with highest COP accuracy (62%) is a majority-class predictor (macro-F1: 23%), while the genuinely best model scores only 44% macro-F1. Within-family scaling analysis reveals that 8B models can match frontier performance on surface-level tasks but scaling thresholds vary dramatically across families. We release all data, prompts, and model predictions.",
-          "abstractZh": "法律自然语言处理基准 overwhelmingly 以英语为中心，导致形态丰富、非拉丁字母语言中的失败模式未被发现。我们提出了 UA-Legal-Bench，这是一个包含五项任务的基准，用于评估大型语言模型在乌克兰法律推理中的表现，该基准基于统一国家法院判决登记册（EDRSR）构建——这是世界上最大的开放司法语料库之一（包含9950万份判决）。该基准包括：（1）案件类型分类（4类，n=2,000），（2）判决形式分类（4类，n=2,000），（3）案件结果预测（6类，n=800），（4）法律规范提取（n=1,794），以及（5）原因类别预测（22类，n=1,871）。我们评估了来自五个系列的11个大型语言模型（3B至675B），在零样本和3样本提示下，通过AWS Bedrock进行了158K次API调用。我们的结果揭示了强烈的任务依赖性少样本效应：少样本提示将判决形式分类提高了最多+38.6个百分点，但对结果预测的影响不一。我们表明，在不平衡的法律任务中，准确率具有误导性：COP准确率最高的模型（62%）是一个多数类预测器（宏F1：23%），而真正最好的模型宏F1仅为44%。家族内规模分析显示，8B模型可以在表面级任务上匹配前沿性能，但不同家族的规模阈值差异巨大。我们发布了所有数据、提示和模型预测。",
+          "abstractZh": "法律自然语言处理基准 overwhelmingly 以英语为中心，导致形态丰富、非拉丁字母语言中的失败模式未被检测。我们提出了 UA-Legal-Bench，一个包含五项任务的基准，用于评估大型语言模型在乌克兰法律推理上的表现，该基准基于统一国家法院判决登记册（EDRSR）——世界上最大的开放司法语料库之一（9950万份判决）。该基准包括：（1）案件类型分类（4类，n=2,000），（2）判决形式分类（4类，n=2,000），（3）案件结果预测（6类，n=800），（4）法律规范提取（n=1,794），以及（5）原因类别预测（22类，n=1,871）。我们评估了来自五个系列的11个LLM（3B-675B），在零样本和3样本提示下，通过AWS Bedrock进行了158K次API调用。我们的结果揭示了强烈的任务依赖性少样本效应：少样本提示将判决形式分类提高了最多+38.6个百分点，但对结果预测的影响不一。我们表明，在不平衡的法律任务中，准确率具有误导性：COP准确率最高的模型（62%）是一个多数类预测器（宏F1：23%），而真正最好的模型宏F1仅为44%。家族内规模分析显示，8B模型可以在表面级任务上匹配前沿性能，但规模阈值在不同系列间差异显著。我们发布了所有数据、提示和模型预测。",
           "pdfUrl": "https://arxiv.org/pdf/2605.29170v1"
         },
         {
@@ -1037,7 +1128,7 @@
             "Anne Zettelmeier"
           ],
           "abstractEn": "We introduce the BenGER (Benchmark for German Law) dataset for evaluating LLM systems on subsumption-based legal reasoning in German law. The BenGER dataset consists of three components: 596 exam-style free-text legal case tasks across multiple levels of legal education and 531 short doctrinal reasoning tasks. We evaluate 12 contemporary LLM systems -- closed flagship, efficiency-oriented, and open-weight -- across automatic and judge-based metrics. On a controlled validation subset of timed human-written solutions under both unaided and human--AI co-creation conditions, we contextualise model performance against these human baselines. We introduce a rubric-aligned LLM-as-a-Judge framework cross-validated against a multi-rater human-grading protocol (three blind reviews plus one author-informed creator review per solution). Our results show that replacing a blind human reviewer with the LLM judge degrades agreement with the full human pool no more than removing that reviewer altogether (Calderon r=0.96 vs.~r=0.96, matched n=30), that closed-flagship systems lead the leaderboard across all corpora, and that human--AI co-creation substantially outperforms unaided human work.",
-          "abstractZh": "我们引入了BenGER（德国法基准）数据集，用于评估LLM系统在德国法中的涵摄推理能力。BenGER数据集包含三个组成部分：596个跨多个法律教育层次的考试式自由文本法律案例任务，以及531个简短的教义推理任务。我们评估了12个当代LLM系统——包括封闭旗舰型、效率导向型和开放权重型——基于自动指标和基于评判的指标。在一个受控的验证子集上，针对限时人工编写的解决方案（在无辅助和人机共创两种条件下），我们将模型性能与这些人类基线进行了对比。我们引入了一个与评分标准对齐的LLM-as-a-Judge框架，该框架通过多评分者人工评分协议（每个解决方案三次盲审加一次作者知情的创建者评审）进行了交叉验证。我们的结果表明，用LLM评判替换盲审人类评审员对与完整人类评审池的一致性造成的降低，不超过完全移除该评审员（Calderon r=0.96 vs. r=0.96，匹配n=30）；封闭旗舰型系统在所有语料库中领先排行榜；人机共创显著优于无辅助的人类工作。",
+          "abstractZh": "我们引入了BenGER（德国法基准）数据集，用于评估LLM系统在德国法中的涵摄推理能力。BenGER数据集包含三个组成部分：596个跨多个法律教育层次的考试式自由文本法律案例任务，以及531个简短的法理推理任务。我们评估了12个当代LLM系统——包括封闭旗舰型、效率导向型和开放权重型——基于自动指标和基于评判员的指标。在一个受控的验证子集上，针对限时人工编写的解决方案（包括无辅助和人类-AI共创条件），我们将模型性能与这些人类基线进行了对比。我们引入了一个与评分标准对齐的LLM-as-a-Judge框架，该框架通过多评分者人工评分协议（每个解决方案包含三份盲审和一份作者知情的创建者评审）进行了交叉验证。我们的结果表明，用LLM评判员替换一名盲审人类评审员，其与完整人类评审池的一致性降低程度不超过完全移除该评审员（Calderon r=0.96 vs. r=0.96，匹配n=30），封闭旗舰型系统在所有语料库中领先排行榜，并且人类-AI共创显著优于无辅助的人类工作。",
           "pdfUrl": "https://arxiv.org/pdf/2605.28183v1"
         },
         {
@@ -1053,7 +1144,7 @@
             "Linfeng Gao"
           ],
           "abstractEn": "Graph-based Retrieval-Augmented Generation (GraphRAG) advances flat document retrieval by structuring knowledge as relational graphs, enabling more coherent and effective reasoning. However, applying it to specific domains like legal reasoning faces critical challenges. (i) Legal corpora are heterogeneous, containing multi-granular knowledge from cases, articles and interpretations. A flat knowledge graph cannot adequately differentiate between factual details, applied rules, and abstract principles, limiting accurate retrieval. (ii) Reliable legal judgment demands transparent, evidence-based reasoning. Traditional RAG passes retrieved context directly to an LLM without verification, resulting in opaque, error-prone reasoning. To this end, we propose LegalGraphRAG, a framework designed for reliable legal reasoning. Our approach introduces two core components: a hierarchical legal graph that hierarchically organizes legal sources to enable retrieval at appropriate abstraction levels, and a multi-agent system for reliable legal reasoning, where a Researcher retrieves candidate evidence, an Auditor rigorously verifies its validity against source documents, and an Adjudicator synthesizes the set of verified evidence to render a final judgment. Extensive experiments show that LegalGraphRAG achieves the state-of-the-art performance, outperforming existing GraphRAG baselines in accurate and trustworthy legal analysis. Our code, datasets and implementation details are available at https://github.com/XMUDeepLIT/LegalGraphRAG.",
-          "abstractZh": "基于图的检索增强生成（GraphRAG）通过将知识结构化为关系图，推进了平面文档检索，实现了更连贯和有效的推理。然而，将其应用于法律推理等特定领域面临关键挑战。（i）法律语料库是异质的，包含来自案例、法条和解释的多粒度知识。平面知识图无法充分区分事实细节、适用规则和抽象原则，限制了准确检索。（ii）可靠的法律判决需要透明、基于证据的推理。传统的RAG直接将检索到的上下文传递给大语言模型而不进行验证，导致不透明且易出错的推理。为此，我们提出了LegalGraphRAG，一个专为可靠法律推理设计的框架。我们的方法引入了两个核心组件：一个层次化法律图，用于分层组织法律来源，以便在适当的抽象级别进行检索；以及一个用于可靠法律推理的多智能体系统，其中研究者检索候选证据，审计员严格验证其与源文档的一致性，裁决员综合已验证的证据集作出最终判决。大量实验表明，LegalGraphRAG达到了最先进的性能，在准确和可信的法律分析中优于现有的GraphRAG基线。我们的代码、数据集和实现细节可在https://github.com/XMUDeepLIT/LegalGraphRAG获取。",
+          "abstractZh": "基于图的检索增强生成（GraphRAG）通过将知识结构化为关系图，推进了平面文档检索，实现了更连贯和有效的推理。然而，将其应用于法律推理等特定领域面临关键挑战。（i）法律语料库是异质的，包含来自案例、法条和解释的多粒度知识。平面知识图无法充分区分事实细节、适用规则和抽象原则，限制了准确检索。（ii）可靠的法律判决需要透明、基于证据的推理。传统RAG直接将检索到的上下文传递给大语言模型而不进行验证，导致不透明且易出错的推理。为此，我们提出LegalGraphRAG，一个专为可靠法律推理设计的框架。我们的方法引入了两个核心组件：一个层次化法律图，用于分层组织法律来源，以便在适当的抽象级别进行检索；以及一个用于可靠法律推理的多智能体系统，其中研究者检索候选证据，审计员根据源文档严格验证其有效性，裁决者综合一组经过验证的证据作出最终判决。大量实验表明，LegalGraphRAG实现了最先进的性能，在准确和可信的法律分析中优于现有的GraphRAG基线。我们的代码、数据集和实现细节可在https://github.com/XMUDeepLIT/LegalGraphRAG获取。",
           "pdfUrl": "https://arxiv.org/pdf/2605.28120v1"
         }
       ]
@@ -1072,13 +1163,13 @@
             "Weixuan Xia"
           ],
           "abstractEn": "The present paper investigates how insiders strategically navigate ongoing legal risk while leveraging stealth trading within a continuous-time Kyle-type framework. Legal enforcement operates concurrently with trading, which dynamic can be adversely obscured by a large surrounding population of noise traders. While surveillance intensity responds directly to the insider's trading intensity, triggering a random prosecution time, the resulting legal sanctions encompass both strategy-focused criminal penalties and profit-dependent civil penalties. Employing a new impact-neutral measure change, equilibrium analysis shows that even after achieving stealth, the insider internalizes regulatory exposure, and enforcement can significantly shape equilibrium trading strategies. The associated limiting equilibria yield a rich set of outcomes, with three key insights for regulatory impact: (i) under committed regulatory scrutiny, the insider trades a time-varying function of the discrepancy between the asset's fundamental value and its market price, and trading may intensify indefinitely near the end of the trading horizon as legal risk recedes; (ii) merely raising penalties as an advantageous selection cost proves ineffective in offsetting declines in regulatory diligence; (iii) criminal penalties remain essential for deterring aggressive insider trading, as they impose critical temporal constraints on trading intensity not achievable through civil penalties alone.",
-          "abstractZh": "本文研究了在连续时间Kyle型框架下，内幕交易者如何在利用隐蔽交易的同时策略性地应对持续的法律风险。法律执行与交易同时进行，这种动态可能被大量噪音交易者的存在所掩盖。虽然监管强度直接响应内幕交易者的交易强度，从而触发随机起诉时间，但由此产生的法律制裁既包括针对策略的刑事处罚，也包括与利润相关的民事处罚。通过采用一种新的影响中性测度变换，均衡分析表明，即使在实现隐蔽交易之后，内幕交易者仍将监管风险内部化，而执法可以显著影响均衡交易策略。相关的极限均衡产生了一系列丰富的结果，其中三个关键见解对监管影响具有重要意义：（i）在承诺的监管审查下，内幕交易者交易的是资产基本面价值与其市场价格之间差异的时变函数，并且随着法律风险消退，交易可能在交易期限临近结束时无限加剧；（ii）仅提高罚金作为一种有利的选择成本，在抵消监管勤勉度下降方面无效；（iii）刑事处罚对于威慑激进的内部交易仍然至关重要，因为它们对交易强度施加了关键的时间限制，而仅靠民事处罚无法实现这一点。",
+          "abstractZh": "本文研究在连续时间Kyle型框架下，内幕交易者如何在利用隐蔽交易的同时策略性地应对持续存在的法律风险。法律执行与交易同时进行，这种动态可能被大量噪音交易者群体所掩盖。虽然监管强度直接响应内幕交易者的交易强度，从而触发随机的起诉时间，但由此产生的法律制裁既包括针对策略的刑事处罚，也包括与利润相关的民事处罚。通过采用一种新的影响中性测度变换，均衡分析表明，即使在实现隐蔽交易后，内幕交易者仍将监管风险内部化，而执法可以显著影响均衡交易策略。相关的极限均衡产生了一系列丰富的结果，其中三个关键见解对监管影响具有重要意义：（i）在承诺的监管审查下，内幕交易者交易的是资产基本面价值与其市场价格之间差异的时变函数，并且随着法律风险消退，交易可能在交易期限临近结束时无限加剧；（ii）仅仅提高罚金作为一种有利的选择成本，在抵消监管勤勉度下降方面是无效的；（iii）刑事处罚对于威慑激进的内幕交易仍然至关重要，因为它们对交易强度施加了关键的时间约束，而仅靠民事处罚无法实现这一点。",
           "pdfUrl": "https://arxiv.org/pdf/2605.27684v1"
         },
         {
           "date": "2026-05-26",
           "titleEn": "Maat: The Agentic Legal Research Assistant for Competition Protection",
-          "titleZh": "Maat：面向竞争保护的法律研究智能代理助手",
+          "titleZh": "Maat：面向竞争保护的法律研究代理助手",
           "url": "https://arxiv.org/abs/2605.27331v1",
           "authors": [
             "Basant Mounir",
@@ -1087,7 +1178,7 @@
             "Asmaa Sami"
           ],
           "abstractEn": "Competition law experts conducting legal research must review extensive volumes of cases, decisions, and judicial reports to identify precedents and assess key elements in competition and merger cases. Although general research assistants such as Claude and ChatGPT and legal assistants such as SaulLM-7B and LegalGPT are increasingly used to assist legal research, they remain inadequate for competition law analysis: they lack specialized domain expertise, provide insufficient official citations, or hallucinate competition law cases. We propose Maat, a ReAct agent that orchestrates tools corresponding to different tasks of the research process. Designed iteratively with competition law experts, Maat grounds cases and findings in official sources using RAG for reliability, provides rich in-line citations, falls back to web search when database coverage is insufficient, and prompts the user for clarification when queries are ambiguous. Maat significantly outperforms all baseline assistants on case-specific tasks and performs within range of the top baseline on theoretical question tasks. The dataset used is available on GitHub.",
-          "abstractZh": "从事法律研究的竞争法专家必须审查大量案件、裁决和司法报告，以识别先例并评估竞争与合并案件中的关键要素。尽管通用研究助手（如Claude和ChatGPT）以及法律助手（如SaulLM-7B和LegalGPT）越来越多地被用于辅助法律研究，但它们仍不足以胜任竞争法分析：缺乏专门的领域知识，提供的官方引用不足，或虚构竞争法案例。我们提出Maat，一个ReAct代理，它协调对应于研究过程中不同任务的工具。Maat与竞争法专家迭代设计，利用RAG将案例和发现基于官方来源以确保可靠性，提供丰富的行内引用，在数据库覆盖不足时回退到网络搜索，并在查询模糊时提示用户澄清。Maat在特定案例任务上显著优于所有基线助手，在理论问题任务上表现与最佳基线相当。所使用的数据集可在GitHub上获取。",
+          "abstractZh": "从事法律研究的竞争法专家必须审查大量的案例、裁决和司法报告，以识别先例并评估竞争和合并案件中的关键要素。尽管通用研究助手（如Claude和ChatGPT）以及法律助手（如SaulLM-7B和LegalGPT）越来越多地被用于辅助法律研究，但它们对于竞争法分析仍显不足：缺乏专门的领域知识，提供的官方引用不充分，或者虚构竞争法案例。我们提出Maat，一个ReAct代理，它协调对应于研究过程中不同任务的工具。Maat与竞争法专家迭代设计，利用RAG将案例和发现基于官方来源以确保可靠性，提供丰富的行内引用，在数据库覆盖不足时回退到网络搜索，并在查询模糊时提示用户澄清。Maat在案例特定任务上显著优于所有基线助手，在理论问题任务上表现与最佳基线相当。所使用的数据集可在GitHub上获取。",
           "pdfUrl": "https://arxiv.org/pdf/2605.27331v1"
         },
         {
@@ -1101,13 +1192,13 @@
             "Jihad Zahir"
           ],
           "abstractEn": "Computing legal indicators from normative texts is a key task in legal monitoring and policy evaluation, but presents significant challenges due to the complexity, scale, and interpretive nature of legal language, as well as the variability in available document quality. Existing natural language processing techniques and generative models can assist in legal analysis, but often suffer from high risk of hallucinations and lack the interpretability and evidence grounding required for reliable indicator computation. This paper presents N2I-RAG (From Norms to Indicators), an agentic retrieval-augmented generation framework designed to automate the computation of legal indicators in a transparent and traceable way. We integrate adaptive retrieval, llm-based agents, and validation mechanisms in a modular pipeline, where each component performs a defined role in filtering, retrieving, and assessing evidence, and in producing binary legal outcomes linked to identifiable legal provisions. The framework emphasizes traceability by requiring explicit explanations of intermediate decisions and final indicator assignments. We evaluate N2I-RAG using an in-house constructed French marine environmental law corpus that includes both scanned and digital sources. Comparative experiments with multiple language model families demonstrate that the proposed approach consistently outperforms baseline systems, and generalizes well when tested on 2 different bans. The results indicate that agentic retrieval-augmented generation can bridge open-text legal language and standardized indicator computation, offering a foundation for transparent and scalable legal observatories.",
-          "abstractZh": "从规范性文本中计算法律指标是法律监测和政策评估中的关键任务，但由于法律语言的复杂性、规模性和解释性，以及可用文档质量的差异性，这一任务面临重大挑战。现有的自然语言处理技术和生成模型可以辅助法律分析，但往往存在较高的幻觉风险，且缺乏可靠指标计算所需的可解释性和证据基础。本文提出了N2I-RAG（从规范到指标），这是一种智能检索增强生成框架，旨在以透明和可追溯的方式自动化法律指标的计算。我们将自适应检索、基于LLM的智能体和验证机制集成到一个模块化流水线中，每个组件在过滤、检索和评估证据，以及生成与可识别法律条款相关的二元法律结果方面发挥特定作用。该框架通过要求对中间决策和最终指标分配进行明确解释来强调可追溯性。我们使用内部构建的法国海洋环境法语料库（包括扫描件和数字来源）对N2I-RAG进行了评估。与多个语言模型系列的对比实验表明，所提出的方法始终优于基线系统，并且在针对2种不同禁令进行测试时具有良好的泛化能力。结果表明，智能检索增强生成能够弥合开放式法律语言与标准化指标计算之间的鸿沟，为透明且可扩展的法律观测站提供了基础。",
+          "abstractZh": "从规范性文本中计算法律指标是法律监测和政策评估中的一项关键任务，但由于法律语言的复杂性、规模性和解释性，以及可用文档质量的差异性，这一任务面临重大挑战。现有的自然语言处理技术和生成模型可以辅助法律分析，但往往存在较高的幻觉风险，且缺乏可靠指标计算所需的可解释性和证据基础。本文提出了N2I-RAG（从规范到指标），一种智能检索增强生成框架，旨在以透明和可追溯的方式自动化计算法律指标。我们将自适应检索、基于LLM的智能体和验证机制集成到一个模块化流水线中，每个组件在过滤、检索和评估证据，以及生成与可识别法律条款相关联的二元法律结果方面发挥特定作用。该框架强调可追溯性，要求对中间决策和最终指标分配提供明确的解释。我们使用内部构建的法国海洋环境法语料库（包括扫描件和数字来源）对N2I-RAG进行了评估。与多个语言模型系列的对比实验表明，所提出的方法在性能上始终优于基线系统，并且在针对2种不同禁令进行测试时具有良好的泛化能力。结果表明，智能检索增强生成能够弥合开放式法律语言与标准化指标计算之间的鸿沟，为透明且可扩展的法律观测站提供了基础。",
           "pdfUrl": "https://arxiv.org/pdf/2605.26926v1"
         },
         {
           "date": "2026-05-26",
           "titleEn": "Which Changes Matter? Towards Trustworthy Legal AI via Relevance-Sensitive Evaluation and Solver-Grounded Reasoning",
-          "titleZh": "哪些变化至关重要？通过相关性敏感评估与求解器基础推理实现可信赖的法律AI",
+          "titleZh": "哪些变化至关重要？面向可信法律AI的相关性敏感评估与求解器基础推理",
           "url": "https://arxiv.org/abs/2605.26530v1",
           "authors": [
             "Chen Linze",
@@ -1116,7 +1207,7 @@
             "Dong Jin Song"
           ],
           "abstractEn": "Legal reasoning requires distinguishing changes that matter from those that do not. Legal AI should remain stable under legally irrelevant perturbations, but should change when perturbations alter legally material points. We formulate this requirement as a legal-relevance-sensitive evaluation problem: LLMs should only be sensitive to the legally relevant change. We introduce a unified evaluation suite covering should-change and should-not-change evaluation across judicial fairness, robustness, and statute-confusion scenarios. Our evaluation shows that existing legal LLMs are systematically sensitive to legally irrelevant variations and often fail to distinguish related legal elements and statutory rules. To mitigate these failures, we present LexGuard, an adversarial multi-agent framework grounded in formal reasoning. LexGuard formalizes statutes into executable constraints, uses adversarial agents to extract competing fact-statute arguments, and invokes SMT solvers to verify legal satisfaction and logical consistency. Experiments show that LexGuard improves legal reasoning reliability by reducing vulnerability to manipulative framing, improving disambiguation among similar statutes, limiting the influence of legally irrelevant attributes, and increasing consistency under benign reformulations. We show that legal trustworthiness requires not only accuracy, but calibrated sensitivity to legally material changes.",
-          "abstractZh": "法律推理需要区分哪些变化至关重要，哪些无关紧要。法律AI应在法律上无关的扰动下保持稳定，但当扰动改变法律上的实质要点时应随之变化。我们将这一要求形式化为一个法律相关性敏感的评估问题：LLM应仅对法律上相关的变化敏感。我们引入了一个统一的评估套件，涵盖司法公正性、鲁棒性和法规混淆场景中的应变化和不应变化评估。我们的评估表明，现有的法律LLM系统性地对法律上无关的变化敏感，并且常常无法区分相关的法律要素和法规规则。为缓解这些失败，我们提出了LexGuard，一个基于形式推理的对抗性多智能体框架。LexGuard将法规形式化为可执行约束，使用对抗性智能体提取竞争性的事实-法规论证，并调用SMT求解器验证法律满足性和逻辑一致性。实验表明，LexGuard通过减少对操纵性框架的脆弱性、改善相似法规间的区分、限制法律上无关属性的影响以及增加良性重述下的一致性，提高了法律推理的可靠性。我们表明，法律可信赖性不仅需要准确性，还需要对法律上实质变化具有校准的敏感性。",
+          "abstractZh": "法律推理要求区分重要变化与无关变化。法律AI应在法律无关的扰动下保持稳定，但当扰动改变法律实质要点时应做出相应变化。我们将这一要求形式化为法律相关性敏感评估问题：LLM应仅对法律相关变化敏感。我们引入了一个统一的评估套件，涵盖司法公正、鲁棒性和法规混淆场景中的应变化与不应变化评估。我们的评估表明，现有法律LLM系统性地对法律无关变化敏感，且常未能区分相关法律要素和法规规则。为缓解这些失败，我们提出了LexGuard，一个基于形式推理的对抗性多智能体框架。LexGuard将法规形式化为可执行约束，使用对抗性智能体提取竞争性事实-法规论证，并调用SMT求解器验证法律满足性和逻辑一致性。实验表明，LexGuard通过减少对操纵性框架的脆弱性、改善相似法规间的区分、限制法律无关属性的影响以及增加良性重述下的一致性，提高了法律推理的可靠性。我们表明，法律可信度不仅需要准确性，还需要对法律实质变化的校准敏感性。",
           "pdfUrl": "https://arxiv.org/pdf/2605.26530v1"
         }
       ]
@@ -1224,7 +1315,7 @@
             "Yiran HU"
           ],
           "abstractEn": "While large language models (LLMs) augmented with agentic search capabilities show promise for legal reasoning, they overlook a fundamental constraint that applicable law must match the temporal context of each case, as retroactive application of statutes violates core legal principles and leads to erroneous conclusions. Our observations reveal that current legal LLMs suffer from temporal bias anchored to their training cutoff, while search agents rarely incorporate temporal constraints into queries, and that web search alone cannot provide the precise statute and precedent citations that legal reasoning demands. To address these challenges, we propose LegalSearch-R1, an end-to-end reinforcement learning framework that pairs local statute RAG for precise article matching with online web search for broader legal knowledge, trained on temporally-indexed data spanning multiple amendment periods to enforce temporal consistency. Extensive experiments on our benchmark covering 13 legal tasks demonstrate that our 7B-parameter agent outperforms state-of-the-art deep research frameworks and specialized legal LLMs by 12.9% to 29.8%, surpasses baselines by 57.7% to 80.3% on temporal consistency, and exhibits robust out-of-domain generalization. The code and data are available at https://github.com/AlexFanw/LegalSearch-R1.",
-          "abstractZh": "尽管具备智能搜索能力的大型语言模型在法律推理方面展现出潜力，但它们忽略了一个基本约束：适用法律必须与每个案件的时间背景相匹配，因为追溯适用法规违反了核心法律原则并导致错误结论。我们的观察表明，当前的法律LLM存在以其训练截止日期为锚点的时间偏差，而搜索代理很少将时间约束纳入查询，且仅靠网络搜索无法提供法律推理所需的精确法规和判例引用。为应对这些挑战，我们提出LegalSearch-R1，一个端到端的强化学习框架，它将本地法规RAG用于精确条款匹配与在线网络搜索用于更广泛的法律知识相结合，并在涵盖多个修订时期的时间索引数据上进行训练以强制执行时间一致性。在我们涵盖13项法律任务的基准测试上的大量实验表明，我们的7B参数智能体在时间一致性上以12.9%至29.8%的优势超越最先进的深度研究框架和专门的法律LLM，以57.7%至80.3%的优势超越基线，并展现出强大的域外泛化能力。代码和数据可在https://github.com/AlexFanw/LegalSearch-R1获取。",
+          "abstractZh": "尽管具备智能搜索能力的大型语言模型在法律推理方面展现出潜力，但它们忽略了一个基本约束：适用法律必须与每个案件的时间背景相匹配，因为追溯适用法规违反了核心法律原则并导致错误结论。我们的观察表明，当前的法律LLM存在以其训练截止日期为锚点的时间偏差，而搜索代理很少将时间约束纳入查询，且仅靠网络搜索无法提供法律推理所需的精确法规和判例引用。为应对这些挑战，我们提出LegalSearch-R1，一个端到端的强化学习框架，它将本地法规RAG用于精确条文匹配与在线网络搜索用于更广泛的法律知识相结合，并在涵盖多个修订时期的时间索引数据上进行训练以强制执行时间一致性。在我们涵盖13项法律任务的基准测试上的大量实验表明，我们的7B参数智能体在时间一致性上以12.9%至29.8%的优势超越最先进的深度研究框架和专门的法律LLM，以57.7%至80.3%的优势超越基线，并展现出强大的域外泛化能力。代码和数据可在https://github.com/AlexFanw/LegalSearch-R1获取。",
           "pdfUrl": "https://arxiv.org/pdf/2605.25920v1"
         }
       ]
@@ -1279,7 +1370,7 @@
             "Matthias Grabmair"
           ],
           "abstractEn": "We present a fully automated pipeline that transforms large collections of court decisions into legal commentaries for statutes - without providing any handcrafted doctrinal framework. Using 4.555 decisions of the German Federal Court of Justice that cite sections 242, 280, 812 and 823 of the German Civil Code (BGB), we extract paragraph-level chunks, summarize their reasoning, and derive keywords, which are embedded and clustered. For each cluster, an LLM generates headings and synthesizes citation-rich sections, which are then merged into coherent commentaries by four state-of-the-art LLMs. We evaluate along five dimensions - topical relevance, heading-match, citation faithfulness, cluster distinction and logical ordering - using both a human expert and an LLM-judge. Our results show that commentary-like argument mining from court decisions to generate reports that can be refreshed within minutes at minimal cost is feasible, yet they highlight limitations arising from restricted sources and the normativity of legal reasoning.",
-          "abstractZh": "我们提出了一种全自动流水线，能够将大量法院判决转化为针对法规的法律评注——无需提供任何手工构建的教义框架。利用德国联邦最高法院引用《德国民法典》第242条、第280条、第812条和第823条的4,555份判决，我们提取段落级别的文本块，总结其推理过程，并提取关键词，这些关键词被嵌入并聚类。对于每个聚类，一个大型语言模型生成标题并综合出富含引用的章节，然后由四个最先进的大型语言模型合并成连贯的评注。我们通过五个维度——主题相关性、标题匹配度、引用忠实性、聚类区分度和逻辑顺序——进行评估，使用人类专家和大型语言模型评判员。我们的结果表明，从法院判决中挖掘类似评注的论点以生成可在几分钟内以最低成本更新的报告是可行的，但也突显了由于资源有限和法律推理规范性所带来的局限性。",
+          "abstractZh": "我们提出了一种全自动流水线，能够将大量法院判决转化为针对法规的法律评注——无需提供任何手工构建的教义框架。利用德国联邦最高法院引用《德国民法典》第242条、第280条、第812条和第823条的4,555份判决，我们提取段落级别的文本块，总结其推理过程，并推导出关键词，这些关键词被嵌入并聚类。对于每个聚类，一个大型语言模型生成标题并综合出富含引用的章节，然后由四个最先进的大型语言模型合并成连贯的评注。我们通过五个维度——主题相关性、标题匹配度、引用忠实度、聚类区分度和逻辑顺序——进行评估，使用人类专家和大型语言模型评判员。我们的结果表明，从法院判决中挖掘类似评注的论点以生成可在几分钟内以最低成本更新的报告是可行的，但也突显了由于资源有限和法律推理规范性所带来的局限性。",
           "pdfUrl": "https://arxiv.org/pdf/2605.24534v1"
         },
         {
@@ -1293,7 +1384,7 @@
             "Gary Lee"
           ],
           "abstractEn": "Large language models (LLMs) have shown strong performance in the legal domain, demonstrating notable potential in Legal Question Answering (LQA). However, unlike general QA, LQA requires answers that are not only accurate but also rigorously grounded in explicit legal authority. In statutory LQA, many questions require multi-hop reasoning across multiple legal issues, substantially increasing the risk of hallucination, thereby making accurate retrieval of supporting statutory provisions a critical prerequisite. Despite recent progress in multi-hop QA, existing approaches often rely on reasoning in natural language or retrieval without explicit query reformulation, leaving the vocabulary gap between user questions and statutory text largely unaddressed. To address this challenge, we propose Decompose-and-Refine (DaR), a statute-grounded LQA framework that tightly integrates step-wise question decomposition with parametric knowledge-based query refinement. DaR progressively decomposes a complex legal question into atomic sub-questions and generates statute-aligned parametric queries for each sub-question, enabling the selection of a single most central statutory provision corresponding to each legal issue. We evaluate DaR on KoBLEX, a Korean multi-hop LQA benchmark grounded in statutory law, using Qwen3-32B and Gemma3-27B. Experimental results demonstrate that DaR consistently improves both retrieval accuracy and final answer quality over existing approaches. Moreover, by explicitly separating sub-questions and their corresponding statutory provisions, DaR facilitates transparent, issue-level verification of complex legal reasoning processes.",
-          "abstractZh": "大型语言模型（LLM）在法律领域展现出强劲性能，在法律问答（LQA）中显示出显著潜力。然而，与通用问答不同，LQA要求答案不仅准确，而且必须严格基于明确的法律权威。在成文法LQA中，许多问题需要跨多个法律问题进行多跳推理，这大大增加了幻觉风险，因此准确检索支持性法律条文成为关键前提。尽管多跳问答近期取得进展，现有方法通常依赖自然语言推理或无需显式查询重构的检索，导致用户问题与法律文本之间的词汇鸿沟未得到充分解决。为应对这一挑战，我们提出分解与精炼（DaR），一种基于成文法的LQA框架，该框架将逐步的问题分解与基于参数化知识的查询精炼紧密结合。DaR逐步将复杂法律问题分解为原子性子问题，并为每个子问题生成与法律条文对齐的参数化查询，从而能够为每个法律问题选择最核心的单一法律条文。我们在基于成文法的韩国多跳LQA基准KoBLEX上，使用Qwen3-32B和Gemma3-27B评估DaR。实验结果表明，DaR在检索准确性和最终答案质量上均持续优于现有方法。此外，通过显式分离子问题及其对应的法律条文，DaR促进了复杂法律推理过程的透明、逐问题验证。",
+          "abstractZh": "大型语言模型（LLM）在法律领域展现出强劲性能，在法律问答（LQA）中显示出显著潜力。然而，与通用问答不同，LQA要求答案不仅准确，而且必须严格基于明确的法律权威。在成文法LQA中，许多问题需要跨多个法律问题进行多跳推理，这大大增加了幻觉风险，因此准确检索支持性法律条文成为关键前提。尽管多跳问答近期取得进展，现有方法通常依赖自然语言推理或无需显式查询重构的检索，导致用户问题与法律文本之间的词汇鸿沟未得到充分解决。为应对这一挑战，我们提出分解与精炼（DaR），一种基于成文法的LQA框架，将逐步的问题分解与基于参数化知识的查询精炼紧密结合。DaR逐步将复杂法律问题分解为原子性子问题，并为每个子问题生成与法律条文对齐的参数化查询，从而能够为每个法律问题选择最核心的单一法律条文。我们在基于成文法的韩国多跳LQA基准KoBLEX上，使用Qwen3-32B和Gemma3-27B评估DaR。实验结果表明，DaR在检索准确性和最终答案质量上均持续优于现有方法。此外，通过明确分离子问题及其对应法律条文，DaR促进了复杂法律推理过程的透明、逐问题验证。",
           "pdfUrl": "https://arxiv.org/pdf/2605.24454v1"
         },
         {
@@ -1305,7 +1396,7 @@
             "Volodymyr Ovcharov"
           ],
           "abstractEn": "Legal NLP benchmarks evaluate models on randomly split data, implicitly assuming that legal language is stationary. We test this assumption by fine-tuning four transformer encoders -- XLM-RoBERTa (base and large) and their legal-domain variants -- on Ukrainian court decisions from three temporal epochs defined by geopolitical disruptions: pre-war (2008-2013), hybrid war (2014-2021), and full-scale invasion (2022-2026). Each model is trained on one epoch and evaluated on all three, producing a 3x3 cross-temporal generalization matrix. Four findings emerge. (1) Forward degradation is severe: models trained on pre-war data lose up to 27.2 percentage points of macro-F1 when applied to full-scale invasion era decisions. (2) The degradation is asymmetric: backward transfer (full-scale to pre-war) is substantially more robust than forward transfer, consistent with the hypothesis that legal language is additive. (3) Legal-domain pretraining (Legal-XLM-R) does not improve absolute performance but reduces forward degradation magnitude and asymmetry. (4) Chronological continual learning eliminates catastrophic forgetting for general XLM-R: pre-war knowledge is fully retained (+1.8 to +6.2 pp) while full-scale performance gains +16.5 to +19.0 pp; reverse-chronological training causes severe forgetting. Cross-jurisdictional pretraining on Swiss Judgment Prediction data improves absolute performance but does not reduce temporal degradation magnitude, confirming that temporal drift is an intrinsic property of legal language evolution. The dataset (428K decisions across three epochs) is publicly available as a LEXTREME contribution.",
-          "abstractZh": "法律自然语言处理基准测试在随机划分的数据上评估模型，隐含地假设法律语言是平稳的。我们通过微调四个Transformer编码器——XLM-RoBERTa（基础版和大版）及其法律领域变体——来检验这一假设，这些模型基于由地缘政治动荡定义的三个时间时期的乌克兰法院判决：战前（2008-2013年）、混合战争（2014-2021年）和全面入侵（2022-2026年）。每个模型在一个时期上训练，并在所有三个时期上评估，产生一个3x3的跨时间泛化矩阵。四个发现浮现出来。（1）前向退化严重：在战前数据上训练的模型应用于全面入侵时期的判决时，宏F1分数下降高达27.2个百分点。（2）退化是不对称的：后向迁移（全面入侵到战前）比前向迁移稳健得多，这与法律语言是累加性的假设一致。（3）法律领域预训练（Legal-XLM-R）并未提高绝对性能，但减少了前向退化的幅度和不对称性。（4）按时间顺序的持续学习消除了通用XLM-R的灾难性遗忘：战前知识完全保留（+1.8至+6.2个百分点），而全面入侵性能提升+16.5至+19.0个百分点；逆时间顺序训练导致严重遗忘。在瑞士判决预测数据上的跨司法管辖区预训练提高了绝对性能，但并未减少时间退化的幅度，证实了时间漂移是法律语言演化的内在属性。该数据集（跨越三个时期的428K份判决）作为LEXTREME的贡献公开可用。",
+          "abstractZh": "法律自然语言处理基准测试在随机划分的数据上评估模型，隐含地假设法律语言是静态的。我们通过微调四种Transformer编码器——XLM-RoBERTa（基础版和大版）及其法律领域变体——来检验这一假设，这些编码器应用于乌克兰法院判决的三个时间时期，这些时期由地缘政治动荡定义：战前（2008-2013年）、混合战争（2014-2021年）和全面入侵（2022-2026年）。每个模型在一个时期上训练，并在所有三个时期上评估，产生一个3x3的跨时间泛化矩阵。四个发现浮现出来。（1）前向退化严重：在战前数据上训练的模型应用于全面入侵时期的判决时，宏F1分数下降高达27.2个百分点。（2）退化是不对称的：后向迁移（全面入侵到战前）比前向迁移稳健得多，这与法律语言是累加性的假设一致。（3）法律领域预训练（Legal-XLM-R）并未提高绝对性能，但减少了前向退化的幅度和不对称性。（4）按时间顺序的持续学习消除了通用XLM-R的灾难性遗忘：战前知识完全保留（+1.8至+6.2个百分点），而全面入侵性能提升+16.5至+19.0个百分点；逆时间顺序训练导致严重遗忘。跨司法管辖区的预训练（瑞士判决预测数据）提高了绝对性能，但并未减少时间退化的幅度，证实了时间漂移是法律语言演化的内在属性。该数据集（跨越三个时期的428K份判决）作为LEXTREME贡献公开可用。",
           "pdfUrl": "https://arxiv.org/pdf/2605.24452v1"
         }
       ]
@@ -2377,7 +2468,7 @@
             "Jelena Mitrovic"
           ],
           "abstractEn": "Grading German legal exam solutions faces growing volumes and a shortage of qualified graders, delaying feedback and creating a bottleneck. At the same time, it is a high-stakes expert task, since state exam grades strongly influence career outcomes in Germany. Despite this practical relevance, literature lacks systematic studies on effective methods for grading legal exams. To address this gap, we investigate whether large language models (LLMs) can support the automated grading of German legal case solutions in criminal and public law, thereby enabling scalable feedback and student self-testing. We present a systematic evaluation of 27 proprietary and open-source LLMs, benchmarking prompting strategies that incrementally add task-related information, such as a sample solution and a grading rubric. Using quadratic weighted kappa (QWK), reasoning-oriented LLMs can approximate expert grading in public law when given a sample solution and a grading rubric (up to 0.91), compared to 0.60 in criminal law, suggesting a harder grading task in criminal law. Beyond single-model grading, ensembling improves agreement by up to 0.15 over its best member and can offer an alternative to stronger closed-source single models. In addition, our findings suggest that effective prompt design and model selection are necessary for reliable LLM-based grading of legal exams.",
-          "abstractZh": "对德国法律考试答案的评分面临着数量增长和合格评分人员短缺的问题，这延迟了反馈并造成了瓶颈。同时，这是一项高风险的专家任务，因为国家考试成绩在很大程度上影响着德国职业前景。尽管具有这种实际相关性，但文献中缺乏关于法律考试评分有效方法的系统研究。为填补这一空白，我们研究了大型语言模型（LLM）是否能够支持德国刑法和公法领域法律案例解答的自动评分，从而实现可扩展的反馈和学生自我测试。我们对27个专有和开源LLM进行了系统评估，基准测试了逐步添加任务相关信息（如样本解答和评分标准）的提示策略。使用二次加权卡帕（QWK），在给定样本解答和评分标准时，推理导向的LLM在公法中可以接近专家评分（高达0.91），而在刑法中为0.60，这表明刑法中的评分任务更为困难。除了单一模型评分外，集成方法相比其最佳成员可将一致性提高多达0.15，并且可以成为更强封闭源单一模型的替代方案。此外，我们的研究结果表明，有效的提示设计和模型选择对于基于LLM的法律考试可靠评分是必要的。",
+          "abstractZh": "对德国法律考试答案的评分面临着数量增长和合格评分员短缺的问题，这延迟了反馈并造成了瓶颈。同时，这是一项高风险的专家任务，因为国家考试成绩在德国对职业结果有重大影响。尽管具有这种实际相关性，文献中缺乏关于法律考试评分有效方法的系统研究。为填补这一空白，我们调查了大语言模型（LLM）是否能够支持德国刑法和公法中法律案例解决方案的自动评分，从而提供可扩展的反馈和学生自我测试。我们对27个专有和开源LLM进行了系统评估，基准测试了逐步添加任务相关信息的提示策略，例如样本解决方案和评分标准。使用二次加权卡帕（QWK），当提供样本解决方案和评分标准时，推理导向的LLM在公法中可以接近专家评分（高达0.91），而在刑法中为0.60，表明刑法中的评分任务更困难。除了单模型评分外，集成方法相比其最佳成员可将一致性提高多达0.15，并且可以成为更强封闭源单模型的替代方案。此外，我们的研究结果表明，有效的提示设计和模型选择对于基于LLM的法律考试可靠评分是必要的。",
           "pdfUrl": "https://arxiv.org/pdf/2605.21076v1"
         },
         {
@@ -2393,7 +2484,7 @@
             "Zhu Sun"
           ],
           "abstractEn": "Legal citation in common-law systems depends not only on factual similarity, but also on the legal principle for which a precedent is invoked. However, existing benchmarks for legal citation retrieval use case facts, citation context, or full judgments as inputs, where the governing legal principle is often missing or only implicitly expressed and entangled with broader context. As a result, models may retrieve precedents that are factually similar yet doctrinally irrelevant. This limitation is particularly consequential in Singapore, where the legal system has evolved independently: only domestic precedents are binding, while foreign authorities serve merely as persuasive references. Thus, we propose a new retrieval paradigm that ranks cited cases based on queries integrating case facts and explicit legal principles, inspired by real-world legal reasoning workflows. To support this paradigm, we introduce SG-LegalCite, a dataset of 100,890 case-principle pairs extracted from 8,523 Singapore Supreme Court judgments spanning from 2000 to 2025. Experiments across 11 baselines demonstrate the effectiveness of our principle-augmented retrieval paradigm, showing that explicit legal principles provide strong discriminative signals for legal citation retrieval.",
-          "abstractZh": "普通法体系中的法律引用不仅依赖于事实相似性，还取决于援引先例所依据的法律原则。然而，现有的法律引用检索基准使用案件事实、引用上下文或完整判决作为输入，其中主导法律原则往往缺失或仅隐含表达并与更广泛的上下文纠缠在一起。因此，模型可能检索到事实相似但学说上不相关的先例。这一限制在新加坡尤为严重，因为其法律体系独立发展：只有国内先例具有约束力，而外国权威仅作为说服性参考。因此，我们提出了一种新的检索范式，该范式基于整合案件事实和明确法律原则的查询对引用案例进行排序，灵感来源于真实的法律推理工作流程。为支持这一范式，我们引入了SG-LegalCite数据集，该数据集包含从2000年至2025年间的8,523份新加坡最高法院判决中提取的100,890个案件-原则对。在11个基线模型上的实验证明了我们原则增强检索范式的有效性，表明明确的法律原则为法律引用检索提供了强大的区分信号。",
+          "abstractZh": "普通法系中的法律引用不仅依赖于事实相似性，还取决于援引先例所依据的法律原则。然而，现有的法律引用检索基准使用案件事实、引用上下文或完整判决作为输入，其中主导法律原则往往缺失或仅隐含表达并与更广泛的上下文纠缠在一起。因此，模型可能检索到事实相似但学说上不相关的先例。这一限制在新加坡尤为严重，因为其法律体系独立发展：只有国内先例具有约束力，而外国权威仅作为说服性参考。因此，我们提出了一种新的检索范式，该范式基于整合案件事实和明确法律原则的查询对引用案例进行排序，灵感来源于现实世界的法律推理工作流程。为支持这一范式，我们引入了SG-LegalCite数据集，该数据集包含从2000年至2025年的8,523份新加坡最高法院判决中提取的100,890个案件-原则对。在11个基线模型上的实验证明了我们原则增强检索范式的有效性，表明明确的法律原则为法律引用检索提供了强大的判别信号。",
           "pdfUrl": "https://arxiv.org/pdf/2605.21057v1"
         }
       ]
@@ -2875,22 +2966,22 @@
             "Daniel Hershcovich"
           ],
           "abstractEn": "Legal proposition generation is central to legal reasoning and doctrinal scholarship, yet remain under-examined in Legal NLP. This paper investigates the automatic generation and evaluation of legal propositions from decisions of the Court of Justice of the European Union using large language models (LLMs). We introduce LP-Eval, a three-step evaluation rubric co-designed with legal experts that decomposes legal proposition quality into formal validity and substantive dimensions. Using this rubric, we release a dataset of two experts' annotations for 100 LLM-generated legal propositions. Our results show that LLMs can generate predominantly well-formed and high-quality propositions, while expert evaluations reveal higher quality for propositions derived from well established cases than from recent ones. We further examine LLMs as evaluators and find that rubric-guided LLM judgments align more closely with expert assessments than direct overall scoring, but remain insensitive to finer-grained distinctions captured by human experts.",
-          "abstractZh": "法律命题生成是法律推理和理论研究的核心，但在法律自然语言处理中仍未得到充分研究。本文探讨了利用大型语言模型从欧盟法院判决中自动生成和评估法律命题的方法。我们引入了LP-Eval，这是一个与法律专家共同设计的三步评估标准，将法律命题质量分解为形式有效性和实质性维度。利用这一标准，我们发布了一个包含两位专家对100个LLM生成的法律命题的注释数据集。我们的结果表明，LLM能够生成主要结构良好且高质量的命题，而专家评估显示，基于成熟案例的命题质量高于基于近期案例的命题。我们进一步考察了LLM作为评估者的表现，发现基于评分标准的LLM评估比直接整体评分更接近专家评估，但对人类专家捕捉到的更细微差别仍不敏感。",
+          "abstractZh": "法律命题生成是法律推理和理论研究的核心，但在法律自然语言处理中仍未得到充分研究。本文探讨了利用大型语言模型从欧盟法院判决中自动生成和评估法律命题的方法。我们引入了LP-Eval，这是一个与法律专家共同设计的三步评估标准，将法律命题质量分解为形式有效性和实质性维度。利用这一标准，我们发布了一个包含两位专家对100个LLM生成的法律命题的注释数据集。我们的结果表明，LLM能够生成主要结构良好且高质量的法律命题，而专家评估显示，基于成熟案例的法律命题质量高于基于近期案例的法律命题。我们进一步考察了LLM作为评估者的表现，发现基于评分标准的LLM评估与专家评估的一致性高于直接整体评分，但对人类专家捕捉到的更细微差别仍不敏感。",
           "pdfUrl": "https://arxiv.org/pdf/2605.19815v1"
         },
         {
           "date": "2026-05-19",
           "titleEn": "Chunking German Legal Code",
           "titleZh": "德国法律文本的分块处理",
-          "url": "https://arxiv.org/abs/2605.19806v1",
+          "url": "https://arxiv.org/abs/2605.19806v2",
           "authors": [
             "Max Prior",
             "Natalia Milanova",
             "Andreas Schultz"
           ],
           "abstractEn": "This paper investigates chunking strategies for retrieval-augmented generation on German statutory law, using the German Civil Code as a structured benchmark corpus. We implement and compare a range of segmentation approaches, including structural units (sections, subsections, sentences, propositions), fixed-size windows, contextual chunking, semantic clustering, Lumber-style chunking, and RAPTOR-based hierarchical retrieval. All methods are evaluated on a legal question-answering dataset with section-level gold labels, measuring recall, query latency, index build time, and storage requirements. Results show that chunking strategies aligned with the inherent legal structure - particularly section and subsection - based retrieval-achieve the highest recall, while more complex approaches that override this structure perform worse. These simpler methods also offer favorable computational efficiency compared to LLM-intensive techniques such as contextual chunking, RAPTOR, and Lumber. The findings highlight a key trade-off between semantic enrichment and operational cost, and demonstrate that preserving domain-specific structure is critical for effective legal information retrieval.",
-          "abstractZh": "本文研究了针对德国成文法进行检索增强生成的分块策略，以《德国民法典》作为结构化基准语料库。我们实施并比较了一系列分割方法，包括结构单元（章节、小节、句子、命题）、固定大小窗口、上下文分块、语义聚类、Lumber风格分块以及基于RAPTOR的层次检索。所有方法均在具有章节级黄金标签的法律问答数据集上进行评估，测量召回率、查询延迟、索引构建时间和存储需求。结果表明，与法律固有结构对齐的分块策略——特别是基于章节和小节的检索——实现了最高的召回率，而覆盖此结构的更复杂方法表现较差。与上下文分块、RAPTOR和Lumber等依赖大语言模型的技术相比，这些更简单的方法还提供了有利的计算效率。研究结果凸显了语义丰富性与操作成本之间的关键权衡，并证明保留领域特定结构对于有效的法律信息检索至关重要。",
-          "pdfUrl": "https://arxiv.org/pdf/2605.19806v1"
+          "abstractZh": "本文研究了针对德国成文法进行检索增强生成的分块策略，以《德国民法典》作为结构化基准语料库。我们实施并比较了一系列分割方法，包括结构单元（章节、小节、句子、命题）、固定大小窗口、上下文分块、语义聚类、Lumber风格分块以及基于RAPTOR的层次检索。所有方法均在具有章节级黄金标签的法律问答数据集上进行评估，测量召回率、查询延迟、索引构建时间和存储需求。结果表明，与法律固有结构对齐的分块策略——特别是基于章节和小节的检索——实现了最高的召回率，而覆盖此结构的更复杂方法表现较差。与上下文分块、RAPTOR和Lumber等依赖大语言模型的技术相比，这些更简单的方法还提供了有利的计算效率。研究结果凸显了语义丰富性与操作成本之间的关键权衡，并表明保留领域特定结构对于有效的法律信息检索至关重要。",
+          "pdfUrl": "https://arxiv.org/pdf/2605.19806v2"
         }
       ]
     },
