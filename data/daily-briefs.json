@@ -1,15 +1,106 @@
 {
-  "generatedAt": "2026-06-27T03:18:50.139Z",
+  "generatedAt": "2026-06-28T03:21:13.690Z",
   "range": {
     "start": "2026-01-01",
-    "end": "2026-06-27"
+    "end": "2026-06-28"
   },
   "totals": {
-    "news": 1391,
+    "news": 1396,
     "research": 140,
-    "days": 133
+    "days": 134
   },
   "briefs": [
+    {
+      "date": "2026-06-27",
+      "news": [
+        {
+          "date": "2026-06-27",
+          "platform": "LegalTech Monitor",
+          "titleEn": "DOJ Charges 15 in Direct Action Minnesota Case With Conspiracy, Threats, and Assault on Federal Officers",
+          "titleZh": "美国司法部指控明尼苏达直接行动组织15人共谋、威胁及袭击联邦官员",
+          "url": "https://www.legaltechmonitor.com/2026/06/doj-charges-15-in-direct-action-minnesota-case-with-conspiracy-threats-and-assault-on-federal-officers",
+          "summaryZh": "美国司法部对明尼苏达直接行动组织的15名成员及关联人员提起联邦诉讼，指控其共谋妨碍联邦官员、跨州跟踪与威胁、煽动暴力、袭击联邦官员及破坏政府财产。案件在明尼苏达联邦地区法院审理，多被告起诉带来程序复杂性，包括拘留争议、分离动议、证据开示管理、在线通信可采性争议及涉及言论、结社和抗议活动的宪法辩论。此案是观察联邦检察官如何将抗议相关行为定性为有组织犯罪的重要案例。共谋和煽动暴力指控使政府可广泛呈现群体策划、通信和意识形态证据，而辩护方将重点质疑意图、因果关系及受保护倡导与犯罪行为的界限。联邦官员指控尤为关键，涉及袭击或威胁联邦人员的案件通常受到司法部高层关注，影响指控策略、保释辩论和量刑建议。跨州跟踪或威胁指控还扩大了数字证据、元数据审查和管辖权问题的范围。对于非刑事领域的法律专业人士，此案提示内部法律顾问和合规团队注意在线组织、加密通信和公开言论在政府指控共谋时可能受到的审查。有政治活跃员工或志愿者的组织应重新审视公司系统使用、记录保留和威胁升级报告政策。关注民事骚乱、抗议应对或政府执法的诉讼律师应留意法院如何处理合并审理、第一修正案辩护和证据争议。鉴于案件的政治敏感性和指控行为的广泛性，此案可能成为未来涉及活动网络、公职人员威胁及抗议相关刑事责任边界的参考案例。",
+          "bodyHtml": "",
+          "bodyText": "",
+          "contentAuthor": "brunoqueirozdocketalarm-com",
+          "sourceUrl": "https://www.docketalarm.com/blog/2026/06/doj-charges-15-in-direct-action.html",
+          "sourceAuthor": "brunoqueirozdocketalarm-com",
+          "sourceAccess": "paywalled",
+          "relevance": "medium",
+          "relevanceReason": "文章主要报道一起涉及抗议活动的联邦刑事案件，但内容从法律实践角度分析了案件对刑事辩护、合规和诉讼策略的影响，与法律技术间接相关，而非直接聚焦法律AI或法律科技产品。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-06-27",
+          "platform": "LegalTech Daily",
+          "titleEn": "Supreme Court Reverses and Remands in No. 24-699: What the Bare Judgment Signals",
+          "titleZh": "最高法院在第24-699号案件中裁定撤销原判并发回重审：简短判决传递的信号",
+          "url": "https://www.legaltechdaily.com/2026/06/supreme-court-reverses-and-remands-in-no-24-699-what-the-bare-judgment-signals",
+          "summaryZh": "最高法院以“判决撤销，案件发回重审”的简短命令处理了第24-699号案件，目前未提供完整解释意见。撤销意味着最高法院认定下级法院的判决存在实质性错误，发回则要求下级法院根据最高法院的裁定进行后续程序。由于缺乏意见文本，从业者应谨慎评估裁决范围，但实际效果明确：原胜诉方失去判决，下级法院需重新审理。该裁定可能反映多种结果，如纠正法律标准、推翻对法规或宪法条款的解释，或要求参照近期判决重新考虑。若为签署意见，可能重塑法律原则；若为简易处理，影响范围较窄但仍具重要性。从业者需关注发回后的审理范围，包括争议焦点、事实调查权限及最高法院裁定的约束力。此案提醒，即使简短命令也可能产生重大影响，上诉律师应重视授权范围分析和问题保留，初审律师则需准备案件可能以新规则重启。",
+          "bodyHtml": "<p>In a terse entry that simply states &ldquo;Judgment REVERSED and case REMANDED,&rdquo; the Supreme Court has disposed of docket No. 24-699 without, at least from the information currently available, a full explanatory opinion in the case details provided. Even so, that kind of action from the Court is significant for litigants and appellate practitioners because it immediately alters the posture of the case and signals that the lower court&rsquo;s judgment cannot stand.</p>\n<p>At the most basic level, reversal means the Supreme Court concluded the decision below was wrong in some material respect. Remand means the case returns to the lower court for further proceedings consistent with the Supreme Court&rsquo;s disposition. Without the accompanying opinion text, practitioners should be cautious about overstating the breadth of the ruling. The practical effect, however, is clear: the prevailing party below has lost that judgment, and the lower court must revisit the matter.</p>\n<p>For lawyers tracking the case, the key next step is to determine <em>why</em> the Court reversed. In Supreme Court practice, a reversal and remand can reflect a range of outcomes: correction of a legal standard, rejection of the lower court&rsquo;s interpretation of a statute or constitutional provision, or direction to reconsider in light of another recent decision. Each possibility carries different implications for precedent. If the Court issued a signed opinion, that reasoning may immediately reshape doctrine. If this was instead a summary disposition, the lesson may be narrower but still important, especially for courts confronting similar errors.</p>\n<p>From a practice standpoint, the remand matters almost as much as the reversal. Counsel must be prepared to litigate the scope of the mandate. On remand, parties typically dispute what issues remain open, whether additional fact development is permitted, and how broadly the Supreme Court&rsquo;s ruling constrains the lower court. Preserving and framing those arguments early can materially affect the outcome of the second round of proceedings.</p>\n<p>This disposition is also a reminder that even short Supreme Court orders can carry outsized consequences. For appellate specialists, it underscores the importance of mandate analysis and issue preservation. For trial lawyers, it means a case that seemed finished may now return with new legal ground rules.</p>\n<p>As more materials become available, practitioners will want to study the Court&rsquo;s reasoning closely to assess whether the decision merely corrects case-specific error or announces a rule with broader precedential force.</p>\n<p><a href=\"https://www.docketalarm.com/cases/Supreme_Court/24-699/Judgment_REVERSED_and_case_REMANDED/\">View full case on Docket Alarm</a></p>",
+          "bodyText": "In a terse entry that simply states “Judgment REVERSED and case REMANDED,” the Supreme Court has disposed of docket No. 24-699 without, at least from the information currently available, a full explanatory opinion in the case details provided. Even so, that kind of action from the Court is significant for litigants and appellate practitioners because it immediately alters the posture of the case and signals that the lower court’s judgment cannot stand. At the most basic level, reversal means the Supreme Court concluded the decision below was wrong in some material respect. Remand means the case returns to the lower court for further proceedings consistent with the Supreme Court’s disposition. Without the accompanying opinion text, practitioners should be cautious about overstating the breadth of the ruling. The practical effect, however, is clear: the prevailing party below has lost that judgment, and the lower court must revisit the matter. For lawyers tracking the case, the key next step is to determine why the Court reversed. In Supreme Court practice, a reversal and remand can reflect a range of outcomes: correction of a legal standard, rejection of the lower court’s interpretation of a statute or constitutional provision, or direction to reconsider in light of another recent decision. Each possibility carries different implications for precedent. If the Court issued a signed opinion, that reasoning may immediately reshape doctrine. If this was instead a summary disposition, the lesson may be narrower but still important, especially for courts confronting similar errors. From a practice standpoint, the remand matters almost as much as the reversal. Counsel must be prepared to litigate the scope of the mandate. On remand, parties typically dispute what issues remain open, whether additional fact development is permitted, and how broadly the Supreme Court’s ruling constrains the lower court. Preserving and framing those arguments early can materially affect the outcome of the second round of proceedings. This disposition is also a reminder that even short Supreme Court orders can carry outsized consequences. For appellate specialists, it underscores the importance of mandate analysis and issue preservation. For trial lawyers, it means a case that seemed finished may now return with new legal ground rules. As more materials become available, practitioners will want to study the Court’s reasoning closely to assess whether the decision merely corrects case-specific error or announces a rule with broader precedential force. View full case on Docket Alarm",
+          "contentAuthor": "brunoqueirozdocketalarm-com",
+          "sourceUrl": "https://www.docketalarm.com/blog/2026/06/supreme-court-reverses-and-remands-in_0227578242.html",
+          "sourceAuthor": "brunoqueirozdocketalarm-com",
+          "sourceAccess": "paywalled",
+          "relevance": "low",
+          "relevanceReason": "文章主要报道最高法院的司法程序性裁定，未涉及法律AI或法律技术内容，仅对法律从业者有程序性参考价值。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-06-27",
+          "platform": "LegalTech Monitor",
+          "titleEn": "New PGR Targets Ugreen Patent at the PTAB",
+          "titleZh": "新PGR申请在PTAB挑战Ugreen专利",
+          "url": "https://www.legaltechmonitor.com/2026/06/new-pgr-targets-ugreen-patent-at-the-ptab",
+          "summaryZh": "2026年6月25日，美国专利审判与上诉委员会（PTAB）收到一份新的授权后复审（PGR）申请，案件编号为PGR2026-00062，涉及America Ugreen Limited。目前公开的案卷仅显示Ugreen为一方当事人，专利专业人士需关注后续提交的申请书、强制通知及专利权人答复，以明确完整的当事人构成、被挑战权利要求及争议的商业背景。\n\n该PGR申请的关键程序性意义在于：PGR仅适用于《美国发明法案》先申请制下的专利，且允许挑战者提出比双方复审更广泛的无效理由，包括第101条的可授权客体、第112条的书面描述和可实施性以及明确性等问题。待申请书公开后，将明确具体专利号、被挑战权利要求及所依据的法定理由。若申请侧重第112条理论，可揭示挑战者如何构建公开及权利要求清晰性攻击；若包含第101条论点，则需关注PTAB在近年机构趋势下如何处理专利适格性挑战。该程序值得追踪，因其可能预示当事人的整体执法或防御策略，且PGR禁反言效力广泛，机构决定将为混合理由申请提供指引。",
+          "bodyHtml": "",
+          "bodyText": "",
+          "contentAuthor": "brunoqueirozdocketalarm-com",
+          "sourceUrl": "https://www.docketalarm.com/blog/2026/06/new-pgr-targets-ugreen-patent-at-ptab.html",
+          "sourceAuthor": "brunoqueirozdocketalarm-com",
+          "sourceAccess": "paywalled",
+          "relevance": "medium",
+          "relevanceReason": "文章主要报道PTAB的PGR程序进展，涉及专利无效挑战，与法律AI或法律技术无直接关联，但属于专利诉讼和行政程序范畴，对法律从业者有一定参考价值。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-06-27",
+          "platform": "LegalTech Monitor",
+          "titleEn": "In-House Counsel Say They Want More From Outside Counsel But Don’t Demand It",
+          "titleZh": "内部法律顾问希望外部律所提供更多服务，但并未提出要求",
+          "url": "https://www.legaltechmonitor.com/2026/06/in-house-counsel-say-they-want-more-from-outside-counsel-but-dont-demand-it",
+          "summaryZh": "汤森路透最新调查证实了一个长期存在的现象：内部法律顾问希望外部律所更好地利用技术和创新，但似乎并未提出明确要求。作者在Above the Law上就这一调查发表看法，分析了内部法律顾问为何不更加强硬。TechLaw Crossroads是一个直言不讳的博客，主要由作者撰写。作者曾是大律所合伙人，执业近30年，主要从事大规模侵权、数据泄露、隐私和网络保险领域的诉讼，也为Above the Law撰稿，并是LegalTech Week的讨论小组成员。",
+          "bodyHtml": "",
+          "bodyText": "New Thomson Reuters survey confirms what has long been the case. In-house counsel want better use of technology and innovation from their outside counsel, but don’t seem to be demanding it. Here’s my thoughts for Above the Law on the survey and a look at why in-house counsel aren’t more demanding. TechLaw Crossroads is a no-bullshit blog written mainly by me. As Harold Ross, the New Yorker founding Editor said, “Everybody knows the news. Now tell us something about it.” That’s my goal. I am a former lawyer who practiced as a partner with a large law firm for the better part of 30 years. I was a trial lawyer, mostly in mass tort and, later, in data breach, privacy, and cyber insurance areas. I also write for Above the Law. I am a panelist on LegalTech Week, a weekly roundtable of legal tech journalists where we discuss the most significant legal tech stories of the week. Je ne regrette rien",
+          "contentAuthor": "Stephen Embry",
+          "sourceUrl": "https://www.techlawcrossroads.com/2026/06/in-house-counsel-say-they-want-more-from-outside-counsel-but-dont-demand-it",
+          "sourceAuthor": "Stephen Embry",
+          "sourceAccess": "unknown",
+          "relevance": "medium",
+          "relevanceReason": "文章涉及法律行业对技术和创新的需求，但核心是内部法律顾问与外部律所的关系，而非直接聚焦法律AI或法律科技产品。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-06-27",
+          "platform": "National Law Review",
+          "titleEn": "Locked Out of the Data: A Modern Freeze-Out with AI",
+          "titleZh": "数据封锁：AI时代的现代排挤手段",
+          "url": "https://natlawreview.com/article/locked-out-data-modern-freeze-out-ai",
+          "summaryZh": "技术正迅速改变商业伙伴间的纠纷模式。AI工具（如CRM数据、财务仪表盘、销售跟踪、预测分析等）在日常运营中日益普及，但若仅由一方控制这些系统，另一方可能被排除在关键信息之外，导致决策不透明。这种技术不平衡可能以更隐蔽的方式剥夺合伙人的实质参与权，例如只有控制方能够解读AI报告，或数据存储于对方无法访问的平台。尽管并非所有技术差异都构成不当行为，但若出现信息获取受限、决策被架空等警示信号，应引起重视。建议通过协议确保数据访问权不可协商，避免单一守门人系统。若对方拒绝妥协，可能预示更深层次的问题。",
+          "bodyHtml": "",
+          "bodyText": "Find Your Next Job ! Technology is changing everything around us rapidly, including disputes between business partners. Common themes triggering business divorce litigation include removing a shareholder from management, cutting off access to information, and excluding them from decisions. All of these things are being made easier to do with AI. AI can be a critical tool to help operate certain businesses. CRM data, financial dashboards, sales tracking, forecasting, predictive analytics and other AI tools are becoming more commonplace – and necessary - every day. But when one partner starts implementing AI tools to run operations, the other partner can be left behind – or at least feel that way. In this scenario, only one partner controls the system and has access to key information. Decisions are made without transparency, putting the less tech-savvy owner effectively “in the dark.” The person in charge of technology can use this control to effectively strip his partner of meaningful participation. Exclusion from business records and control can now take new, more subtle forms. “It’s not my fault I’m the only one who can interpret the AI generated reports. You should have learned how to use it, too.” Or, data can now be stored in platforms that one partner has no idea how to access – and may not even know exists. If your access is restricted in this way, it is vastly more difficult to evaluate performance, challenge decisions, or even protect your investment. Not every technology imbalance is wrongful, of course. And much of it is inevitable, as partners almost always have different skill sets. But red flags include: Don’t be afraid of technology – even AI. Some businesses will not survive without it. But if the technology imbalance is turning into an uncomfortable information imbalance, do something about it. An attorney with expertise in this field can help you negotiate into your business relationship an agreement that access to complete data and information is non-negotiable, and avoid “single gatekeeper” systems. If your business partner will not compromise on these issues, it may portend a larger issue. More Upcoming Events Sign Up for any (or all) of our 25+ Newsletters",
+          "contentAuthor": "",
+          "sourceUrl": "",
+          "sourceAuthor": "",
+          "sourceAccess": "unknown",
+          "relevance": "high",
+          "relevanceReason": "文章聚焦AI工具在商业伙伴纠纷中的应用，讨论技术不平衡如何导致信息封锁和决策排除，直接涉及法律争议中的AI相关问题。",
+          "isAggregatedSource": false
+        }
+      ],
+      "research": []
+    },
     {
       "date": "2026-06-26",
       "news": [
@@ -1201,7 +1292,7 @@
             "Andrei Kucharavy"
           ],
           "abstractEn": "While the validity of LLMs' use in the legal context remains subject to ethical and legal debate, legal professionals are already experimenting with personal LLMs, if only for translation and reformulation. However, even such a seemingly innocuous use can introduce biases through case processing speed if LLM assistants selectively refuse assistance on certain topics. To better anticipate such biases, we investigate several modern small LLMs that are most likely to be used as on-device assistants, to assess the impact of overrefusal on legal prompts.   Surprisingly, we find that authority-style prefixes (``you are acting as an assistant of the national supreme court'', ``[...] defense lawyer'') systematically increase refusal rates by 2--20x over the no-prefix baseline, while a known role-play jailbreak prefix shows mixed effects, sharply increasing refusals in some models and barely shifting them in others. The finding suggests that small on-prem deployable LLMs are unstable under contextual framings that a real institutional user might naturally introduce, and further investigation is essential to minimize opportunities for bias.",
-          "abstractZh": "尽管LLM在法律语境中的有效性仍受伦理和法律争议，但法律专业人士已经开始尝试使用个人LLM，即使仅用于翻译和改写。然而，如果LLM助手选择性地拒绝某些主题的协助，即使是这种看似无害的使用也可能通过案件处理速度引入偏见。为了更好地预测此类偏见，我们研究了最可能用作设备端助手的几种现代小型LLM，以评估过度拒绝对法律提示的影响。令人惊讶的是，我们发现权威风格的前缀（“你正在担任国家最高法院的助理”，“[...]辩护律师”）系统地使拒绝率比无前缀基线增加2-20倍，而已知的角色扮演越狱前缀显示出混合效果，在某些模型中急剧增加拒绝，而在其他模型中几乎没有变化。这一发现表明，小型本地可部署LLM在真实机构用户可能自然引入的上下文框架下不稳定，因此需要进一步研究以最小化偏见的机会。",
+          "abstractZh": "尽管LLM在法律语境中的有效性仍受伦理和法律争议，但法律专业人士已经开始尝试使用个人LLM，即使仅用于翻译和改写。然而，如果LLM助手选择性地拒绝某些主题的协助，即使是这种看似无害的使用也可能通过案件处理速度引入偏见。为了更好地预测此类偏见，我们研究了几个最可能用作设备端助手的小型现代LLM，以评估过度拒绝对法律提示的影响。令人惊讶的是，我们发现权威风格的前缀（“你正在担任国家最高法院的助手”、“[...]辩护律师”）系统地使拒绝率比无前缀基线增加2-20倍，而已知的角色扮演越狱前缀则显示出混合效果，在某些模型中急剧增加拒绝，而在其他模型中几乎没有变化。这一发现表明，小型可本地部署的LLM在真实机构用户可能自然引入的上下文框架下不稳定，因此需要进一步研究以最小化偏见的机会。",
           "pdfUrl": "https://arxiv.org/pdf/2606.24585v1"
         }
       ]
@@ -1714,7 +1805,7 @@
             "Torben Leowald"
           ],
           "abstractEn": "This article develops an architecture that creates a formally verifiable reward signal to train legal AI, adapting the LLM proposes, verifier disposes paradigm from mathematical AI to the distinctive demands of law. We present an architecture comprising LLM-driven autoformalization into a formal legal calculus extending Catala, a verification kernel, and explanation generation grounded in formal proof traces. For the computational components of law, the architecture provides provable correctness. For open-textured legal analysis, it provides structural guarantees: every required stage of the legal argument is addressed, argumentation is exercised at the correct stages and not omitted, and the deductive links between steps are valid. We demonstrate the architecture on procedural deadline calculations in German law, Commerce Clause analysis in U.S. constitutional law, and cross-jurisdictional sanction proportionality. We further show that the same architecture has a structural advantage for legal AI training: a deterministic external verifier supplies verifiable outcomes for legal problems and thereby closes the traditional reinforcement-learning loop gap in law.",
-          "abstractZh": "本文开发了一种架构，该架构创建了一个可形式化验证的奖励信号来训练法律AI，将数学AI中的“LLM提议，验证器处置”范式适应于法律的独特需求。我们提出了一种架构，包括由LLM驱动的自动形式化，将其转化为扩展了Catala的形式化法律演算，一个验证内核，以及基于形式化证明轨迹的解释生成。对于法律的计算性组成部分，该架构提供了可证明的正确性。对于开放结构的法律分析，它提供了结构性保证：法律论证的每个必要阶段都得到处理，论证在正确的阶段进行且未被省略，步骤之间的演绎联系是有效的。我们在德国法律中的程序性截止日期计算、美国宪法中的商业条款分析以及跨司法管辖区的制裁比例性上展示了该架构。我们进一步表明，相同的架构在法律AI训练中具有结构性优势：一个确定性的外部验证器为法律问题提供可验证的结果，从而弥合了法律中传统强化学习循环的差距。",
+          "abstractZh": "本文开发了一种架构，该架构创建了一个可形式化验证的奖励信号来训练法律AI，将数学AI中的“LLM提议，验证器处置”范式适应于法律的独特需求。我们提出了一种架构，包括由LLM驱动的自动形式化，转化为扩展Catala的形式化法律演算，一个验证内核，以及基于形式化证明轨迹的解释生成。对于法律的计算性组成部分，该架构提供了可证明的正确性。对于开放结构的法律分析，它提供了结构性保证：法律论证的每个必要阶段都得到处理，论证在正确的阶段进行且未被省略，步骤之间的演绎联系是有效的。我们在德国法律的程序性截止日期计算、美国宪法中的商业条款分析以及跨司法管辖区的制裁比例性上展示了该架构。我们进一步表明，相同的架构在法律AI训练中具有结构性优势：一个确定性的外部验证器为法律问题提供可验证的结果，从而弥合了法律中传统强化学习循环的差距。",
           "pdfUrl": "https://arxiv.org/pdf/2606.23913v1"
         }
       ]
@@ -2052,7 +2143,7 @@
             "William Michelsen"
           ],
           "abstractEn": "Existing benchmarks for context-aware chunk retrieval rely heavily on repurposed task items and rarely demonstrate that their queries genuinely require context, making score interpretation difficult. We focus on a specific kind of context dependence, legal cross-references, and introduce CRAwLeR, an operationalization of a narrow, well-defined phenomenon: cross-reference-aware context utilization for chunk retrieval in legal documents. Our pipeline detects legal cross-references, identifies query candidates, links target chunks to their relevant context, generates context-demanding queries with an LLM, and filters them through both an adversarial non-contextual baseline and an assurance prompt. We release CRAwLeR-DK and CRAwLeR-PL, Danish and Polish datasets built with this pipeline, alongside a strong Anthropic-style contextualization baseline. Manual analysis finds that approximately 80% of randomly sampled queries genuinely target the labelled target chunk and require context, with failures following systematic and named patterns. The benchmarks are hard but not solved: best Recall@10 reaches 55% on CRAwLeR-DK and 59% on CRAwLeR-PL. Ablation and failure analysis attribute the remaining gap to the contextualising LLM, not the retriever. Even when the target is retrieved in the top ten, labelled context chunks routinely outrank it. We are the first dataset for context-aware chunk retrieval to carefully consider construct validity and inspect our results in the light of such a narrow, well-defined phenomenon.",
-          "abstractZh": "现有的上下文感知分块检索基准在很大程度上依赖于重新利用的任务项，很少证明其查询真正需要上下文，这使得分数解释变得困难。我们专注于一种特定类型的上下文依赖——法律交叉引用，并引入CRAwLeR，这是一种对狭窄、定义明确的现象的操作化：法律文档中分块检索的跨引用感知上下文利用。我们的流程检测法律交叉引用，识别查询候选，将目标块链接到其相关上下文，使用LLM生成需要上下文的查询，并通过对抗性非上下文基线和保证提示对其进行过滤。我们发布了CRAwLeR-DK和CRAwLeR-PL，即使用此流程构建的丹麦语和波兰语数据集，以及一个强大的Anthropic风格上下文化基线。人工分析发现，大约80%的随机抽样查询真正针对标记的目标块并需要上下文，失败遵循系统性和命名模式。基准测试困难但尚未解决：最佳Recall@10在CRAwLeR-DK上达到55%，在CRAwLeR-PL上达到59%。消融和失败分析将剩余差距归因于上下文化LLM，而非检索器。即使目标被检索到前十名，标记的上下文块通常排名更高。我们是第一个仔细考虑结构效度并根据这种狭窄、定义明确的现象检查结果的上下文感知分块检索数据集。",
+          "abstractZh": "现有的上下文感知分块检索基准在很大程度上依赖于重新利用的任务项，很少证明其查询真正需要上下文，这使得分数解释变得困难。我们专注于一种特定类型的上下文依赖性——法律交叉引用，并引入CRAwLeR，这是一种对狭窄、定义明确的现象的操作化：法律文档中分块检索的跨引用感知上下文利用。我们的流程检测法律交叉引用，识别查询候选，将目标分块链接到其相关上下文，使用LLM生成需要上下文的查询，并通过对抗性非上下文基线和保证提示对其进行过滤。我们发布了CRAwLeR-DK和CRAwLeR-PL，即使用此流程构建的丹麦语和波兰语数据集，以及一个强大的Anthropic风格上下文化基线。人工分析发现，大约80%的随机抽样查询真正针对标记的目标分块并需要上下文，失败遵循系统性和命名模式。这些基准很难但尚未解决：最佳Recall@10在CRAwLeR-DK上达到55%，在CRAwLeR-PL上达到59%。消融和失败分析将剩余差距归因于上下文化的LLM，而非检索器。即使目标被检索到前十名中，标记的上下文分块通常排名更高。我们是第一个仔细考虑结构效度并根据这种狭窄、定义明确的现象检查结果的上下文感知分块检索数据集。",
           "pdfUrl": "https://arxiv.org/pdf/2606.21676v1"
         },
         {
@@ -2066,7 +2157,7 @@
             "Peter Henderson"
           ],
           "abstractEn": "Attorneys, judges, and pro se filers increasingly use AI to draft legal documents, yet these tools frequently fabricate citations. Despite predictions that newer models would hallucinate less or that court sanctions would deter negligent filers, we found over 1,000 filings containing fabricated citations -- with this number growing year-over-year. This study evaluates whether AI-based systems can mitigate these errors by automatically detecting hallucinations. We propose a taxonomy of legal citation hallucinations grounded in actual court filings and introduce a dataset of 1,300 brief excerpts containing injected errors. Benchmarking five models in agentic and non-agentic settings reveals that while the latest iterations perform better -- GPT-5 achieves 82.8% recall and a 60.5% F1 score in an agentic framework -- all models struggle with subtle error categories. Agentic verification remains resource-intensive, with GPT-5 averaging 16.9 steps per excerpt. Furthermore, restricted information access limits the efficacy of even the best agents. This gap creates policy concerns, as it disadvantages both AI systems and litigants who lack subscriptions to commercial legal databases. Together, our dataset, tools, and policy recommendations provide a foundation for building and auditing reliable legal citation checking tools.",
-          "abstractZh": "律师、法官和自诉人越来越多地使用人工智能起草法律文件，但这些工具经常捏造引文。尽管有预测认为较新的模型会产生更少的幻觉，或者法院制裁会阻止疏忽的提交者，但我们发现了超过1000份包含捏造引文的文件——而且这一数字逐年增长。本研究评估了基于AI的系统能否通过自动检测幻觉来减少这些错误。我们提出了一个基于实际法庭文件的法律引文幻觉分类法，并引入了一个包含1300个注入错误的摘要片段数据集。在代理和非代理设置中对五个模型进行基准测试表明，虽然最新迭代表现更好——GPT-5在代理框架中实现了82.8%的召回率和60.5%的F1分数——但所有模型在细微错误类别上仍存在困难。代理验证仍然资源密集，GPT-5平均每个片段需要16.9步。此外，受限的信息访问限制了即使是最佳代理的有效性。这一差距引发了政策担忧，因为它使AI系统和缺乏商业法律数据库订阅的诉讼当事人处于不利地位。我们的数据集、工具和政策建议共同为构建和审计可靠的法律引文核查工具奠定了基础。",
+          "abstractZh": "律师、法官和自诉人越来越多地使用人工智能起草法律文件，但这些工具经常捏造引文。尽管有预测认为较新的模型会产生更少的幻觉，或者法院制裁会阻止疏忽的提交者，但我们发现了超过1000份包含捏造引文的文件——且这一数字逐年增长。本研究评估了基于AI的系统能否通过自动检测幻觉来减少这些错误。我们提出了一个基于实际法庭文件的法律引文幻觉分类法，并引入了一个包含1300个注入错误的摘要片段数据集。在代理和非代理设置中对五个模型进行基准测试显示，虽然最新迭代表现更好——GPT-5在代理框架中实现了82.8%的召回率和60.5%的F1分数——但所有模型在细微错误类别上仍存在困难。代理验证仍然资源密集，GPT-5平均每个片段需要16.9步。此外，受限的信息访问限制了即使是最佳代理的有效性。这一差距引发了政策担忧，因为它使AI系统和缺乏商业法律数据库订阅的诉讼当事人均处于不利地位。我们的数据集、工具和政策建议共同为构建和审计可靠的法律引文核查工具奠定了基础。",
           "pdfUrl": "https://arxiv.org/pdf/2606.21155v1"
         }
       ]
@@ -2461,7 +2552,7 @@
             "Saptarshi Ghosh"
           ],
           "abstractEn": "Large Language Models (LLMs) are increasingly being adopted in the legal domain. However, despite their strong performance, LLMs are prone to generating incorrect or hallucinated outputs, raising serious concerns about their reliability in high-stakes domains such as law. Detecting the correctness of responses of LLM-based systems is therefore a critical challenge. In this work, we explore the potential of leveraging internal artifacts of LLM to detect the correctness of their predictions in legal-domain classification tasks. We develop approaches that utilize features derived from these internal artifacts to build downstream classifiers capable of identifying incorrect LLM outputs. We evaluate our approach on two representative legal classification tasks: bail decision prediction and statute violation prediction. Our experimental results demonstrate that LLMs' internal artifacts are reliable indicators for detecting incorrect predictions in legal classification tasks, and can be applied to enhance the reliability of LLM-based classification systems.",
-          "abstractZh": "大型语言模型（LLMs）正越来越多地被应用于法律领域。然而，尽管其性能强大，LLMs容易产生错误或幻觉输出，这引发了对其在法律等高利害领域可靠性的严重担忧。因此，检测基于LLM系统响应的正确性是一个关键挑战。在这项工作中，我们探索了利用LLM内部构件来检测其在法律领域分类任务中预测正确性的潜力。我们开发了利用这些内部构件特征的方法，构建能够识别LLM错误输出的下游分类器。我们在两个具有代表性的法律分类任务上评估了我们的方法：保释决定预测和法规违反预测。我们的实验结果表明，LLM的内部构件是检测法律分类任务中错误预测的可靠指标，并且可以应用于增强基于LLM的分类系统的可靠性。",
+          "abstractZh": "大型语言模型（LLMs）正越来越多地被应用于法律领域。然而，尽管其性能强大，LLMs容易产生错误或幻觉输出，这引发了对其在法律等高利害领域可靠性的严重担忧。因此，检测基于LLM的系统响应的正确性是一个关键挑战。在这项工作中，我们探索了利用LLM的内部构件来检测其在法律领域分类任务中预测正确性的潜力。我们开发了利用这些内部构件特征的方法，构建能够识别错误LLM输出的下游分类器。我们在两个具有代表性的法律分类任务上评估了我们的方法：保释决定预测和法规违反预测。我们的实验结果表明，LLM的内部构件是检测法律分类任务中错误预测的可靠指标，并且可以应用于增强基于LLM的分类系统的可靠性。",
           "pdfUrl": "https://arxiv.org/pdf/2606.20929v1"
         }
       ]
@@ -2960,7 +3051,7 @@
             "Yun Song"
           ],
           "abstractEn": "Civil litigation is inherently a life-cycle process: what a lawyer drafts on day one constrains what unfolds at trial months later. Yet existing legal benchmarks evaluate isolated subtasks, and prior legal-agent simulators reinitialize each scenario from shared ground truth, leaving cross-stage causal dependencies unmodeled. We present LegalWorld, a life-cycle interactive environment that models Chinese civil litigation as a causally connected state chain of five stages (seven sub-scenarios), grounded in 75,309 paired Chinese civil judgments. We pair it with reusable infrastructure (local memory, global case memory, a Skill/Tool library) that keeps each dispute consistent across its full life cycle. Building on this environment, we construct LongJud-Bench to evaluate agent capability across all five connected stages. 18,992 ratings from 217 legal-background evaluators confirm that LegalWorld trajectories are procedurally faithful and role-consistent; and a capability-level cross-model evaluation reveals sharp divergences that aggregate scores cannot expose, with no single backbone leading across consultation, drafting, and courtroom advocacy. Detailed resources will be released publicly.",
-          "abstractZh": "民事诉讼本质上是一个全生命周期过程：律师在第一天起草的文件约束了数月后庭审的走向。然而，现有的法律基准评估的是孤立的子任务，而先前的法律智能体模拟器则从共享的真实情况重新初始化每个场景，忽略了跨阶段的因果依赖关系。我们提出了LegalWorld，这是一个全生命周期交互环境，它将中国民事诉讼建模为一个由五个阶段（七个子场景）组成的因果连接状态链，基于75,309对中国民事判决书。我们为其配备了可重用的基础设施（本地记忆、全局案例记忆、技能/工具库），使得每个纠纷在其整个生命周期中保持一致。在此环境基础上，我们构建了LongJud-Bench，用于评估智能体在所有五个连接阶段的能力。来自217名法律背景评估者的18,992份评分证实，LegalWorld的轨迹在程序上是忠实且角色一致的；而能力层面的跨模型评估揭示了聚合分数无法暴露的显著差异，没有单一骨干模型在咨询、起草和庭审辩护中均表现领先。详细资源将公开发布。",
+          "abstractZh": "民事诉讼本质上是一个全生命周期过程：律师在第一天起草的内容约束了数月后庭审的走向。然而，现有的法律基准评估的是孤立的子任务，而先前的法律智能体模拟器则从共享的真实情况重新初始化每个场景，从而忽略了跨阶段的因果依赖关系。我们提出了LegalWorld，这是一个全生命周期交互环境，它将中国民事诉讼建模为一个由五个阶段（七个子场景）组成的因果连接状态链，基于75,309对中国民事判决书。我们为其配备了可重用的基础设施（本地记忆、全局案例记忆、技能/工具库），使得每个纠纷在其整个生命周期中保持一致。在此环境基础上，我们构建了LongJud-Bench，用于评估智能体在所有五个连接阶段的能力。来自217名法律背景评估者的18,992份评分证实，LegalWorld的轨迹在程序上忠实且角色一致；而能力层面的跨模型评估揭示了聚合分数无法暴露的显著差异，没有单一骨干模型在咨询、起草和庭审辩护中均表现领先。详细资源将公开发布。",
           "pdfUrl": "https://arxiv.org/pdf/2606.18728v1"
         },
         {
@@ -2976,7 +3067,7 @@
             "Zih-Ching Chen"
           ],
           "abstractEn": "Large language models (LLMs) have shown impressive capabilities across diverse tasks, yet their performance on jurisdiction-specific legal reasoning remains underexplored. We present TW-LegalBench that utilizes Taiwanese legal system's rich official corpus open to the public to fill the gap in evaluating LLMs on Taiwanese law, among common-law benchmarks that focus on English sources and civil-law benchmarks focusing on sources of Simplified Chinese. TW-LegalBench comprises three task types: (1) over 16,000 multiple-choice questions (MCQs) across five years of official examinations in 18 professional domains; (2) 117 open-ended essay questions (OEQs) from examinations for legal professionals with official scoring rubrics; and (3) more than 14,000 legal judgment prediction (LJP) instances covering hundreds of crime categories. We evaluate 13 LLMs using accuracy for MCQs, a decomposed LLM-as-Judge framework based on the scoring rubric points for OEQs, and metrics for sentencing accuracy and statute citation for LJP. Our results reveal that top-performing models exceed the passing threshold for qualified lawyers (passing rate: 11%) but fall short of that for judges and prosecutors (passing rate: 1~2%). For LJP, while models demonstrate reasonable verdict type accuracy and sentence prediction capability, they struggle to cite exact legal articles. These findings highlight that reliable legal text generation remains challenging for LLMs, even though their performance on qualification examinations approaches human level.",
-          "abstractZh": "大型语言模型（LLMs）在多种任务中展现出令人印象深刻的能力，但其在特定司法管辖区法律推理上的表现仍未被充分探索。我们提出TW-LegalBench，利用台湾法律体系向公众开放的丰富官方语料库，填补了在普通法基准（聚焦英文来源）和大陆法基准（聚焦简体中文来源）中评估LLMs在台湾法律上表现的空白。TW-LegalBench包含三种任务类型：（1）涵盖18个专业领域五年官方考试的超过16,000道选择题（MCQs）；（2）来自法律专业人员考试的117道开放式问答题（OEQs），附有官方评分标准；（3）超过14,000个法律判决预测（LJP）实例，涵盖数百种犯罪类别。我们使用准确率评估MCQs，基于评分标准点的分解式LLM-as-Judge框架评估OEQs，以及针对LJP的判决准确性和法条引用指标评估了13个LLMs。结果显示，表现最佳的模型超过了合格律师的通过门槛（通过率：11%），但未达到法官和检察官的通过门槛（通过率：1~2%）。对于LJP，尽管模型展现出合理的判决类型准确性和量刑预测能力，但在引用具体法律条文方面存在困难。这些发现表明，尽管LLMs在资格考试中的表现接近人类水平，但可靠的 legal 文本生成仍具挑战性。",
+          "abstractZh": "大型语言模型（LLMs）在多种任务中展现出令人印象深刻的能力，但它们在特定司法管辖区的法律推理方面的表现仍未得到充分探索。我们提出了TW-LegalBench，利用台湾法律系统丰富且向公众开放的官方语料库，来填补在评估LLMs对台湾法律理解方面的空白，而现有的普通法基准主要关注英文来源，大陆法基准则关注简体中文来源。TW-LegalBench包含三种任务类型：（1）超过16,000道来自18个专业领域五年官方考试的多项选择题（MCQs）；（2）117道来自法律专业人员考试的主观问答题（OEQs），附有官方评分标准；（3）超过14,000个法律判决预测（LJP）实例，涵盖数百种犯罪类别。我们评估了13个LLMs，使用准确率评估MCQs，基于评分标准点的分解式LLM-as-Judge框架评估OEQs，以及针对LJP的判决准确性和法条引用指标。我们的结果显示，表现最好的模型超过了合格律师的通过门槛（通过率：11%），但未达到法官和检察官的通过门槛（通过率：1~2%）。对于LJP，尽管模型展示了合理的判决类型准确性和量刑预测能力，但它们在引用确切法律条文方面存在困难。这些发现突显了，尽管LLMs在资格考试中的表现接近人类水平，但可靠的法律文本生成仍然具有挑战性。",
           "pdfUrl": "https://arxiv.org/pdf/2606.18699v1"
         }
       ]
@@ -3295,13 +3386,13 @@
         {
           "date": "2026-06-16",
           "titleEn": "The Measurement Gap in the Automation of EU Law: Benchmarking Doctrinal Legal Reasoning under the EU AI Act",
-          "titleZh": "欧盟法律自动化中的测量差距：在欧盟人工智能法案下对教义性法律推理进行基准测试",
+          "titleZh": "欧盟法律自动化中的测量空白：在欧盟人工智能法案下对教义性法律推理进行基准测试",
           "url": "https://arxiv.org/abs/2606.18158v1",
           "authors": [
             "Michèle Finck"
           ],
           "abstractEn": "Large language models now produce legal text of at least median quality, yet no existing benchmark can evaluate whether they perform doctrinal legal reasoning, which forms the interpretive core of legal work, rather than the ancillary, paralegal tasks that most current legal-AI evaluations measure. This measurement gap is not only methodological but legal: the EU AI Act makes \"appropriate accuracy\" a binding requirement for high-risk AI used in the judicial domain, yet that requirement cannot acquire operational content without the very doctrinal-reasoning benchmark the field lacks.",
-          "abstractZh": "大型语言模型现在能够生成至少中等质量的法律文本，但现有的基准测试无法评估它们是否进行了教义性法律推理，而教义性法律推理构成了法律工作的解释核心，而非大多数当前法律人工智能评估所衡量的辅助性、准法律性任务。这一测量差距不仅是方法论上的，也是法律上的：欧盟人工智能法案将“适当的准确性”作为司法领域使用的高风险人工智能的约束性要求，但如果没有该领域所缺乏的教义性推理基准，这一要求就无法获得操作内容。",
+          "abstractZh": "大型语言模型现在能够生成至少中等质量的法律文本，但现有的基准测试无法评估它们是否执行教义性法律推理，而教义性法律推理构成了法律工作的解释核心，而非大多数当前法律人工智能评估所衡量的辅助性、准法律性任务。这一测量空白不仅是方法论上的，也是法律上的：欧盟人工智能法案将“适当的准确性”作为司法领域使用的高风险人工智能的约束性要求，但如果没有该领域所缺乏的教义性推理基准，这一要求就无法获得操作内容。",
           "pdfUrl": "https://arxiv.org/pdf/2606.18158v1"
         },
         {
@@ -3314,7 +3405,7 @@
             "Akshaj Gurugubelli"
           ],
           "abstractEn": "AI systems deployed in legal workflows hallucinate at rates that aggregate metrics report at ~52%, but this average conceals where errors concentrate and in which direction they run, leaving compliance officers without an actionable signal for trustworthy deployment. We present LegalHalluLens, an auditing framework with three components: typed hallucination profiles across four legally-motivated claim categories (numeric, temporal, obligation/entitlement, factual) over CUAD (Hendrycks et al., 2021); a Risk Direction Index (RDI) that reduces omission-versus-invention bias to a single deployment-comparable scalar; and a typed debate pipeline calibrated to both magnitudes and directions. Across 510 contracts and 249,252 clause-level instances we measure a within-model gap of approximately 38-40 pp between obligation/numeric and temporal claims that aggregate reporting hides, and show that two systems with matched 52% rates can carry opposite RDIs. The debate pipeline reduces fabricated detections by 45% with per-category gains tracking the diagnosis, matching commercial APIs with a substantially smaller backbone (4B active parameters). Typed profiles and RDI surface failure modes that aggregate metrics hide; we further show these diagnostics serve as calibration inputs for multi-agent debate pipelines, where Skeptic challenges and asymmetric gates targeted at measured failure modes outperform generically-tuned debate. The framework supports direction-aware procurement, accountability, and agent design for legal AI deployed in the wild.",
-          "abstractZh": "部署在法律工作流程中的AI系统以约52%的比率产生幻觉，但这一平均值掩盖了错误集中之处及其方向，使得合规官员无法获得可操作信号以进行可信部署。我们提出LegalHalluLens，一个包含三个组件的审计框架：基于CUAD（Hendrycks等人，2021）的四种法律动机主张类别（数字、时间、义务/权利、事实）的类型化幻觉概况；风险方向指数（RDI），将遗漏与发明偏差简化为一个可部署比较的标量；以及一个根据幅度和方向校准的类型化辩论流水线。通过对510份合同和249,252个条款级实例的测量，我们发现义务/数字与时间主张之间存在约38-40个百分点的模型内差距，而汇总报告隐藏了这一点，并表明两个具有匹配52%比率的系统可能具有相反的RDI。辩论流水线将虚构检测减少了45%，每个类别的增益与诊断结果一致，使用更小的骨干网络（4B活跃参数）即可匹配商业API。类型化概况和RDI揭示了汇总指标隐藏的失败模式；我们进一步表明这些诊断可作为多智能体辩论流水线的校准输入，其中针对测量失败模式的怀疑论者挑战和非对称门控优于通用调优的辩论。该框架支持面向方向的法律AI采购、问责和智能体设计，适用于实际部署。",
+          "abstractZh": "部署在法律工作流程中的AI系统以约52%的比率产生幻觉，但这一平均值掩盖了错误集中之处及其方向，使得合规官员无法获得可操作的信号以进行可信部署。我们提出LegalHalluLens，一个包含三个组件的审计框架：基于CUAD（Hendrycks等人，2021）的四种法律动机主张类别（数字、时间、义务/权利、事实）的类型化幻觉概况；风险方向指数（RDI），将遗漏与发明偏差简化为一个可部署比较的标量；以及一个根据幅度和方向校准的类型化辩论流水线。通过对510份合同和249,252个条款级实例的测量，我们发现义务/数字与时间主张之间存在约38-40个百分点的模型内差距，而汇总报告隐藏了这一差距，并表明两个具有匹配52%比率的系统可能具有相反的RDI。辩论流水线将虚构检测减少了45%，每个类别的收益与诊断结果一致，使用更小的骨干网络（4B活跃参数）即可匹配商业API。类型化概况和RDI揭示了汇总指标隐藏的失败模式；我们进一步表明这些诊断可作为多智能体辩论流水线的校准输入，其中针对测量到的失败模式的怀疑论者挑战和非对称门控优于通用调优的辩论。该框架支持面向方向的法律AI采购、问责和智能体设计，适用于实际部署。",
           "pdfUrl": "https://arxiv.org/pdf/2606.18021v1"
         },
         {
@@ -3327,7 +3418,7 @@
             "David Shin"
           ],
           "abstractEn": "Legal AI benchmark research frequently invokes the assumption that large language models can improve access to justice, including for people who cannot access lawyers in order to understand and exercise their legal rights. We argue that current benchmarks are not equipped to support this assumption because they evaluate legal reasoning over inputs that have already been preprocessed by legal experts, which measures the upper bound of model performance. Access to justice depends on a lower bound: how models perform when inputs come from pro se litigants, whose prompts may contain noisy narratives, buried facts, omissions, folk-legal assumptions, and surface-level errors. These degradations are comparable to conditions under which LLMs are known to degrade in the general machine learning literature, including long-context sensitivity, underspecification, hallucination, and typographical perturbations. We connect evidence from pro se literature with this body of machine learning research and present a small perturbation experiment on LEXam, a legal benchmark, to illustrate the gap between these two bounds. If model development continues to focus on benchmarks that measure only the upper bound, this gap may remain hidden or even widen. We conclude by calling for legal benchmarks that directly measure robustness under pro se-like inputs so that access-to-justice claims about legal AI can become empirically testable.",
-          "abstractZh": "法律人工智能基准研究经常假设大型语言模型能够改善司法可及性，包括帮助那些无法获得律师服务以理解和行使自身法律权利的人。我们认为，当前的基准并不足以支持这一假设，因为它们评估的是对已经由法律专家预处理过的输入进行法律推理的能力，这衡量的是模型性能的上限。司法可及性取决于下限：当输入来自自诉当事人时，模型的表现如何，这些当事人的提示可能包含嘈杂的叙述、隐藏的事实、遗漏、民间法律假设以及表面错误。这些退化与一般机器学习文献中已知导致LLM性能下降的条件相当，包括长上下文敏感性、欠规范、幻觉和打字错误扰动。我们将自诉文献中的证据与这一机器学习研究体系联系起来，并在法律基准LEXam上进行了一个小规模扰动实验，以说明这两个界限之间的差距。如果模型开发继续只关注衡量上限的基准，这一差距可能仍然隐藏甚至扩大。最后，我们呼吁建立直接衡量在类似自诉输入下鲁棒性的法律基准，以便关于法律人工智能改善司法可及性的主张能够变得可经验检验。",
+          "abstractZh": "法律AI基准研究经常援引一个假设，即大型语言模型可以改善司法可及性，包括帮助那些无法获得律师服务以理解和行使自身法律权利的人。我们认为，当前的基准并不足以支持这一假设，因为它们评估的是已经由法律专家预处理过的输入上的法律推理，这衡量的是模型性能的上限。司法可及性取决于下限：当输入来自自诉当事人时，模型的表现如何，这些当事人的提示可能包含嘈杂的叙述、隐藏的事实、遗漏、民间法律假设以及表面错误。这些退化与通用机器学习文献中已知导致LLM性能下降的条件相当，包括长上下文敏感性、欠指定、幻觉和打字错误扰动。我们将自诉文献中的证据与这一机器学习研究体系联系起来，并在法律基准LEXam上进行了一个小规模扰动实验，以说明这两个界限之间的差距。如果模型开发继续只关注衡量上限的基准，这一差距可能仍然隐藏甚至扩大。最后，我们呼吁建立直接衡量在类似自诉输入下鲁棒性的法律基准，以便关于法律AI改善司法可及性的主张能够变得可经验检验。",
           "pdfUrl": "https://arxiv.org/pdf/2606.23716v1"
         }
       ]
@@ -3714,7 +3805,7 @@
         {
           "date": "2026-06-15",
           "titleEn": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-          "titleZh": "当规则学习时：一种用于法律案例检索的自演化智能体",
+          "titleZh": "当规则学习时：一种用于法律案例检索的自我进化智能体",
           "url": "https://arxiv.org/abs/2606.17220v1",
           "authors": [
             "Mingxu Tao",
@@ -3724,13 +3815,13 @@
             "Jiajun Cheng"
           ],
           "abstractEn": "Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and relevant cases. Although dense retrieval models have achieved notable progress, empirical studies show that BM25 continues to serve as a strong baseline in this domain. It motivates us to propose a self-evolving framework for rule-driven query rewriting that enhances BM25 without any parameter training. The framework equips an LLM-based agent with an automatic evaluation environment, enabling it to iteratively create rewriting rules, plan validation experiments over rule combinations, and eliminate ineffective rules based on historical feedbacks. We evaluate our method on the Chinese legal case retrieval benchmark LeCaRD-v2. Experimental results demonstrate that the proposed framework outperforms non-evolutionary baselines, including human-designed rules and greedy rule selection, particularly when powered by a highcapacity core LLM. We also conduct detailed analyses to investigate the mechanisms underlying self-evolution. Our findings reveal that LLM's capabilities to leverage previous experimental results and its intrinsic knowledge of rule elimination play critical roles in refining the rule set via self-evolution.",
-          "abstractZh": "法律案例检索仍然具有挑战性，原因在于法律语言的复杂性以及查询与相关案例之间需要精确的词汇对齐。尽管密集检索模型取得了显著进展，但实证研究表明，BM25在该领域仍然是一个强大的基线。这促使我们提出一种自演化框架，用于规则驱动的查询重写，从而在不进行任何参数训练的情况下增强BM25。该框架为基于LLM的智能体配备了一个自动评估环境，使其能够迭代地创建重写规则、规划规则组合的验证实验，并根据历史反馈消除无效规则。我们在中文法律案例检索基准LeCaRD-v2上评估了我们的方法。实验结果表明，所提出的框架优于非演化基线，包括人工设计的规则和贪婪规则选择，尤其是在使用高容量核心LLM时。我们还进行了详细分析，以研究自演化的内在机制。我们的发现表明，LLM利用先前实验结果的能力及其对规则消除的内在知识，在通过自演化优化规则集方面发挥着关键作用。",
+          "abstractZh": "法律案例检索仍然具有挑战性，原因在于法律语言的复杂性以及查询与相关案例之间需要精确的词汇对齐。尽管密集检索模型取得了显著进展，但实证研究表明，BM25在该领域仍然是一个强大的基线。这促使我们提出一种用于规则驱动查询重写的自我进化框架，该框架无需任何参数训练即可增强BM25。该框架为基于LLM的智能体配备了一个自动评估环境，使其能够迭代地创建重写规则、规划规则组合的验证实验，并根据历史反馈消除无效规则。我们在中文法律案例检索基准LeCaRD-v2上评估了我们的方法。实验结果表明，所提出的框架优于非进化基线，包括人工设计的规则和贪婪规则选择，尤其是在使用高容量核心LLM时。我们还进行了详细分析，以研究自我进化的潜在机制。我们的发现表明，LLM利用先前实验结果的能力及其对规则消除的内在知识，在通过自我进化优化规则集方面发挥着关键作用。",
           "pdfUrl": "https://arxiv.org/pdf/2606.17220v1"
         },
         {
           "date": "2026-06-15",
           "titleEn": "Know Your Limits : On the Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning",
-          "titleZh": "了解你的局限：论大语言模型在法律推理中作为求解器和自动形式化工具的忠实性",
+          "titleZh": "知你界限：论大语言模型在法律推理中作为求解器和自动形式化工具的忠实性",
           "url": "https://arxiv.org/abs/2606.16118v2",
           "authors": [
             "Olivia Peiyu Wang",
@@ -3740,7 +3831,7 @@
             "Tashvi Bansal"
           ],
           "abstractEn": "Large Language Models (LLMs) achieve strong performance on reasoning tasks, but whether this reflects faithful logical inference or heuristic approximation remains unclear. We study this question in legal entailment by comparing three paradigms, including pure LLM classification, LLM-based Formal Reasoning, and solver-based Formal Reasoning using the Z3 SMT solver, on a re-annotated subset of ContractNLI across five LLMs. Our re-annotation reveals a systematic and measurable gap between pragmatic legal interpretation and strict formal entailment, where a substantial proportion of legally sound inferences are not formally grounded without additional unstated assumptions. While introducing formal structure improves accuracy, with LLM-based Formal Reasoning achieving the highest benchmark performance, we show that this gain does not imply faithful reasoning. We identify three recurring failure modes: scope laundering, where LLMs report solver-inconsistent classifications without executing the underlying formal reasoning, producing conclusions that appear logically grounded but are not; implicit constraint blindness, where LLMs overlook logical constraints present in formal representations; and program synthesis failures, where LLMs generate incorrect Z3 code despite structured prompting. Critically, scope laundering persists across all models, raising serious concerns about the faithfulness of LLM-based formal reasoning as a proxy for symbolic execution. These results reveal a fundamental gap between benchmark accuracy and logical faithfulness.",
-          "abstractZh": "大语言模型在推理任务上表现出色，但这种表现是否反映了忠实的逻辑推理还是启发式近似仍不清楚。我们通过比较三种范式——纯大语言模型分类、基于大语言模型的形式推理以及使用Z3 SMT求解器的基于求解器的形式推理——在重新标注的ContractNLI子集上，对五个大语言模型进行了研究。我们的重新标注揭示了实用法律解释与严格形式蕴涵之间存在系统且可测量的差距，其中大量法律上合理的推理在没有额外未明示假设的情况下缺乏形式基础。虽然引入形式结构提高了准确性，且基于大语言模型的形式推理达到了最高的基准性能，但我们表明这种提升并不意味着忠实的推理。我们识别出三种反复出现的失败模式：范围清洗，即大语言模型在不执行底层形式推理的情况下报告与求解器不一致的分类，产生看似有逻辑基础但实际上并非如此的结论；隐式约束盲区，即大语言模型忽视形式表示中存在的逻辑约束；以及程序合成失败，即大语言模型在结构化提示下仍生成错误的Z3代码。关键的是，范围清洗在所有模型中持续存在，这引发了对基于大语言模型的形式推理作为符号执行代理的忠实性的严重担忧。这些结果揭示了基准准确性与逻辑忠实性之间的根本差距。",
+          "abstractZh": "大语言模型在推理任务上表现出色，但这种表现是否反映了忠实的逻辑推理还是启发式近似仍不清楚。我们通过比较三种范式——纯大语言模型分类、基于大语言模型的形式推理以及使用Z3 SMT求解器的基于求解器的形式推理——在重新标注的ContractNLI子集上，针对五个大语言模型研究了法律蕴含中的这一问题。我们的重新标注揭示了实用法律解释与严格形式蕴含之间存在系统且可测量的差距，其中大量法律上合理的推理在没有额外未明示假设的情况下缺乏形式基础。虽然引入形式结构提高了准确性，且基于大语言模型的形式推理达到了最高的基准性能，但我们表明这种提升并不意味着忠实的推理。我们识别出三种反复出现的失败模式：范围洗白，即大语言模型报告与求解器不一致的分类，而未执行底层形式推理，产生看似逻辑上有根据但实际并非如此的结论；隐式约束盲点，即大语言模型忽略形式表示中存在的逻辑约束；以及程序合成失败，即大语言模型在结构化提示下仍生成错误的Z3代码。关键的是，范围洗白在所有模型中持续存在，这引发了对基于大语言模型的形式推理作为符号执行代理的忠实性的严重担忧。这些结果揭示了基准准确性与逻辑忠实性之间的根本差距。",
           "pdfUrl": "https://arxiv.org/pdf/2606.16118v2"
         }
       ]
