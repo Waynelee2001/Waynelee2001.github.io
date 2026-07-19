@@ -1,15 +1,89 @@
 {
-  "generatedAt": "2026-07-18T03:10:32.598Z",
+  "generatedAt": "2026-07-19T03:12:46.678Z",
   "range": {
     "start": "2026-01-01",
-    "end": "2026-07-18"
+    "end": "2026-07-19"
   },
   "totals": {
-    "news": 1644,
+    "news": 1648,
     "research": 155,
-    "days": 154
+    "days": 155
   },
   "briefs": [
+    {
+      "date": "2026-07-18",
+      "news": [
+        {
+          "date": "2026-07-18",
+          "platform": "LegalTech Monitor",
+          "titleEn": "July 17–18 Legal News Watch: What Litigators and Compliance Teams Should Be Tracking",
+          "titleZh": "7月17-18日法律新闻观察：诉讼律师与合规团队应关注的重点",
+          "url": "https://www.legaltechmonitor.com/2026/07/july-17-18-legal-news-watch-what-litigators-and-compliance-teams-should-be-tracking",
+          "summaryZh": "7月17-18日的法律新闻周期中，多个高影响力事件同时在法院、执法和刑事领域展开，给法律专业人士带来挑战。关键不在于单一头条，而在于累积信号：机构、检察官和法院正积极处理具有企业级风险影响的事项。法律部门需更快应对重叠威胁，重大裁决可能一夜之间改变诉讼策略，执法行动要求立即进行披露分析、证据保全和内部审查，刑事进展则可能引发平行程序风险，同时影响民事案件、监管调查和董事会监督。\n\n对诉讼律师而言，需关注不仅决定性裁决，还有程序性进展，如管辖权争议、禁令动议、集体认证和上诉动议，这些中期步骤在案件早期就能改变谈判筹码。对法务部门，当前新闻周期凸显法律、合规和沟通团队协调的重要性。重大法律事件发生后，首要问题往往是实务性的：是否影响合同、披露、政策或储备？是否需要重新审视文件保留、员工指导或监管沟通？合规团队应认识到执法趋势很少局限于单一行业，一个案件中的新理论可能迅速成为其他领域的模板。法律专业人士应将重大法律新闻视为早期预警系统，最关键的案例往往从渐进程序或调查进展开始，最终演变为先例、处罚或模仿诉讼。7月17-18日的周期之所以重要，不仅因为个别案件，更因为它展示了法律风险如何在各论坛间快速迁移。",
+          "bodyHtml": "",
+          "bodyText": "",
+          "contentAuthor": "Bruno Queiroz",
+          "sourceUrl": "https://www.docketalarm.com/blog/2026/07/july-1718-legal-news-watch-what.html",
+          "sourceAuthor": "Bruno Queiroz",
+          "sourceAccess": "paywalled",
+          "relevance": "medium",
+          "relevanceReason": "文章主要讨论法律专业人士如何应对新闻周期中的多重风险，强调诉讼策略、合规协调和风险预警，但未聚焦于具体的法律AI或法律科技产品、工具或应用，属于法律实务的宏观分析，与核心法律AI主题有间接关联。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-07-18",
+          "platform": "LegalTech Daily",
+          "titleEn": "Worth Reading – Corporate America spends billions on mental health services. 97% never use it.",
+          "titleZh": "值得一读——美国企业每年花费数十亿美元用于心理健康服务，但97%的员工从未使用",
+          "url": "https://www.legaltechdaily.com/2026/07/worth-reading-corporate-america-spends-billions-on-mental-health-services-97-never-use-it",
+          "summaryZh": "美国企业每年在心理健康服务上投入数十亿美元，但高达97%的员工从未使用这些服务。原因包括寻求帮助的污名化以及服务本身无法满足实际需求。文章建议企业应探索替代方案。",
+          "bodyHtml": "<p>The combination of the stigma of calling in the first place, along with a program that doesn&#8217;t meet the needs, means 97% of people won&#8217;t bother with it. We should be looking at alternatives, for sure.&nbsp;</p>\n<p>The post <a href=\"https://www.mikemcbrideonline.com/2026/07/worth-reading-corporate-america-spends-billions-on-mental-health-services-97-never-use-it/\">Worth Reading &ndash; Corporate America spends billions on mental health services. 97% never use it.</a> appeared first on <a href=\"https://www.mikemcbrideonline.com\">Mike McBride Online</a>. If you want to see more like this, consider subscribing to the RSS Feed.</p>",
+          "bodyText": "The combination of the stigma of calling in the first place, along with a program that doesn’t meet the needs, means 97% of people won’t bother with it. We should be looking at alternatives, for sure. The post Worth Reading – Corporate America spends billions on mental health services. 97% never use it. appeared first on Mike McBride Online. If you want to see more like this, consider subscribing to the RSS Feed.",
+          "contentAuthor": "Mike McBride",
+          "sourceUrl": "https://www.mikemcbrideonline.com/2026/07/worth-reading-corporate-america-spends-billions-on-mental-health-services-97-never-use-it",
+          "sourceAuthor": "Mike McBride",
+          "sourceAccess": "accessible",
+          "relevance": "low",
+          "relevanceReason": "文章讨论的是企业心理健康服务的使用率问题，与法律AI或法律技术无直接关联。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-07-18",
+          "platform": "National Law Review",
+          "titleEn": "From “Service Improvement” to AI Exploitation: How Customer-Side Counsel Should Manage Vendor Data-Use Clauses",
+          "titleZh": "从“服务改进”到AI利用：客户方律师应如何管理供应商数据使用条款",
+          "url": "https://natlawreview.com/article/service-improvement-ai-exploitation-how-customer-side-counsel-should-manage-vendor",
+          "summaryZh": "HubSpot近期试图扩大客户CRM数据使用范围以支持AI功能，虽迅速撤回，但凸显了技术供应商将通用数据使用语言转化为AI开发许可的趋势。客户方律师需警惕，在AI时代，“服务改进”等概念可能被解释为授权训练AI系统或利用客户数据增强产品，尤其是当数据涉及CRM、客户名单等商业敏感信息时。首要任务是精确区分数据类别，明确供应商数据许可仅限于提供服务所需，未经同意不得用于AI训练。同时应审查“聚合”或“去标识化”数据条款，防止供应商提取价值。此外，需控制合同流程，警惕通过超链接条款单方面更改数据使用权。总之，传统协议中的广泛数据权利在AI背景下风险显著，需重新审视目的限制、二次使用及合同控制。",
+          "bodyHtml": "",
+          "bodyText": "Find Your Next Job ! HubSpot’s recent and quickly reversed attempt to expand its use of customer CRM data to support a new AI-powered lead-generation feature and potentially share certain customer data elements across its platform is the latest example of a broader contracting issue facing enterprise customers: technology vendors are increasingly seeking to convert general data-use language into permission to develop AI features, train or improve models, and, in some cases, create value across their customer base using data contributed by individual customers. For customer-side counsel, the lesson is not limited to one vendor or one product category. It is that familiar SaaS concepts, such as “service improvement,” “analytics,” and “product development,” can take on very different meanings in the AI era if they are not carefully constrained. Historically, many customers accepted broad vendor rights to use their data “to provide, maintain, support, and improve” the service. Before AI, that language was often understood to cover ordinary operational needs, such as debugging, security monitoring, and performance optimization. Today, however, those same words may be read to authorize training AI systems, building new features from patterns in customer data, generating cross-customer insights, or otherwise using one customer’s data to enhance the vendor’s broader product offering. That risk becomes especially acute where the relevant data is not merely technical telemetry, but substantive business information. CRM data, customer lists, pipeline details, pricing history, contract status, and sales strategy are often among a company’s most commercially sensitive assets. Even when public disclosure is not in play, many customers will object to a vendor using that information in ways that help other customers, improve generally available AI functionality, or otherwise dilute the competitive value of the underlying data set. The first priority for customer-side counsel, therefore, is to separate categories of data and rights with greater precision than many legacy technology agreements do. Customer content and business records should not be treated the same as usage metadata or service telemetry. Agreements should make clear that the vendor’s license to customer data is limited to what is necessary to provide the contracted services and related support, and not for broader product development or AI training purposes absent the customer’s affirmative agreement. Customer-side counsel should also examine provisions permitting use of “aggregated,” “anonymized,” or “de-identified” data. These are often framed as low-risk, but in practice they can give vendors wide latitude to extract value from customer data for secondary purposes. In many enterprise settings, the concern is not only whether data can be traced back to an individual company, but whether sensitive operational information is being used to improve the vendor’s products or create advantages for others in the market. The HubSpot experience also highlights the need to control the process, not just the substance. As we discussed in our previous post, vendors increasingly introduce AI-related changes through hyperlinked terms, privacy policies, feature notices, or product-specific terms rather than through negotiated amendments. Customer-side counsel should be wary of contractual structures that permit unilateral changes to data-use rights during the contract term, especially where those changes affect customer content, confidentiality expectations, or AI-related processing. Our next installment will examine ways to mitigate the impact of hyperlinked terms in preliminary vendor negotiations, including by making clear in the order-of-precedence clause that any hyperlinked, online, or other extra-contractual terms are subordinate to the negotiated agreement and cannot override its terms. The takeaway is straightforward: broad vendor rights that may have seemed benign in a traditional technology agreement can carry materially different risk once AI is in the picture. Data-use provisions and any applicable hyperlinked or extra-contractual terms deserve a fresh look, with particular care given to purpose limitation, secondary use, cross-customer benefit, and contractual controls on future updates to such terms. As vendors face competitive pressure and customer sensitivity around AI, many are willing to narrow data-use language when the issue is clearly framed. More Upcoming Events",
+          "contentAuthor": "",
+          "sourceUrl": "",
+          "sourceAuthor": "",
+          "sourceAccess": "unknown",
+          "relevance": "high",
+          "relevanceReason": "文章聚焦于AI时代技术供应商利用客户数据训练AI模型的法律合同问题，直接涉及客户方律师如何管理数据使用条款以防范AI相关风险，属于法律AI领域的高相关性内容。",
+          "isAggregatedSource": false
+        },
+        {
+          "date": "2026-07-18",
+          "platform": "National Law Review",
+          "titleEn": "Will Businesses be Taxed for Using AI? Robot, Token and Floating Point Operations (FLOP) Taxes Explained",
+          "titleZh": "企业使用AI将被征税？机器人税、代币税与浮点运算税解析",
+          "url": "https://natlawreview.com/article/will-businesses-be-taxed-using-ai-robot-token-and-floating-point-operations-flop",
+          "summaryZh": "随着AI系统大规模替代人类员工执行任务，从起草文件到处理客户咨询，引发了关于就业替代和劳动所得税减少的经济担忧。政府可能面临因所得税损失而增加的财政压力，这重新激发了关于机器人税的兴趣，以及代币税和浮点运算税等替代方案的AI政策研究。机器人税旨在恢复人力和自动化劳动之间的税收中性，保留政府收入并用于再培训项目，但可能抑制技术投资。代币税直接对AI使用量征税，基于已追踪的计费代币，实施简单，但税负可能因模型效率不同而异。浮点运算税针对训练和运行AI所需的计算资源，欧盟AI法案已对超过特定计算阈值的通用AI模型实施安全控制。企业需理解这些税收提案，以制定有效的商业策略和税务规划。",
+          "bodyHtml": "",
+          "bodyText": "Find Your Next Job ! As AI systems continue to be adopted at scale, they are increasingly performing tasks carried out by human employees. From drafting documents, to writing code, to handling customer queries and concerns have grown about the economic risks this shift may pose, including job displacement and the erosion of the income taxes generated by human labour. This rapid automation of roles raises difficult questions around labour displacement, reduction and redeployment. A direct economic consequence of this is the growing fiscal pressure that governments may face due to loss of income tax. This has renewed interest in proposals for a robot tax, alongside the emergence of AI policy research on alternatives such as token tax and FLOP tax, each targeting a different point in the AI value chain: labour displacement, AI-driven usage and compute power. In short, as companies increase the pace and scale of AI adoption, there is an increasing likelihood that today’s efficiency gains will become tomorrow’s tax liabilities. Understanding if and how governments are proposing to tax AI deployment is therefore a new, but critical component of effective business strategy and tax planning. One potential economic consequence of businesses automating roles previously performed by human employees is a reduction in income tax revenues generated from labour. A key policy question is whether AI systems that perform tasks traditionally carried out by workers should be taxed as capital assets, rather than as a substitute for labour. Treating it as capital can create a tax-driven incentive for firms to replace human workers with automated systems, and a robot tax would eliminate this fiscal advantage and restore tax neutrality between human and automated labour. This would also prompt businesses to consider the real cost of labour replacement by weighing the benefits of human labour against automation. A robot tax can preserve government revenue that would otherwise be lost to automation and can be used to fund retraining programmes or unemployment support for displaced workers. However, taxing the use of machines can disincentivise investment in new technology, and the method of taxation would require a careful exercise of balancing labour interests with advancing innovation. Tokens are small units of data that come from breaking down whole words into parts of words, or punctuation, that AI models process language in. This is a computational unit, and not a linguistic one. AI providers typically use token-based pricing for AI models, with both inputs and outputs being chargeable. Unlike a robot tax, which targets labour substitution, a token tax would seek to capture value from AI usage directly, regardless of whether specific jobs are displaced. A token tax would be a levy applied to the provider’s billed token cost and may be simpler to implement as tokens are already tracked and billed by AI providers, making it a measurable proxy for AI-driven business activity. One of the challenges is that taxation may vary by model type. Models with less efficient architecture generate far more tokens for the same task than advanced models. The tax burden would depend heavily on which models a business happens to use rather than the value or complexity of the work performed. Significant computational resources are required to train and operate increasingly powerful models. The most capable AI systems depend on vast amounts of compute, measured in FLOPs. FLOP regulation is already within regulatory scope of the EU under the EU AI Act, whereby compute usage beyond a certain threshold would serve as a proxy for model-capability and trigger enhanced safety controls for general-purpose AI models that pose systemic risks.",
+          "contentAuthor": "",
+          "sourceUrl": "",
+          "sourceAuthor": "",
+          "sourceAccess": "unknown",
+          "relevance": "high",
+          "relevanceReason": "文章直接讨论AI部署的税收政策，包括机器人税、代币税和浮点运算税，属于法律AI和AI合规领域，与法律技术高度相关。",
+          "isAggregatedSource": false
+        }
+      ],
+      "research": []
+    },
     {
       "date": "2026-07-17",
       "news": [
@@ -1104,7 +1178,7 @@
             "Amir Atapour-Abarghouei"
           ],
           "abstractEn": "Legal information processing spans retrieval, entailment and judgment prediction problems, requiring text matching, reasoning and robust generalisation with limited supervision. We report Team DU's participation in all five tasks of COLIEE 2026, using open-weight systems for legal case retrieval, case entailment, statute retrieval and entailment, and legal judgment prediction. For Tasks 3 and 4, all models predate the 15 July 2025 cutoff required by the rules. For Task 4 (statute entailment), a cross-architecture ensemble of nine models from three families achieves 96.3% accuracy, placing first among 33 submissions from 11 teams. For the Pilot Task (tort prediction and rationale extraction), a multi-view system combining five claim-level models and refining the verdict using features derived from the claim predictions achieves 73.1% TP accuracy and 68.2% RE F1 as an unofficial submission, scoring above all official entries on TP and matching the highest on RE. For Task 2 (legal case entailment), changing only the prompt from single- to multi-selection raises F1 from 0.343 to 0.555 in post-competition evaluation on released gold labels, exceeding the best official submission (F1 = 0.490). For Task 3 (statute retrieval and entailment), replacing the entailment model with Qwen3-235B and a structured legal reasoning prompt raises accuracy from 79.3% to 91.5% in post-competition analysis. For Task 1 (legal case retrieval), a learning-to-rank system combining lexical and semantic retrieval with structural, citation authority, and temporal features (34 in total) achieves F1 = 0.314 (rank 11 of 54 submissions from 22 teams). Overall, legal information processing benefits from different inductive biases across tasks, with cross-architecture ensembling, feature-based reranking and retrieval-augmented prompting each proving most effective in different settings.",
-          "abstractZh": "法律信息处理涵盖检索、蕴含和判决预测问题，需要文本匹配、推理以及在有限监督下的稳健泛化。我们报告了DU团队参与COLIEE 2026全部五项任务的情况，使用开源权重系统进行法律案例检索、案例蕴含、法规检索与蕴含以及法律判决预测。对于任务3和4，所有模型均早于规则要求的2025年7月15日截止日期。对于任务4（法规蕴含），一个由三个模型家族的九个模型组成的跨架构集成实现了96.3%的准确率，在来自11个团队的33个提交中排名第一。对于试点任务（侵权预测与理由提取），一个结合五个索赔级别模型并使用从索赔预测中提取的特征来完善判决的多视图系统，作为非官方提交实现了73.1%的TP准确率和68.2%的RE F1分数，在TP上高于所有官方提交，在RE上与最高分持平。对于任务2（法律案例蕴含），在赛后对已发布黄金标签的评估中，仅将提示从单选改为多选就将F1从0.343提升至0.555，超过了最佳官方提交（F1=0.490）。对于任务3（法规检索与蕴含），在赛后分析中，将蕴含模型替换为Qwen3-235B和结构化法律推理提示，将准确率从79.3%提升至91.5%。对于任务1（法律案例检索），一个结合词汇和语义检索与结构、引文权威和时间特征（共34个）的学习排序系统实现了F1=0.314（在来自22个团队的54个提交中排名第11）。总体而言，法律信息处理受益于不同任务的不同归纳偏差，跨架构集成、基于特征的重排序和检索增强提示各自在不同设置中被证明最为有效。",
+          "abstractZh": "法律信息处理涵盖检索、蕴含和判决预测问题，需要文本匹配、推理以及在有限监督下的稳健泛化。我们报告了DU团队参与COLIEE 2026全部五项任务的情况，使用开源权重系统进行法律案例检索、案例蕴含、法规检索与蕴含以及法律判决预测。对于任务3和4，所有模型均早于规则要求的2025年7月15日截止日期。对于任务4（法规蕴含），一个由三个模型家族的九个模型组成的跨架构集成实现了96.3%的准确率，在来自11个团队的33个提交中排名第一。对于试点任务（侵权预测与理由提取），一个结合五个索赔级别模型并使用从索赔预测中提取的特征来完善判决的多视角系统，作为非官方提交实现了73.1%的TP准确率和68.2%的RE F1分数，在TP上高于所有官方提交，在RE上与最高分持平。对于任务2（法律案例蕴含），在赛后对已发布黄金标签的评估中，仅将提示从单选改为多选就将F1从0.343提升至0.555，超过了最佳官方提交（F1=0.490）。对于任务3（法规检索与蕴含），在赛后分析中，将蕴含模型替换为Qwen3-235B和结构化法律推理提示，将准确率从79.3%提升至91.5%。对于任务1（法律案例检索），一个结合词汇和语义检索与结构、引证权威和时间特征（共34个）的学习排序系统实现了F1=0.314（在来自22个团队的54个提交中排名第11）。总体而言，法律信息处理受益于不同任务的不同归纳偏差，跨架构集成、基于特征的重排序和检索增强提示各自在不同场景中被证明最为有效。",
           "pdfUrl": "https://arxiv.org/pdf/2607.11400v1"
         },
         {
@@ -1116,7 +1190,7 @@
             "Noura Suliman Alrajeh"
           ],
           "abstractEn": "Organizations and regulators increasingly consult large language models (LLMs) for regulatory-compliance questions, yet a wrong statutory citation can silently propagate into legal advice, compliance documentation, and policy decisions. We introduce a bilingual benchmark of 120 questions probing whether freely accessible LLMs fabricate article citations for two data-protection instruments: the EU General Data Protection Regulation (GDPR) and the Saudi Personal Data Protection Law (PDPL). The benchmark pairs direct citation retrieval questions with false premise verification probes and deliberately unanswerable \"trap\" questions -- including questions about a repealed article and about deadlines that exist only in implementing regulations, not in the law itself. Every question is posed in both Arabic and English, and all scoring is fully automatic against a manually verified gold reference. Evaluating three freely accessible models (Gemini 2.5 Flash, GPT-OSS-120B, Nemotron-3-Super-120B), we find a dramatic jurisdiction gap: near-ceiling citation accuracy on the GDPR (94-100% on direct retrieval) against majority fabrication on the Saudi PDPL (60-77%), invariant to query language; the highest fabrication rates (67%) arise from statute-vs-regulations confusion, and 91% of fabricated citations are asserted with confidence >= 0.8. Fabrication tracks the jurisdiction of the law, not the language of the query, and model confidence provides no protection -- indicating that verbatim-verification safeguards, rather than model self confidence, must gate any institutional reliance on LLMs for compliance screening.",
-          "abstractZh": "组织和监管机构越来越多地就监管合规问题咨询大型语言模型（LLM），然而错误的法规引用可能悄然传播到法律建议、合规文件和政策决策中。我们引入了一个包含120个问题的双语基准测试，探究免费可用的LLM是否会为两项数据保护文书——欧盟《通用数据保护条例》（GDPR）和沙特《个人数据保护法》（PDPL）——编造条款引用。该基准测试将直接引用检索问题与虚假前提验证探针以及故意无法回答的“陷阱”问题配对——包括关于已废除条款的问题以及关于仅存在于实施条例中而非法律本身的截止日期的问题。每个问题均以阿拉伯语和英语提出，所有评分均根据手动验证的黄金标准完全自动进行。评估三个免费可用的模型（Gemini 2.5 Flash、GPT-OSS-120B、Nemotron-3-Super-120B），我们发现存在显著的管辖范围差距：GDPR上的引用准确率接近上限（直接检索为94-100%），而沙特PDPL上的引用多数为编造（60-77%），且与查询语言无关；最高的编造率（67%）源于法规与条例混淆，91%的编造引用以置信度≥0.8断言。编造行为追踪的是法律的管辖范围，而非查询的语言，并且模型置信度不提供任何保护——这表明，逐字验证的保障措施，而非模型的自信心，必须成为任何机构依赖LLM进行合规筛查的门槛。",
+          "abstractZh": "组织和监管机构越来越多地咨询大型语言模型（LLMs）以解决监管合规问题，然而错误的法规引用可能悄然传播到法律建议、合规文件和政策决策中。我们引入了一个包含120个问题的双语基准测试，探究免费可用的LLMs是否会为两项数据保护法规编造条款引用：欧盟通用数据保护条例（GDPR）和沙特个人数据保护法（PDPL）。该基准测试将直接引用检索问题与虚假前提验证探针以及故意无法回答的“陷阱”问题配对——包括关于已废除条款的问题以及仅存在于实施条例中而非法律本身的截止日期问题。每个问题均以阿拉伯语和英语提出，所有评分均基于手动验证的黄金标准自动完成。评估三个免费可用的模型（Gemini 2.5 Flash、GPT-OSS-120B、Nemotron-3-Super-120B），我们发现存在显著的管辖区域差距：在GDPR上接近满分的引用准确率（直接检索为94-100%），而在沙特PDPL上则多数为编造（60-77%），且不受查询语言影响；最高的编造率（67%）源于法规与条例混淆，91%的编造引用以置信度≥0.8断言。编造行为追踪的是法律的管辖区域而非查询语言，模型置信度无法提供保护——这表明逐字验证的保障措施，而非模型自身置信度，必须成为任何机构依赖LLMs进行合规筛查的前提。",
           "pdfUrl": "https://arxiv.org/pdf/2607.11127v1"
         }
       ]
@@ -1203,7 +1277,7 @@
         {
           "date": "2026-07-11",
           "titleEn": "When Reasoning Hurts Legal Drafting: The Verbalization Bottleneck in Patent Claim Generation",
-          "titleZh": "当推理损害法律起草：专利权利要求生成中的言语化瓶颈",
+          "titleZh": "当推理损害法律起草：专利权利要求生成中的语言化瓶颈",
           "url": "https://arxiv.org/abs/2607.10480v1",
           "authors": [
             "Lekang Jiang",
@@ -1211,7 +1285,7 @@
             "Stephan Goetz"
           ],
           "abstractEn": "Patent claim drafting is a challenging legal drafting task that requires technical expertise, precise linguistic control, strict adherence to formal conventions, and the preservation of complex logical relationships among claim elements. While Chain-of-Thought (CoT) prompting has been widely used to improve the reasoning capabilities of large language models (LLMs), recent evidence suggests that its benefits may be limited, or even negative, in highly structured or pattern-sensitive tasks. Therefore, this paper investigates whether CoT prompting benefits patent claim generation. We propose a task-specific CoT method for patent claim generation and evaluate its effectiveness through both automatic metrics and human expert assessment. Our results show that reasoning-enhanced prompting can improve claim quality. Moreover, we demonstrate a counter-intuitive but important empirical finding: implicit CoT, where reasoning is kept internal rather than explicitly verbalized, consistently outperforms explicit CoT. Through systematic analysis, we show that explicit CoT can introduce an unnecessary information bottleneck for claim generation. Verbalized reasoning may compromise the quality of final outputs through three specific mechanisms: abstraction of critical details, disruption of internalized generation patterns, and cascading error propagation. Our findings provide new insights into legal tasks and CoT applications.",
-          "abstractZh": "专利权利要求起草是一项具有挑战性的法律起草任务，需要技术专业知识、精确的语言控制、严格遵守形式惯例以及保持权利要求要素之间复杂的逻辑关系。虽然思维链（CoT）提示已被广泛用于提高大型语言模型（LLMs）的推理能力，但最近的证据表明，在高度结构化或模式敏感的任务中，其益处可能有限，甚至为负。因此，本文研究CoT提示是否有利于专利权利要求生成。我们提出了一种针对专利权利要求生成的任务特定CoT方法，并通过自动指标和人类专家评估来评估其有效性。我们的结果表明，增强推理的提示可以提高权利要求质量。此外，我们展示了一个反直觉但重要的实证发现：隐式CoT（其中推理保持内部而非明确言语化）始终优于显式CoT。通过系统分析，我们表明显式CoT可能为权利要求生成引入不必要的信息瓶颈。言语化推理可能通过三种特定机制损害最终输出的质量：关键细节的抽象化、内部生成模式的破坏以及级联错误传播。我们的发现为法律任务和CoT应用提供了新的见解。",
+          "abstractZh": "专利权利要求起草是一项具有挑战性的法律起草任务，需要技术专长、精确的语言控制、严格遵守形式惯例以及保持权利要求要素之间复杂的逻辑关系。虽然思维链提示已被广泛用于提高大型语言模型的推理能力，但最近的证据表明，在高度结构化或模式敏感的任务中，其益处可能有限，甚至产生负面影响。因此，本文研究思维链提示是否有利于专利权利要求生成。我们提出了一种针对专利权利要求生成的任务特定思维链方法，并通过自动评估指标和人类专家评估来评估其有效性。我们的结果表明，增强推理的提示可以提高权利要求质量。此外，我们展示了一个反直觉但重要的实证发现：隐式思维链（其中推理保持内部而非明确语言化）始终优于显式思维链。通过系统分析，我们表明显式思维链可能为权利要求生成引入不必要的信息瓶颈。语言化的推理可能通过三种具体机制损害最终输出的质量：关键细节的抽象化、内部生成模式的干扰以及级联错误传播。我们的发现为法律任务和思维链应用提供了新的见解。",
           "pdfUrl": "https://arxiv.org/pdf/2607.10480v1"
         }
       ]
@@ -1427,7 +1501,7 @@
         {
           "date": "2026-07-10",
           "titleEn": "PRecG: Legal Precedent Retrieval with Graph Neural Networks and Rhetorical Role Segmentation",
-          "titleZh": "PRecG：基于图神经网络与修辞角色分割的法律先例检索",
+          "titleZh": "PRecG：基于图神经网络和修辞角色分割的法律先例检索",
           "url": "https://arxiv.org/abs/2607.09094v1",
           "authors": [
             "Devanshu Verma",
@@ -1436,7 +1510,7 @@
             "Balaji Ganesan"
           ],
           "abstractEn": "Legal precedent retrieval is a fundamental task in legal case preparation, planning, litigation strategy, and legal research. Current approaches for automatic precedent retrieval map legal documents to a low-dimensional semantic space and compute similarity based on the proximity of their representations. These approaches treat legal documents as monolithic texts, ignoring the rhetorical organization of the legal technicalities. Ergo, they overlook nuanced legal meanings and fail to distinguish the contextual significance of legal entities and concepts that vary based on their rhetorical roles within the document.   To address this insufficiency, we propose the PRecG pipeline that computes the similarity between pairs of legal judgments by hierarchically learning their representations. The process begins by decomposing each document into distinct semantic units (segments) based on the rhetorical roles of sentences. For each rhetorical segment, a knowledge graph is constructed to capture the legal entities and their relationships within the segment. Contextual representations of the entities are then learned and aggregated to derive segment-level embeddings. These embeddings are further integrated to produce a unified document-level representation, and finally, the semantic similarity between a pair of documents is computed. We validate the performance of the proposed approach through extensive experiments on a benchmark Indian legal dataset, comparing it against state-of-the-art baselines to demonstrate its effectiveness.",
-          "abstractZh": "法律先例检索是案件准备、规划、诉讼策略和法律研究中的基础任务。当前的自动先例检索方法将法律文档映射到低维语义空间，并根据其表示的接近度计算相似性。这些方法将法律文档视为整体文本，忽略了法律技术细节的修辞组织。因此，它们忽视了细微的法律含义，未能区分法律实体和概念因文档中修辞角色不同而变化的语境重要性。为解决这一不足，我们提出了PRecG流程，通过分层学习法律判决对之间的表示来计算其相似性。该过程首先根据句子的修辞角色将每个文档分解为不同的语义单元（片段）。对于每个修辞片段，构建一个知识图谱以捕获该片段内的法律实体及其关系。然后学习实体的上下文表示并聚合以生成片段级嵌入。这些嵌入进一步整合以产生统一的文档级表示，最后计算文档对之间的语义相似性。我们通过在基准印度法律数据集上进行广泛实验，与最先进的基线方法进行比较，验证了所提方法的性能，证明了其有效性。",
+          "abstractZh": "法律先例检索是案件准备、规划、诉讼策略和法律研究中的基本任务。当前的自动先例检索方法将法律文档映射到低维语义空间，并根据其表示的接近度计算相似性。这些方法将法律文档视为整体文本，忽略了法律技术细节的修辞组织。因此，它们忽视了细微的法律含义，未能区分法律实体和概念根据其在文档中的修辞角色而变化的上下文重要性。为了解决这一不足，我们提出了PRecG流程，通过分层学习法律判决对之间的表示来计算它们的相似性。该过程首先根据句子的修辞角色将每个文档分解为不同的语义单元（片段）。对于每个修辞片段，构建一个知识图谱以捕获该片段内的法律实体及其关系。然后学习实体的上下文表示并聚合以导出片段级嵌入。这些嵌入进一步整合以产生统一的文档级表示，最后计算一对文档之间的语义相似性。我们通过在基准印度法律数据集上进行大量实验，将所提出的方法与最先进的基线进行比较，验证了其性能，证明了其有效性。",
           "pdfUrl": "https://arxiv.org/pdf/2607.09094v1"
         },
         {
@@ -1451,7 +1525,7 @@
             "Haojian Jin"
           ],
           "abstractEn": "Developers' choices about what data a system collects, how it is used and shared, and what defaults govern user choices directly shape users' privacy experiences. Yet, developers often make problematic privacy-related design decisions without realizing the potential consequences. We introduce Privacy Detective, a narrative investigation game that leverages real-world legal documents to train developers' privacy awareness. In the game, players search for privacy violation evidence derived from legal documents and organize this evidence into privacy violation reports using curated templates. We evaluated Privacy Detective in a between-subjects study with student developers, comparing it against a baseline in which participants read raw FTC legal documents. Participants in the game condition identified more true violations than the baseline group, flagged fewer non-issues, and provided more complete justifications for the violations they reported.",
-          "abstractZh": "开发者关于系统收集哪些数据、如何使用和共享这些数据以及哪些默认设置控制用户选择的决策，直接影响用户的隐私体验。然而，开发者常常在未意识到潜在后果的情况下做出有问题的隐私相关设计决策。我们介绍了隐私侦探，一款利用现实世界法律文件来训练开发者隐私意识的叙事调查游戏。在游戏中，玩家搜索源自法律文件的隐私违规证据，并使用策划的模板将这些证据组织成隐私违规报告。我们在学生开发者中进行了一项受试者间研究，评估了隐私侦探，并将其与参与者阅读原始FTC法律文件的基线条件进行了比较。游戏条件下的参与者比基线组识别出更多真实的违规行为，标记了更少的非问题，并为他们报告的违规行为提供了更完整的理由。",
+          "abstractZh": "开发者关于系统收集哪些数据、如何使用和共享这些数据以及哪些默认设置控制用户选择的决策，直接塑造了用户的隐私体验。然而，开发者常常在未意识到潜在后果的情况下做出有问题的隐私相关设计决策。我们引入了隐私侦探，一款利用真实世界法律文件来训练开发者隐私意识的叙事调查游戏。在游戏中，玩家搜索源自法律文件的隐私违规证据，并使用策划的模板将这些证据组织成隐私违规报告。我们在一项针对学生开发者的受试者间研究中评估了隐私侦探，将其与参与者阅读原始FTC法律文件的基线条件进行了比较。游戏条件下的参与者比基线组识别出更多真实的违规行为，标记了更少的非问题，并为他们报告的违规行为提供了更完整的理由。",
           "pdfUrl": "https://arxiv.org/pdf/2607.09022v1"
         }
       ]
@@ -2573,7 +2647,7 @@
             "Peter Naoum"
           ],
           "abstractEn": "Answering questions over a set of transactional legal documents is most simply done by injecting the whole corpus into the LLM's context window on every query. That baseline maximises retrieval recall, but its token footprint scales with the corpus rather than the question, and long-context degradation scales with it. We report what it took to replace full-corpus injection in a legal-document analysis system, comparing it against two structured retrieval modes over our proprietary structure-aware chunking: embedding retrieval (NAVEMBED) and LLM navigation over a compact structured index (NAVINDEX). On a 20-question benchmark with verified ground-truth answers, a position-bias-controlled, reference-anchored pairwise judge scored semantic retrieval with reranking tied with injection on 16 of 18 document-bound questions (injection preferred on 2) while attending to 17.3x fewer input tokens (a general-text-embedding (GTE) configuration reaches 29.9x at a lower tie rate); both modes were judged tied on the 2 out-of-scope controls. NAVINDEX was judged tied on all 18 at a 1.61x smaller total token footprint, a ~56x smaller answering context, and 25% lower dollar cost. We derive a closed-form caching-crossover rule: cached injection is cheaper in dollars only while the corpus stays below roughly ten times the retrieval payload. Scope and uncertainty are quantified in Section 8.",
-          "abstractZh": "对一组交易法律文档进行问答的最简单方法是在每次查询时将整个语料库注入LLM的上下文窗口。该基线最大化了检索召回率，但其令牌占用随语料库而非问题规模增长，并且长上下文退化也随之增加。我们报告了在法律文档分析系统中替代全语料库注入所需的工作，将其与两种基于我们专有结构感知分块的结构化检索模式进行比较：嵌入检索（NAVEMBED）和通过紧凑结构索引的LLM导航（NAVINDEX）。在一个包含20个问题且具有已验证真实答案的基准测试中，一个控制位置偏差、基于参考锚点的成对评判器对语义检索加重新排序进行了评分，结果显示在18个文档边界问题中，有16个与注入持平（注入在2个问题上更优），同时处理的输入令牌减少了17.3倍（通用文本嵌入（GTE）配置在较低持平率下达到29.9倍）；两种模式在2个范围外控制问题上被评判为持平。NAVINDEX在所有18个问题上被评判为持平，总令牌占用减少1.61倍，回答上下文减少约56倍，美元成本降低25%。我们推导出一个封闭形式的缓存交叉规则：仅当语料库保持在检索负载的大约十倍以下时，缓存注入在美元成本上才更便宜。范围和不确定性在第8节中量化。",
+          "abstractZh": "对一组交易法律文档进行问答的最简单方法是在每次查询时将整个语料库注入到LLM的上下文窗口中。这种基线方法最大化了检索召回率，但其令牌占用随语料库而非问题规模增长，并且长上下文退化也随之增加。我们报告了在法律文档分析系统中替代全语料库注入所需的工作，将其与两种基于我们专有结构感知分块的结构化检索模式进行了比较：嵌入检索（NAVEMBED）和基于紧凑结构索引的LLM导航（NAVINDEX）。在一个包含20个问题且具有已验证真实答案的基准测试中，一个控制位置偏差、基于参考锚点的成对评判器评估了语义检索与重排序，在18个文档相关的问题中，有16个与注入持平（注入在2个问题上更优），同时处理的输入令牌减少了17.3倍（通用文本嵌入（GTE）配置在较低持平率下达到了29.9倍）；两种模式在2个范围外的控制问题上被评判为持平。NAVINDEX在所有18个问题上被评判为持平，总令牌占用减少了1.61倍，回答上下文减少了约56倍，美元成本降低了25%。我们推导出一个封闭形式的缓存交叉规则：仅当语料库保持在检索负载的大约十倍以下时，缓存注入在美元成本上才更便宜。范围和不确定性在第8节中进行了量化。",
           "pdfUrl": "https://arxiv.org/pdf/2607.05764v1"
         }
       ]
@@ -2841,14 +2915,14 @@
         {
           "date": "2026-07-06",
           "titleEn": "Beyond Accuracy: How Humans Evaluate Legally Correct but Socially Controversial Legal Advice from Machines",
-          "titleZh": "超越准确性：人类如何评估机器提供的合法但具有社会争议性的法律建议",
+          "titleZh": "超越准确性：人类如何评估机器提供的合法但具有社会争议的法律建议",
           "url": "https://arxiv.org/abs/2607.05680v1",
           "authors": [
             "Benjamin Minhao Chen",
             "Zhiyu Li"
           ],
           "abstractEn": "AI systems are increasingly used to provide legal advice, raising questions about whether laypeople accept guidance from algorithms--especially when that advice is legally correct but socially controversial. We report a preregistered survey experiment with 3,348 adults in mainland China examining how people evaluate identical legal advice when it is attributed either to an AI system or to a human lawyer, and when it is accompanied by reasoning or not.   Contrary to expectations of algorithm aversion, attribution to an AI system has no net effect on perceived reasonableness. However, mediation analyses reveal opposing psychological pathways underlying this null result. AI-attributed advice is perceived as more objective, which increases perceived reasonableness, but also as less comprehensive and less attentive to special circumstances, which decreases perceived reasonableness. By contrast, providing legal reasoning substantially increases perceived reasonableness regardless of source, largely by enhancing perceptions of objectivity. Qualitative responses corroborate this tension between objectivity and contextual sensitivity in evaluations of legal advice.   Together, these findings suggest that public responses to AI legal advisors are shaped not by rigid attitudes toward automation, but by the balancing of competing normative expectations. The results have implications for theories of algorithm aversion and the design of AI recommendation systems in normatively salient domains.",
-          "abstractZh": "人工智能系统越来越多地被用于提供法律建议，这引发了外行人是否会接受算法指导的问题——尤其是当这些建议在法律上正确但具有社会争议性时。我们报告了一项预先注册的调查实验，涉及中国大陆的3,348名成年人，考察人们如何评估相同的法律建议，当这些建议被归因于人工智能系统或人类律师，并且是否附有推理过程时。与算法厌恶的预期相反，归因于人工智能系统对感知合理性没有净效应。然而，中介分析揭示了这一零结果背后的对立心理路径。归因于人工智能的建议被认为更客观，这增加了感知合理性，但也被认为不够全面且对特殊情况关注不足，这降低了感知合理性。相比之下，无论来源如何，提供法律推理都显著提高了感知合理性，主要是通过增强客观性感知。定性回答证实了在法律建议评估中客观性与情境敏感性之间的这种张力。总之，这些发现表明，公众对人工智能法律顾问的反应并非由对自动化的僵化态度所塑造，而是由竞争性规范期望的平衡所决定。这些结果对算法厌恶理论以及在规范显著领域中人工智能推荐系统的设计具有启示意义。",
+          "abstractZh": "人工智能系统越来越多地被用于提供法律建议，这引发了外行是否接受算法指导的问题——尤其是当这些建议在法律上正确但具有社会争议时。我们报告了一项预先注册的调查实验，涉及中国大陆的3,348名成年人，考察人们如何评估相同的法律建议，当这些建议被归因于人工智能系统或人类律师，并且是否附带推理时。与算法厌恶的预期相反，归因于人工智能系统对感知合理性没有净效应。然而，中介分析揭示了这一零结果背后的对立心理路径。归因于人工智能的建议被认为更客观，这增加了感知合理性，但也被认为不够全面且对特殊情况关注不足，这降低了感知合理性。相比之下，无论来源如何，提供法律推理都显著提高了感知合理性，主要是通过增强客观性感知。定性回答证实了在法律建议评估中客观性与情境敏感性之间的这种张力。总之，这些发现表明，公众对人工智能法律顾问的反应并非由对自动化的僵化态度所塑造，而是由竞争性规范期望的平衡所决定。这些结果对算法厌恶理论以及在规范显著领域中人工智能推荐系统的设计具有启示意义。",
           "pdfUrl": "https://arxiv.org/pdf/2607.05680v1"
         },
         {
@@ -2861,7 +2935,7 @@
             "Eiichiro Watamura"
           ],
           "abstractEn": "Public acceptance of artificial intelligence (AI) in legal decision-making has been primarily explained through individual differences in personality traits and general technology attitudes. However, contextual features of legal disputes themselves may systematically influence preferences for AI versus human adjudicators. Across two studies with Japanese participants (N = 1,384 and N = 596), we examined whether psychological characteristics of dispute content shape acceptability judgments for algorithmic adjudication. Study 1 employed exploratory factor analysis on acceptability ratings across 46 legal dispute vignettes, revealing a two-dimensional structure distinguishing interpersonal-relational disputes (where human adjudicators were strongly preferred) from institutional-procedural disputes (where AI acceptance was comparatively higher). Study 2 replicated this structure in an independent sample and demonstrated that experimentally manipulated contextual features - emotional involvement and prototypicality - systematically modulated acceptability judgments, with effects varying by dispositional trust, AI-specific attitudes, and gender. AI-specific expectations emerged as the strongest predictor (eta2 = 0.252), and a three-way interaction among emotional involvement, gender, and prototypicality indicated that contextual effects are moderated by individual characteristics. These findings suggest that the psychological features of dispute content constitute an overlooked dimension in AI acceptance research, extending beyond technology acceptance models to fundamental questions about how individuals construe social problems and allocate adjudicative authority.",
-          "abstractZh": "公众对人工智能（AI）在法律决策中的接受度主要通过人格特质和一般技术态度的个体差异来解释。然而，法律争议本身的情境特征可能系统性地影响人们对AI与人类裁决者的偏好。通过对日本参与者进行的两项研究（N = 1,384 和 N = 596），我们考察了争议内容的心理特征是否会影响对算法裁决的可接受性判断。研究1对46个法律争议场景的可接受性评分进行了探索性因素分析，揭示了一个二维结构，区分了人际-关系型争议（强烈偏好人类裁决者）和制度-程序型争议（AI接受度相对较高）。研究2在独立样本中复制了这一结构，并证明实验操纵的情境特征——情感卷入度和典型性——系统地调节了可接受性判断，其效应因倾向性信任、AI特定态度和性别而异。AI特定期望成为最强的预测因子（eta2 = 0.252），而情感卷入度、性别和典型性之间的三向交互作用表明，情境效应受到个体特征的调节。这些发现表明，争议内容的心理特征构成了AI接受度研究中一个被忽视的维度，超越了技术接受模型，延伸至个体如何理解社会问题并分配裁决权威的基本问题。",
+          "abstractZh": "公众对人工智能（AI）在法律决策中的接受度主要通过人格特质和一般技术态度的个体差异来解释。然而，法律争议本身的情境特征可能系统性地影响人们对AI与人类裁决者的偏好。通过对日本参与者进行的两项研究（N = 1,384 和 N = 596），我们考察了争议内容的心理特征是否会影响对算法裁决的可接受性判断。研究1对46个法律争议场景的可接受性评分进行了探索性因素分析，揭示了一个二维结构，区分了人际-关系型争议（强烈偏好人类裁决者）和制度-程序型争议（AI接受度相对较高）。研究2在独立样本中复制了这一结构，并证明实验操纵的情境特征——情感卷入度和典型性——系统地调节了可接受性判断，其效应因倾向性信任、AI特定态度和性别而异。AI特定期望成为最强的预测因子（eta2 = 0.252），而情感卷入度、性别和典型性之间的三向交互作用表明，情境效应受到个体特征的调节。这些发现表明，争议内容的心理特征是AI接受度研究中一个被忽视的维度，其超越了技术接受模型，延伸至个体如何理解社会问题并分配裁决权威的基本问题。",
           "pdfUrl": "https://arxiv.org/pdf/2607.04838v1"
         }
       ]
@@ -2986,7 +3060,7 @@
             "Huiyuan Xie"
           ],
           "abstractEn": "Current Legal Judgment Prediction (LJP) is constrained by its reliance on post-hoc judicial materials, increasing the likelihood that models perform retrospective classification rather than true forecasting. This paper empirically investigates shortcut learning in this context by studying claim-level outcome prediction in UK Employment Tribunal (UKET) decisions. Using a corpus of 33,158 individual claims, we predict outcomes from claim texts and LLM-extracted case summaries, evaluating models ranging from interpretable TF-IDF-based classifiers to black-box LLMs. While headline predictive performance figures appear strong, we demonstrate that such performance in LJP systems trained on post-hoc judicial text can be driven by the retrospective nature of the source material. Stratifying the test data by human judgments of leakage reveals that performance increases where outcome-revealing cues are embedded in the narrative. Moreover, a model trained on just the 4% of features identified as leakage achieves high performance, outperforming human experts. These findings substantiate concerns that LJP performance may be exaggerated by linguistic artefacts. Yet this vulnerability is not fatal to the research agenda. Instead, post-hoc judgments might be treated as potentially contaminated texts, requiring active auditing. Retraining models after masking leakage features results in only a negligible reduction in Macro-F1. Hence, while models will opportunistically exploit shortcuts when available, they remain capable of extracting useful predictive signals when these artefacts are removed.",
-          "abstractZh": "当前的法律判决预测（LJP）受限于其对事后司法材料的依赖，这增加了模型进行回顾性分类而非真正预测的可能性。本文通过研究英国就业法庭（UKET）裁决中的索赔层面结果预测，实证调查了这种背景下的捷径学习。使用包含33,158个单独索赔的语料库，我们从索赔文本和LLM提取的案件摘要中预测结果，评估了从可解释的基于TF-IDF的分类器到黑盒LLM的各种模型。尽管总体预测性能数据看似强劲，但我们证明，在事后司法文本上训练的LJP系统的这种性能可能源于源材料的回顾性性质。通过人工判断的泄露程度对测试数据进行分层，结果显示，当结果揭示性线索嵌入叙述中时，性能会提高。此外，仅使用被识别为泄露的4%特征训练的模型实现了高性能，超过了人类专家。这些发现证实了LJP性能可能因语言伪影而被夸大的担忧。然而，这种脆弱性对研究议程并非致命。相反，事后判决可能被视为潜在受污染文本，需要主动审计。在屏蔽泄露特征后重新训练模型，Macro-F1仅出现可忽略的下降。因此，虽然模型在可用时会机会性地利用捷径，但当这些伪影被移除时，它们仍然能够提取有用的预测信号。",
+          "abstractZh": "当前的法律判决预测（LJP）受限于其对事后司法材料的依赖，这增加了模型进行回顾性分类而非真正预测的可能性。本文通过研究英国就业法庭（UKET）判决中的索赔层面结果预测，实证调查了这种背景下的捷径学习。使用包含33,158个单独索赔的语料库，我们从索赔文本和LLM提取的案件摘要中预测结果，评估了从可解释的基于TF-IDF的分类器到黑盒LLM的各种模型。尽管总体预测性能数据看似强劲，但我们证明，在事后司法文本上训练的LJP系统的这种性能可能源于源材料的回顾性性质。通过人工判断的泄漏对测试数据进行分层显示，当结果揭示性线索嵌入叙述中时，性能会提高。此外，仅使用被识别为泄漏的4%特征训练的模型实现了高性能，超过了人类专家。这些发现证实了LJP性能可能因语言伪影而被夸大的担忧。然而，这种脆弱性对研究议程并非致命。相反，事后判决可能被视为潜在受污染文本，需要主动审计。在屏蔽泄漏特征后重新训练模型，Macro-F1仅出现可忽略的下降。因此，虽然模型在可用时会机会性地利用捷径，但当这些伪影被移除时，它们仍然能够提取有用的预测信号。",
           "pdfUrl": "https://arxiv.org/pdf/2607.04261v2"
         }
       ]
