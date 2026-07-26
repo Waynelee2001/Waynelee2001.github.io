@@ -1,15 +1,72 @@
 {
-  "generatedAt": "2026-07-25T03:11:01.934Z",
+  "generatedAt": "2026-07-26T03:15:47.081Z",
   "range": {
     "start": "2026-01-01",
-    "end": "2026-07-25"
+    "end": "2026-07-26"
   },
   "totals": {
-    "news": 1730,
+    "news": 1733,
     "research": 159,
-    "days": 161
+    "days": 162
   },
   "briefs": [
+    {
+      "date": "2026-07-25",
+      "news": [
+        {
+          "date": "2026-07-25",
+          "platform": "LegalTech Monitor",
+          "titleEn": "Alabama Bar Draws a Clear Ethics Line on Lawyers’ AI Use",
+          "titleZh": "Alabama Bar Draws a Clear Ethics Line on Lawyers’ AI Use",
+          "url": "https://www.legaltechmonitor.com/2026/07/alabama-bar-draws-a-clear-ethics-line-on-lawyers-ai-use",
+          "summaryZh": "中文摘要生成失败；原文已抓取，请检查摘要模型配置后重新运行该日期脚本。",
+          "bodyHtml": "",
+          "bodyText": "",
+          "contentAuthor": "Bruno Queiroz",
+          "sourceUrl": "https://www.docketalarm.com/blog/2026/07/alabama-bar-draws-clear-ethics-line-on.html",
+          "sourceAuthor": "Bruno Queiroz",
+          "sourceAccess": "paywalled",
+          "relevance": "medium",
+          "relevanceReason": "",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-07-25",
+          "platform": "LegalTech Monitor",
+          "titleEn": "DOJ Secures Prison Terms in $45 Million Investor Fraud Targeting 10,000 Victims",
+          "titleZh": "DOJ Secures Prison Terms in $45 Million Investor Fraud Targeting 10,000 Victims",
+          "url": "https://www.legaltechmonitor.com/2026/07/doj-secures-prison-terms-in-45-million-investor-fraud-targeting-10000-victims",
+          "summaryZh": "中文摘要生成失败；原文已抓取，请检查摘要模型配置后重新运行该日期脚本。",
+          "bodyHtml": "",
+          "bodyText": "",
+          "contentAuthor": "Bruno Queiroz",
+          "sourceUrl": "https://www.docketalarm.com/blog/2026/07/doj-secures-prison-terms-in-45-million.html",
+          "sourceAuthor": "Bruno Queiroz",
+          "sourceAccess": "paywalled",
+          "relevance": "medium",
+          "relevanceReason": "",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-07-25",
+          "platform": "LegalTech Monitor",
+          "titleEn": "Vibe Coding For Lawyers: Next Big Thing Or Just A Big Dud?",
+          "titleZh": "Vibe Coding For Lawyers: Next Big Thing Or Just A Big Dud?",
+          "url": "https://www.legaltechmonitor.com/2026/07/vibe-coding-for-lawyers-next-big-thing-or-just-a-big-dud",
+          "summaryZh": "中文摘要生成失败；原文已抓取，请检查摘要模型配置后重新运行该日期脚本。",
+          "bodyHtml": "",
+          "bodyText": "Will vibe coding for and by lawyers be the next big thing? Here’s my post for Above the Law TechLaw Crossroads is a no-bullshit blog written mainly by me. As Harold Ross, the New Yorker founding Editor said, “Everybody knows the news. Now tell us something about it.” That’s my goal. I am a former lawyer who practiced as a partner with a large law firm for the better part of 30 years. I was a trial lawyer, mostly in mass tort and, later, in data breach, privacy, and cyber insurance areas. I also write for Above the Law. I am a panelist on LegalTech Week, a weekly roundtable of legal tech journalists where we discuss the most significant legal tech stories of the week. Je ne regrette rien",
+          "contentAuthor": "Stephen Embry",
+          "sourceUrl": "https://www.techlawcrossroads.com/2026/07/vibe-coding-for-lawyers-next-big-thing-or-just-a-big-dud",
+          "sourceAuthor": "Stephen Embry",
+          "sourceAccess": "unknown",
+          "relevance": "medium",
+          "relevanceReason": "",
+          "isAggregatedSource": true
+        }
+      ],
+      "research": []
+    },
     {
       "date": "2026-07-24",
       "news": [
