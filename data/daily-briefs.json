@@ -1,15 +1,55 @@
 {
-  "generatedAt": "2026-08-01T03:11:26.354Z",
+  "generatedAt": "2026-08-02T03:13:08.600Z",
   "range": {
     "start": "2026-01-01",
-    "end": "2026-08-01"
+    "end": "2026-08-02"
   },
   "totals": {
-    "news": 1802,
+    "news": 1804,
     "research": 163,
-    "days": 168
+    "days": 169
   },
   "briefs": [
+    {
+      "date": "2026-08-01",
+      "news": [
+        {
+          "date": "2026-08-01",
+          "platform": "LegalTech Monitor",
+          "titleEn": "An Anti Adobe Acrobat rant",
+          "titleZh": "一篇抨击Adobe Acrobat的文章",
+          "url": "https://www.legaltechmonitor.com/2026/08/an-anti-adobe-acrobat-rant",
+          "summaryZh": "该文章标题为“一篇抨击Adobe Acrobat的文章”，但正文内容仅为Cloudflare的JavaScript验证页面，提示“请稍候”并需要启用JavaScript和cookies才能继续访问。页面包含大量技术性脚本和验证参数，未提供任何关于Adobe Acrobat或法律科技的实际内容。",
+          "bodyHtml": "",
+          "bodyText": "Just a moment...*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width Enable JavaScript and cookies to continue(function(){window._cf_chl_opt = {cFPWv: 'g',cH: 'pzjs3w3n0LslTFO55UhCfdpWCYdrzzDVAXftjKapS_0-1785640331-1.2.1.1-ApRIj_GWXaaxOqWR0MQvo1YrQHBLyCz92G2dqg5QUmHi5ry63Qt7MZsA49zKjgvg',cITimeS: '1785640331',cN: 'kxuDcv3kawcDybZN0vRUxg',cRay: 'a249e648bbe8d6b9',cTplB: '0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/https://www.legaltechmonitor.com/2026/08/an-anti-adobe-acrobat-rant?__cf_chl_tk=Hyj2kj_OSYZ2ZmMruI2KmAIqlg.6UlcuA7KwI8VUBaM-1785640331-1.0.1.1-Zwi2wswE1mVcys1eXRJfnF3TzJZhXXaO4xX4wrIyKqM\",cvId: '3',cZone: 'r.jina.ai',fa:\"/https://www.legaltechmonitor.com/2026/08/an-anti-adobe-acrobat-rant?__cf_chl_f_tk=Hyj2kj_OSYZ2ZmMruI2KmAIqlg.6UlcuA7KwI8VUBaM-1785640331-1.0.1.1-Zwi2wswE1mVcys1eXRJfnF3TzJZhXXaO4xX4wrIyKqM\",md: 'MCVuM.lZEyNVgzYg.ZjSCa_dwJDiwItOoqh5PsLkngU-1785640331-1.2.1.1-6zHDJ6TvzXEY7bj6i0Mrl1oJSkBSSjzEA7SjYoUAegRNlVSK16ptOkvR58IiwHH5OMYSgfgQNPG_L8RQrBjcePxaUcQ9iMLu1mTU3qVlXORPlUAOCNu1pdM33xBJlfpPwU7GNJMDPZITTcYBkDRii14WW7AhEqGBXn3mTxPmYGtf9tiNP4E0_h5JzlJMrpiogcYM1K.9GCwcj5rNyegEEizNvkMmeFna0EDRLNEYtyi0DTfH3LbmxCqjoWDg0r1IlWU3.EaJf.n1m0Q0mCV.MessMuNXHBj63isZ.3P.gvFDBeE_XUH9nhrAhGDSjZ_6fWR6_SY8wbAsq1d4yNRp0G_xylz8muPsB.0N7FvsFnGdIzKbwrxSrddAojVsAx3borgZOLiCyGqOSqRffewtsmMxEtK2OHfCjV1umovqW7oO8fANvWyYz0NBgCw2x1CwVbVzrbr1GdO9DBfSezdiZAR3K0k1EdjMhVoTSgXY9SYZkeTQr1oB6Pktn3KdxYCEUqzaZ76l6s2L70wXRH9ZpqBAYfzM7p8nwTX2ufHhEPAr.yAyVBA0.VNeNqbZ_NhdpvGoaw1Ph2w1317ifNlK2O5.cv.QBN3nRWLhtFSEbX_1FPI.ofbqsS3Mqm.Vet8ceScDjlWLIQKcvOQ9i8EbDUImFdFrgfkzJozxYIGuaCXQu1S2gGdMK_4mWg4PjwnUrkja3maVeHnEqeKFEcntRU0RsGZJMO_5ZoC2Svu2rh2P3QeEagdCl6lRZhNGcb.hf8sjW7g0mIVOzJ9Tg1Ueuk_fCT8qxsAq0llzYB341kNKKFMBar930H7HsblYWB65ftI_M.FM5YQSN7_N7NxJ1G1yfBIdp8NzHPxCNHRKpEI_84aFqVnMBQfz62p_VXbajjKfM3T.QFBiVYqKtHhaarJJ9TtODPzCDzI.zJetfJVdp87yYu.efsbER0KlWqiRIY5pLwWA11Bu8YXOTqlqGfTyGuqkvvookOgABpm1pEpcnecQvQJuKn8w5hl5uDrlREDHTJ_sOS1X1pTskkQa7KdGBpyxYeNzuQ6bF70ilT9X8mNPWnzOiDBkrF2EeKaSxeF_Y3mT1M5O2YXKx5oku5S6ooM.2tcJMM3EZDRBwJGhFiU7SXh9aRrl2qugaty54jvwgB4AszKCAZXb5IyNzx0TiWKseIWxkftCI1D2.dpiHbjAZ3z_xEyaEK5Zo3EUD1m7nlwv9g0YgF70NNJY49SfRb1yPFD00x9.FgZvIF_WkYa_udzZIJCGqgw4H0cQ',mdrd: '8HNO3bKLxJoGkgVdSt04qXH.tYEhMhmmBlqMXScwHRc-1785640331-1.2.1.1-R6bd1ImwBIzoNETrJIF4QlrlkivS7Sf8.XK7JY_HnGljerpWz6LAT1Nia.VXsbuxYPlUvnBGbUIM1bqWhQJG8OdUhLyLfVWTNxxUV34wFlZQFS0as0KH9FPl2UxGCvg8xi8zFQ1SbHxzwhTWdJGg_.ZFIRVp1Vxsc.iVKTfeDPo4KyZ_hV7zlBe4PBWTPFtHfGjYJVFUp5AM0juzCHHLdTQ7XNZQQDYuI4lOpWA7ACa1oPVfK8Uibn5InQKGMWukoCPMMHTMx4MVYDzPX7i2lus_rRivfIDBvzMcUeNWbupXNEpJFTH0LN7wt.aJsARn1v5wjSGFPlnTc4k1LpU.P46tDKVLrXtibvg.jDoPI5nR3sznWEtAeh488tIAPuz2',};var a = document.createElement('script');a.nonce = 'kxuDcv3kawcDybZN0vRUxg';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a249e648bbe8d6b9';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/https://www.legaltechmonitor.com/2026/08/an-anti-adobe-acrobat-rant?__cf_chl_rt_tk=Hyj2kj_OSYZ2ZmMruI2KmAIqlg.6UlcuA7KwI8VUBaM-1785640331-1.0.1.1-Zwi2wswE1mVcys1eXRJfnF3TzJZhXXaO4xX4wrIyKqM\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());",
+          "contentAuthor": "jim calloway",
+          "sourceUrl": "https://www.lawpracticetipsblog.com/2026/08/an-anti-adobe-acrobat-rant.html",
+          "sourceAuthor": "jim calloway",
+          "sourceAccess": "unknown",
+          "relevance": "unrelated",
+          "relevanceReason": "文章内容仅为网站访问验证页面，未涉及任何法律AI或法律科技相关信息。",
+          "isAggregatedSource": true
+        },
+        {
+          "date": "2026-08-01",
+          "platform": "LegalTech Monitor",
+          "titleEn": "Judge Voids Trump-Era IRS Settlement, Reopening Questions on Tax Authority and Executive Power",
+          "titleZh": "法官否决特朗普时代国税局和解协议，重新引发税收权力与行政权问题",
+          "url": "https://www.legaltechmonitor.com/2026/08/judge-voids-trump-era-irs-settlement-reopening-questions-on-tax-authority-and-executive-power",
+          "summaryZh": "美国一名法官否决了特朗普政府时期国税局（IRS）达成的一项和解协议，该裁决重新引发了对税收权力和行政权边界的质疑。目前，案件的具体细节尚未披露，但此举可能影响未来行政部门在税收事务中的权限范围。",
+          "bodyHtml": "",
+          "bodyText": "",
+          "contentAuthor": "Bruno Queiroz",
+          "sourceUrl": "https://www.docketalarm.com/blog/2026/08/judge-voids-trump-era-irs-settlement.html",
+          "sourceAuthor": "Bruno Queiroz",
+          "sourceAccess": "paywalled",
+          "relevance": "low",
+          "relevanceReason": "文章主要涉及税收法律和行政权力，未提及法律AI或法律科技相关内容。",
+          "isAggregatedSource": true
+        }
+      ],
+      "research": []
+    },
     {
       "date": "2026-07-31",
       "news": [
@@ -432,7 +472,7 @@
         {
           "date": "2026-07-30",
           "titleEn": "Annotating Topical Legal Insights from Case Proceedings",
-          "titleZh": "从案件审理中标注主题性法律见解",
+          "titleZh": "从案件审理中标注主题法律见解",
           "url": "https://arxiv.org/abs/2607.27792v1",
           "authors": [
             "Subinay Adhikary",
@@ -442,7 +482,7 @@
             "Kripabandhu Ghosh"
           ],
           "abstractEn": "In this paper, we mainly concentrate on finding concepts or topics from the legal case proceedings, since adopting a structured representation for legal documents, as opposed to a mere bag-of-words flat text representation, can significantly enhance processing capabilities. To achieve this objective, we put forward a set of diverse concepts for legal case proceedings. With this motivation, we propose LeDA, a system for Legal Data Annotation. The system offers the generic functionality of annotating and adjudicating entities or concepts within documents via a web-based interface. A novel feature of our system is that it allows to dynamic create new tags for annotation, which is a particularly useful provision for situations where there exists no pre-defined ontology for the entities (concepts) that need to be annotated - these being rather discovered by annotators as they continue examining more documents. The system that we demonstrate is currently in use to annotate a set of concepts from legal documents to construct semantic representations of documents as bags of concepts that can then be used for several downstream tasks, such as prior case retrieval, judgment prediction, and so on. Along with the system features in general, we also describe how LeDA was used by 3 assessors to annotate and adjudicate legal concept names from Indian Supreme Court case proceedings.",
-          "abstractZh": "在本文中，我们主要关注从法律案件审理中发现概念或主题，因为采用结构化表示的法律文件，而非简单的词袋式平面文本表示，可以显著增强处理能力。为了实现这一目标，我们提出了一套针对法律案件审理的多样化概念。基于这一动机，我们提出了LeDA，一个用于法律数据标注的系统。该系统通过基于网页的界面提供了在文档中标注和裁定实体或概念的通用功能。我们系统的一个新颖特点是允许动态创建新的标注标签，这在需要标注的实体（概念）没有预定义本体的情况下特别有用——这些实体（概念）由标注者在继续检查更多文档时发现。我们展示的系统目前正用于从法律文档中标注一组概念，以构建文档的语义表示，即概念袋，这些表示可用于多个下游任务，如先例检索、判决预测等。除了系统的一般功能外，我们还描述了LeDA如何被3名评估员用于标注和裁定印度最高法院案件审理中的法律概念名称。",
+          "abstractZh": "在本文中，我们主要关注从法律案件审理中发现概念或主题，因为采用结构化表示的法律文件，而非简单的词袋平面文本表示，可以显著增强处理能力。为了实现这一目标，我们提出了一套针对法律案件审理的多样化概念。基于这一动机，我们提出了LeDA，一个用于法律数据标注的系统。该系统通过基于网页的界面提供了标注和裁决文档中实体或概念的通用功能。我们系统的一个新颖特点是允许动态创建新的标注标签，这对于需要标注的实体（概念）没有预定义本体的情况特别有用——这些实体（概念）由标注者在继续检查更多文档时发现。我们展示的系统目前正用于从法律文档中标注一组概念，以构建文档的语义表示，作为概念袋，可用于多个下游任务，如先例检索、判决预测等。除了系统的一般功能外，我们还描述了LeDA如何被3名评估员用于标注和裁决印度最高法院案件审理中的法律概念名称。",
           "pdfUrl": "https://arxiv.org/pdf/2607.27792v1"
         }
       ]
@@ -1208,7 +1248,7 @@
             "Pierre Monnin"
           ],
           "abstractEn": "Maintenance regulations are complex legal texts that are difficult to exploit when addressing a specific case and challenging to integrate into operational systems. This paper presents a two-stage LLM-assisted workflow for French maintenance regulations: ontology engineering from a SEMLEG-based core ontology, followed by construction of an ontology-grounded French legal knowledge graph. The first stage consists in the open extraction of typed entities and triples from a stratified corpus sample, the normalization of labels through embedding-based fusion, and the induction of candidate object properties with their signature (domain and range). The second stage uses the resulting ontology to guide the closed extraction of triples and RDF graph construction over the full corpus. Experiments with GPT-4.1 and mistral-large-2512 show robust structured outputs, near-complete class alignment, and a substantial reduction of duplicated entities and predicates after fusion. Fewer than 20% of triples introduce unseen properties, while lower exact signature compliance reveals new domain-range combinations for existing predicates. These results point to predicate normalization and the validation of newly observed relation signatures as key refinement steps for industrial maintenance settings.",
-          "abstractZh": "维护法规是复杂的法律文本，在处理特定案件时难以利用，并且难以集成到操作系统中。本文提出了一种针对法语维护法规的两阶段LLM辅助工作流程：首先从基于SEMLEG的核心本体进行本体工程，然后构建基于本体的法语法律知识图谱。第一阶段包括从分层语料库样本中开放提取类型化实体和三元组，通过基于嵌入的融合进行标签归一化，以及归纳候选对象属性及其签名（定义域和值域）。第二阶段利用生成的本体指导全语料库上的封闭式三元组提取和RDF图构建。使用GPT-4.1和mistral-large-2512进行的实验显示出稳健的结构化输出、近乎完整的类别对齐，以及融合后重复实体和谓词的显著减少。少于20%的三元组引入了未见过的属性，而较低的精确签名符合性揭示了现有谓词的新定义域-值域组合。这些结果表明，谓词归一化和对新观察到的关系签名的验证是工业维护环境中的关键细化步骤。",
+          "abstractZh": "维护法规是复杂的法律文本，在处理特定案例时难以利用，并且难以集成到操作系统中。本文提出了一种针对法语维护法规的两阶段LLM辅助工作流程：基于SEMLEG核心本体的本体工程，随后构建基于本体的法语法律知识图谱。第一阶段包括从分层语料库样本中开放提取类型化实体和三元组，通过基于嵌入的融合进行标签归一化，以及归纳候选对象属性及其签名（定义域和值域）。第二阶段利用所得本体指导全语料库上的封闭式三元组提取和RDF图构建。使用GPT-4.1和mistral-large-2512进行的实验显示出稳健的结构化输出、近乎完整的类别对齐，以及融合后重复实体和谓词的显著减少。少于20%的三元组引入了未见过的属性，而较低的精确签名符合性揭示了现有谓词的新定义域-值域组合。这些结果表明，谓词归一化和对新观察到的关系签名的验证是工业维护环境中的关键细化步骤。",
           "pdfUrl": "https://arxiv.org/pdf/2607.24551v1"
         }
       ]
@@ -1265,7 +1305,7 @@
             "Swakkhar Shatabda"
           ],
           "abstractEn": "A small language model can receive the governing statutory provision and still answer incorrectly. We test whether fine-tuning on examples containing relevant law improves later use of retrieved law. We curate 2{,}165 bilingual QA records from six Bangladeshi acts and three schedules, then fine-tune Qwen3.5 at 0.8B, 2B, and 4B. Evaluation uses the 2022 and 2023 Bangladesh Bar Council exams in Bangla and machine-translated English, with no retrieval, BM25, or FAISS, scored by strict consistency over three seeded runs. At 0.8B, fine-tuning raises the 2022 English FAISS score from 2 to 34 of 100. Gains at 0.8B and 2B survive paired testing, but the 4B model has no detectable net gain: Bangla improves while several English conditions regress. Fine-tuning also reduces answers that drift from Bangla into mostly English from 44.0--53.2\\% to 0.2--0.7\\%, with adjusted $p<.001$ at every scale. Retrieval quality is therefore not the only bottleneck. Small bilingual legal models also differ in how they use supplied law and whether they answer in the requested language. The dataset is publicly available at https://huggingface.co/datasets/momahadi/bangladesh-legal-qa-dataset.",
-          "abstractZh": "一个小型语言模型可以接收到适用的法定条款，但仍然会给出错误的答案。我们测试了在包含相关法律的示例上进行微调是否能提高后续对检索到的法律的使用。我们从六部孟加拉国法案和三个附表中整理了2,165条双语问答记录，然后对Qwen3.5的0.8B、2B和4B版本进行微调。评估使用了2022年和2023年孟加拉国律师协会考试（孟加拉语和机器翻译的英语），不进行检索、BM25或FAISS，通过三次种子运行的严格一致性进行评分。在0.8B规模下，微调将2022年英语FAISS分数从2分提高到34分（满分100分）。0.8B和2B规模的提升在配对检验中仍然显著，但4B模型没有可检测到的净收益：孟加拉语有所改善，而几个英语条件则出现退步。微调还减少了从孟加拉语漂移到以英语为主的回答，从44.0–53.2%降至0.2–0.7%，在每个规模下调整后的p<.001。因此，检索质量并不是唯一的瓶颈。小型双语法律模型在如何使用提供的法律以及是否以所要求的语言回答方面也存在差异。该数据集公开可用，网址为https://huggingface.co/datasets/momahadi/bangladesh-legal-qa-dataset。",
+          "abstractZh": "一个小型语言模型可以接收到适用的法定条款，但仍然会给出错误的答案。我们测试了在包含相关法律的示例上进行微调是否能改善对检索到的法律的后续使用。我们从六部孟加拉国法案和三个附表中整理了2,165条双语问答记录，然后对Qwen3.5的0.8B、2B和4B版本进行微调。评估使用了2022年和2023年孟加拉国律师协会考试（孟加拉语版本和机器翻译的英语版本），不进行检索、不使用BM25或FAISS，并通过三次种子运行的严格一致性进行评分。在0.8B规模下，微调将2022年英语FAISS分数从2分提高到34分（满分100分）。0.8B和2B规模下的提升在配对检验中仍然显著，但4B模型没有可检测到的净收益：孟加拉语有所改善，而几个英语条件则出现退步。微调还将从孟加拉语漂移到以英语为主的回答比例从44.0%–53.2%降低到0.2%–0.7%，在所有规模下调整后的p值均小于0.001。因此，检索质量并不是唯一的瓶颈。小型双语法律模型在如何使用所提供的法律以及是否以所要求的语言回答方面也存在差异。该数据集公开可用，网址为https://huggingface.co/datasets/momahadi/bangladesh-legal-qa-dataset。",
           "pdfUrl": "https://arxiv.org/pdf/2607.23446v1"
         }
       ]
@@ -1531,7 +1571,7 @@
             "Jayr Pereira"
           ],
           "abstractEn": "Legal retrieval over jurisprudential collections is challenging because court decisions are long, heterogeneous documents whose relevant legal thesis may occupy only a small portion of the text. This paper asks whether legal nuggets, defined as short and self-contained legal theses extracted from source documents, can improve dense retrieval over Brazilian legal collections. We propose a pipeline that extracts nuggets from each document, indexes them with embeddings, retrieves nugget-level evidence, and aggregates the retrieved nuggets back to document-level rankings. We evaluate this approach on four Portuguese legal retrieval benchmarks from the JUA ecosystem, reporting NDCG@10, MAP@10, and MRR@10. Nugget retrieval substantially improves the two jurisprudential datasets: on JUA-Juris, NDCG@10 increases from 0.10265 to 0.20461, and on JurisTCU from 0.20898 to 0.32696. However, it underperforms full-document retrieval on NormasTCU and BR-TaxQA, and an embedding-model ablation shows that strong domain-adapted retrievers can remain better in the full-document setting. The results demonstrate that legal nuggets can be useful for jurisprudence search, especially when queries are formulated as legal theses, but they may not transfer equally well to other legal retrieval scenarios.",
-          "abstractZh": "对法学判例集合进行法律检索具有挑战性，因为法院判决是冗长且异构的文档，其相关的法律论点可能仅占文本的一小部分。本文探讨了从源文档中提取的、简短且自包含的法律要点（定义为法律要点）是否能改善对巴西法律集合的密集检索。我们提出了一种流水线，从每个文档中提取要点，用嵌入对其进行索引，检索要点级别的证据，并将检索到的要点聚合回文档级别的排名。我们在JUA生态系统的四个葡萄牙语法律检索基准上评估了该方法，报告了NDCG@10、MAP@10和MRR@10。要点检索显著改善了这两个判例数据集：在JUA-Juris上，NDCG@10从0.10265提高到0.20461；在JurisTCU上，从0.20898提高到0.32696。然而，在NormasTCU和BR-TaxQA上，其表现不如全文检索，并且嵌入模型的消融实验表明，在全文设置中，强大的领域自适应检索器可能仍然更好。结果表明，法律要点对于判例搜索可能是有用的，尤其是当查询以法律论点的形式提出时，但它们可能无法同样地迁移到其他法律检索场景。",
+          "abstractZh": "法律检索在判例集合中具有挑战性，因为法院判决是冗长、异构的文档，其相关的法律论点可能仅占文本的一小部分。本文探讨了法律要点（定义为从源文档中提取的简短且自包含的法律论点）是否能够改善巴西法律集合的密集检索。我们提出了一种流水线，从每个文档中提取要点，用嵌入向量对其进行索引，检索要点级别的证据，并将检索到的要点聚合回文档级别的排名。我们在JUA生态系统的四个葡萄牙语法律检索基准上评估了该方法，报告了NDCG@10、MAP@10和MRR@10。要点检索显著改善了这两个判例数据集：在JUA-Juris上，NDCG@10从0.10265提高到0.20461；在JurisTCU上，从0.20898提高到0.32696。然而，在NormasTCU和BR-TaxQA上，其性能不如全文检索，并且嵌入模型消融实验表明，强大的领域自适应检索器在全文设置中可能仍然更好。结果表明，法律要点对于判例搜索可能是有用的，特别是当查询以法律论点的形式提出时，但它们可能无法同样地迁移到其他法律检索场景。",
           "pdfUrl": "https://arxiv.org/pdf/2607.22479v1"
         }
       ]
@@ -2423,7 +2463,7 @@
         {
           "date": "2026-07-21",
           "titleEn": "Reasoning Before Translation: Enhancing Legal Machine Translation with Structured Reasoning",
-          "titleZh": "推理先行：利用结构化推理增强法律机器翻译",
+          "titleZh": "先推理后翻译：利用结构化推理增强法律机器翻译",
           "url": "https://arxiv.org/abs/2607.19181v1",
           "authors": [
             "Aixiu An",
@@ -2433,7 +2473,7 @@
             "Andreas Fischer"
           ],
           "abstractEn": "Neural machine translation (NMT) in the legal domain is a linguistically and conceptually demanding task, primarily due to the complexity of legal language and the high level of precision it requires. The recent emergence of reasoning-capable language models opens new possibilities for tackling such challenges. They add to a set of other previously proposed techniques to enhance the translation quality, which includes supervised fine-tuning and reinforcement learning.   In this work, we perform a comparison between these various approaches. More particularly, we evaluate small language models such as Qwen3.5 4B, Qwen3.5 9B, and Gemma 3 12B enhanced with various re-training paradigms and compare their performances against frontier reasoning models. We focus on the Swiss legal system, which -- with its unique multilingual statutes -- offers a particularly challenging testbed for reasoning-augmented models. Our results show that the quality of small ``base'' models can be greatly enhanced, and that reinforcement learning with verifiable rewards can be applied to NMT in the legal domain and surpasses the translation quality of supervised fine-tuning. The performance of enhanced small models is close to the one of state-of-the-art reasoning models yet remains inferior. We also note that re-training paradigms yield diminishing returns as model size increase. The code and models are publicly available at https://github.com/aixiuxiuxiu/Legal-MT-SFT-RL.",
-          "abstractZh": "法律领域的神经机器翻译（NMT）是一项语言和概念上要求很高的任务，这主要是由于法律语言的复杂性及其所需的高精度。最近出现的具备推理能力的语言模型为应对此类挑战开辟了新的可能性。它们补充了先前提出的其他增强翻译质量的技术，包括监督微调和强化学习。在这项工作中，我们对这些不同方法进行了比较。更具体地说，我们评估了通过不同重训练范式增强的小型语言模型，如Qwen3.5 4B、Qwen3.5 9B和Gemma 3 12B，并将其性能与前沿推理模型进行了比较。我们重点关注瑞士法律体系，该体系以其独特的多种语言法规，为推理增强模型提供了一个特别具有挑战性的测试平台。我们的结果表明，小型“基础”模型的质量可以得到大幅提升，并且带有可验证奖励的强化学习可以应用于法律领域的NMT，其翻译质量超过了监督微调。增强后的小型模型的性能接近最先进的推理模型，但仍有所不及。我们还注意到，随着模型规模的增大，重训练范式的收益递减。代码和模型可在https://github.com/aixiuxiuxiu/Legal-MT-SFT-RL公开获取。",
+          "abstractZh": "法律领域的神经机器翻译（NMT）是一项语言和概念上要求很高的任务，这主要是由于法律语言的复杂性及其所需的高精度。最近出现的具备推理能力的语言模型为应对此类挑战开辟了新的可能性。它们为先前提出的其他增强翻译质量的技术（包括监督微调和强化学习）增添了新的内容。在这项工作中，我们对这些不同方法进行了比较。更具体地说，我们评估了通过不同再训练范式增强的小型语言模型，如Qwen3.5 4B、Qwen3.5 9B和Gemma 3 12B，并将其性能与前沿推理模型进行了比较。我们重点关注瑞士法律体系，该体系以其独特的多种语言法规，为推理增强模型提供了一个特别具有挑战性的测试平台。我们的结果表明，小型“基础”模型的质量可以得到大幅提升，并且带有可验证奖励的强化学习可以应用于法律领域的NMT，其翻译质量超过了监督微调。增强后的小型模型的性能接近最先进的推理模型，但仍有所不及。我们还注意到，随着模型规模的增大，再训练范式的收益递减。代码和模型可在https://github.com/aixiuxiuxiu/Legal-MT-SFT-RL公开获取。",
           "pdfUrl": "https://arxiv.org/pdf/2607.19181v1"
         },
         {
@@ -2449,7 +2489,7 @@
             "Arnab Bhattacharya"
           ],
           "abstractEn": "This comprehensive study introduces an advanced Artificial Intelligence for Indian Legal Question Answering (AILQA) system tailored to the Indian legal context. AILQA leverages a variety of embedding and generative models, including recent Large Language Models (LLMs), to address the unique challenges posed by the intricate and diverse nature of Indian legal texts and to enhance the accuracy and reliability of responses to legal questions. We conducted rigorous evaluations using both lexical and semantic metrics, enriched by expert legal feedback, to ensure relevance and accuracy. Our findings underscore the effectiveness of the Retrieval-Augmented Generation (RAG) paradigm in improving answer quality, particularly in complex legal domains. Additionally, we assessed performance on standardized tests such as the All India Bar Examination (AIBE), thereby providing a robust benchmark for practical applications. Under the study's evaluation protocol, some AI-generated responses received higher ratings than the available reference answers, particularly when they contained accurate and relevant supporting details. This finding is specific to the evaluated dataset and rating criteria and should not be interpreted as evidence that the models generally outperform qualified legal professionals. We also discuss the challenges encountered, such as the need for precise context and the risks of model hallucination, and propose directions for future research to further refine AI capabilities in the legal field. This study aims to pave the way for enhanced legal decision-support systems, making them more accessible and effective for legal professionals and the public alike.",
-          "abstractZh": "这项综合研究介绍了一种针对印度法律背景量身定制的高级人工智能印度法律问答（AILQA）系统。AILQA利用各种嵌入和生成模型，包括最近的大型语言模型（LLM），以应对印度法律文本错综复杂和多样性所带来的独特挑战，并提高对法律问题回答的准确性和可靠性。我们使用词汇和语义指标进行了严格的评估，并辅以专家法律反馈，以确保相关性和准确性。我们的研究结果强调了检索增强生成（RAG）范式在提高答案质量方面的有效性，特别是在复杂的法律领域。此外，我们评估了在全印度律师资格考试（AIBE）等标准化测试中的表现，从而为实际应用提供了稳健的基准。在研究评估协议下，一些AI生成的回答获得了比现有参考答案更高的评分，特别是当它们包含准确且相关的支持细节时。这一发现特定于所评估的数据集和评分标准，不应被解释为模型普遍优于合格法律专业人士的证据。我们还讨论了遇到的挑战，如需要精确的上下文和模型幻觉的风险，并提出了未来研究方向，以进一步完善法律领域的AI能力。这项研究旨在为增强法律决策支持系统铺平道路，使它们对法律专业人士和公众更加可及和有效。",
+          "abstractZh": "这项综合性研究引入了一个针对印度法律背景量身定制的高级人工智能印度法律问答（AILQA）系统。AILQA利用各种嵌入和生成模型，包括最近的大型语言模型（LLM），以应对印度法律文本错综复杂且多样化的特性所带来的独特挑战，并提高对法律问题回答的准确性和可靠性。我们使用词汇和语义指标进行了严格的评估，并辅以专家法律反馈，以确保相关性和准确性。我们的研究结果强调了检索增强生成（RAG）范式在提高答案质量方面的有效性，特别是在复杂的法律领域。此外，我们评估了在全印度律师资格考试（AIBE）等标准化测试中的表现，从而为实际应用提供了稳健的基准。在研究的评估协议下，一些AI生成的回答获得了比现有参考答案更高的评分，特别是当它们包含准确且相关的支持细节时。这一发现特定于所评估的数据集和评分标准，不应被解释为这些模型普遍优于合格法律专业人士的证据。我们还讨论了遇到的挑战，如对精确上下文的需求和模型幻觉的风险，并提出了未来研究的方向，以进一步完善AI在法律领域的能力。这项研究旨在为增强法律决策支持系统铺平道路，使它们对法律专业人士和公众都更加可及和有效。",
           "pdfUrl": "https://arxiv.org/pdf/2607.18825v1"
         }
       ]
@@ -2814,7 +2854,7 @@
             "Adib Sakhawat"
           ],
           "abstractEn": "We present the Bangladesh Legal Acts Dataset (BLAD), a curated collection of 1{,}484 legislative acts enacted between 1799 and 2025. Each act is represented with its full text, structured sections and footnotes, repeal status, and metadata linking it to the governing regime, head of state, and prevailing legal framework at the time of enactment. The corpus spans English, Bengali, and mixed-language documents, supporting temporal and multilingual analysis of statutory law. BLAD addresses a persistent gap in legal natural language processing (NLP) resources for low-resource, civil-law jurisdictions in South Asia. We describe the acquisition and enrichment pipeline, report descriptive statistics over more than two centuries of legislation, and outline the research directions the corpus enables. The dataset is publicly available under the CC~BY-SA~4.0 license at https://www.kaggle.com/datasets/sakhadib/bangladesh-legal-acts-dataset.",
-          "abstractZh": "我们介绍了孟加拉国法律法案数据集（BLAD），这是一个精选的集合，包含1799年至2025年间颁布的1,484项立法法案。每项法案均包含全文、结构化章节和脚注、废止状态，以及将其与颁布时的执政政权、国家元首和现行法律框架联系起来的元数据。该语料库涵盖英语、孟加拉语和混合语言文档，支持对成文法进行时间和多语言分析。BLAD填补了南亚低资源大陆法系司法管辖区法律自然语言处理（NLP）资源的长期空白。我们描述了采集和丰富流程，报告了超过两个世纪立法的描述性统计，并概述了该语料库所支持的研究方向。该数据集在CC BY-SA 4.0许可下公开可用，网址为https://www.kaggle.com/datasets/sakhadib/bangladesh-legal-acts-dataset。",
+          "abstractZh": "我们介绍了孟加拉国法律法案数据集（BLAD），这是一个精选的集合，包含1799年至2025年间颁布的1,484项立法法案。每项法案都包含其全文、结构化的章节和脚注、废止状态，以及将其与颁布时的执政政权、国家元首和现行法律框架联系起来的元数据。该语料库涵盖英语、孟加拉语和混合语言文档，支持对成文法进行时间和多语言分析。BLAD填补了南亚低资源大陆法系司法管辖区法律自然语言处理（NLP）资源的长期空白。我们描述了采集和丰富流程，报告了超过两个世纪立法的描述性统计，并概述了该语料库所支持的研究方向。该数据集在CC BY-SA 4.0许可下公开可用，网址为https://www.kaggle.com/datasets/sakhadib/bangladesh-legal-acts-dataset。",
           "pdfUrl": "https://arxiv.org/pdf/2607.17111v1"
         }
       ]
