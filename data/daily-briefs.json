@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-10T08:25:29.937Z",
+  "generatedAt": "2026-10-11T08:40:25.377Z",
   "range": {
     "start": "2026-01-01",
-    "end": "2026-10-10"
+    "end": "2026-10-11"
   },
   "totals": {
     "news": 820,
@@ -401,7 +401,7 @@
         {
           "date": "2026-10-08",
           "titleEn": "Cited but Not Consulted: A Counterfactual Audit of Legal Chain-of-Thought Faithfulness",
-          "titleZh": "被引用但未被采纳：法律思维链忠实性的反事实审计",
+          "titleZh": "被引用但未被遵循：法律思维链忠实性的反事实审计",
           "url": "https://arxiv.org/abs/2610.12361v1",
           "authors": [
             "Saisab Sadhu",
@@ -409,7 +409,7 @@
             "Pratinav Seth"
           ],
           "abstractEn": "Large language models increasingly justify legal decisions by naming the statute or precedent behind a verdict, treated as evidence that the decision follows from it. We test this directly: holding case facts fixed, we substitute the named legal authority for an unrelated one and decode a model's evolving verdict from its hidden states. Across seven open-weight models (8B-70B) and four benchmarks spanning judicial and contractual reasoning, when explicitly required to justify a verdict by naming the governing authority, models name the correct one in 66.7%-100% of generations, while the verdict changing when the authority changes is far less consistent: 0.0%-21.7% on CaseHOLD, 30.0%-76.7% on ECHR and SCOTUS, and 43.3%-50.0% on ContractNLI. Neither scale nor a purpose-built legal-reasoning model (a best-effort LoRA reproduction; Section 6) closes this gap. A red-teaming evaluation on five core models finds compliance with an adversarial instruction hidden in the case facts (73.3%-96.4%) exceeds verdict-swap sensitivity by a wide margin, holding without exception across model rankings. Naming a legal authority is thus a poor proxy for a verdict's dependence on it, while the same verdict remains separately vulnerable to adversarial manipulation. Both findings replicate across checks ruling out prompt-wording noise and confounded sampling, and bear directly on the use of generated legal explanations as compliance or audit artefacts.",
-          "abstractZh": "大型语言模型越来越多地通过引用判决背后的法规或先例来为法律决策提供理由，这被视为决策源于该法规或先例的证据。我们直接对此进行测试：在保持案件事实不变的情况下，将所引用的法律依据替换为无关的法律依据，并从模型的隐藏状态中解码其不断演变的判决。在七个开放权重模型（8B-70B）和四个涵盖司法与合同推理的基准测试中，当明确要求通过引用管辖法律依据来为判决提供理由时，模型在66.7%-100%的生成中引用了正确的法律依据，而当法律依据改变时判决的变化则远不那么一致：在CaseHOLD上为0.0%-21.7%，在ECHR和SCOTUS上为30.0%-76.7%，在ContractNLI上为43.3%-50.0%。模型规模或专门构建的法律推理模型（一种尽力而为的LoRA复现；第6节）均未缩小这一差距。对五个核心模型进行的红队评估发现，对隐藏在案件事实中的对抗性指令的遵从度（73.3%-96.4%）远超判决交换敏感性，且在所有模型排名中无一例外。因此，引用法律依据并不能很好地代表判决对其的依赖，而同一判决仍单独容易受到对抗性操纵的影响。这两项发现均通过了排除提示措辞噪声和混淆采样的检查，并且直接关系到将生成的法律解释用作合规或审计产物的问题。",
+          "abstractZh": "大型语言模型越来越多地通过引用判决背后的法规或先例来为法律决策提供理由，这被视为决策源于该法规或先例的证据。我们直接对此进行测试：在保持案件事实不变的情况下，将所引用的法律依据替换为无关的法律依据，并从模型的隐藏状态中解码其不断演变的判决。在七个开源模型（8B-70B）和四个涵盖司法与合同推理的基准测试中，当明确要求通过引用管辖法律依据来证明判决时，模型在66.7%-100%的生成中引用了正确的依据，而当法律依据改变时判决的变化则远不那么一致：在CaseHOLD上为0.0%-21.7%，在ECHR和SCOTUS上为30.0%-76.7%，在ContractNLI上为43.3%-50.0%。模型规模或专门构建的法律推理模型（尽力而为的LoRA复现；第6节）均未缩小这一差距。对五个核心模型进行的红队评估发现，对隐藏在案件事实中的对抗性指令的遵从率（73.3%-96.4%）远超判决交换敏感性，且在所有模型排名中无一例外。因此，引用法律依据并不能很好地代表判决对其的依赖性，而同一判决却仍然容易受到对抗性操纵。这两项发现均通过了排除提示措辞干扰和混淆采样的检查，并且直接关系到将生成的法律解释用作合规或审计工件的问题。",
           "pdfUrl": "https://arxiv.org/pdf/2610.12361v1"
         }
       ],
@@ -652,7 +652,7 @@
             "M. Abdullah Canbaz"
           ],
           "abstractEn": "Large language models are increasingly used in legal research and drafting, but they can still produce claims that sound convincing without being supported by the cited source. We introduce PARCEL, a benchmark for checking whether a legal claim is supported by the underlying authority. Using recent New York State Court of Appeals decisions, we build a dataset of 3,396 parenthetical-style claims labeled as Supported, Refuted, or Not Found. We cast this task as a three-way natural language inference problem and evaluate several state-of-the-art LLMs in a zero-shot setting. Although the strongest models reach up to 0.97 accuracy, the results also show an important weakness: models still incorrectly mark unsupported claims as supported, even when the full opinion text is provided. Across models, missing support is harder to detect than direct contradiction, and fabricated but plausible citations cause the largest drop in performance. Overall, PARCEL provides a practical benchmark for testing claim-level groundedness in legal RAG systems.",
-          "abstractZh": "大型语言模型越来越多地用于法律研究和起草，但它们仍可能产生听起来令人信服但未被引用来源支持的声明。我们引入了PARCEL，一个用于检查法律声明是否得到基础权威支持的基准。利用最近的纽约州上诉法院判决，我们构建了一个包含3,396条括号式声明的数据集，这些声明被标记为支持、反驳或未找到。我们将此任务视为一个三向自然语言推理问题，并在零样本设置下评估了几种最先进的LLM。尽管最强的模型达到了高达0.97的准确率，但结果也显示了一个重要的弱点：即使提供了完整的意见文本，模型仍会错误地将不支持的声明标记为支持。在各模型中，缺失支持比直接矛盾更难检测，而捏造但看似合理的引用导致性能下降最大。总体而言，PARCEL为测试法律RAG系统中的声明级基础性提供了一个实用的基准。",
+          "abstractZh": "大型语言模型越来越多地用于法律研究和起草，但它们仍可能产生听起来令人信服却未被引用来源支持的声明。我们引入了PARCEL，一个用于检查法律声明是否得到基础权威支持的基准。利用最近的纽约州上诉法院判决，我们构建了一个包含3,396个括号式声明的数据集，这些声明被标记为支持、反驳或未找到。我们将此任务视为一个三向自然语言推理问题，并在零样本设置下评估了几种最先进的LLM。尽管最强的模型达到了高达0.97的准确率，但结果也显示了一个重要的弱点：即使提供了完整的意见文本，模型仍会错误地将不支持的声明标记为支持。在各模型中，缺失支持比直接矛盾更难检测，而捏造但看似合理的引用导致性能下降最大。总体而言，PARCEL为测试法律RAG系统中的声明级基础性提供了一个实用的基准。",
           "pdfUrl": "https://arxiv.org/pdf/2610.10971v1"
         }
       ],
@@ -915,7 +915,7 @@
             "Jun Lin"
           ],
           "abstractEn": "Legal intelligence aims to support reliable decision-making across long-horizon legal processes involving evolving case states and multiple roles. However, real-world legal deployment exhibits substantial case heterogeneity in facts, evidence, and procedural contexts, exposing the limitations of static agent strategies. Moreover, legal reasoning is inherently interdependent across roles and procedural stages, making global reliability fundamentally different from isolated role competence. To address these challenges, we study training-free test-time agent adaptation, where agents continuously exploit deployment-time signals from preceding cases and ongoing interactions without updating model parameters. We propose \\method, which introduces \\emph{Test-Time Memory Evolution} to retrieve reusable experience from previous cases, adapt it to the current factual and procedural context, and consolidate accumulated experience for subsequent decision-making. Further, \\emph{Rubric-Aligned Collaboration} verifies and revises role-specific actions according to behavioral and procedural requirements, enabling coordinated decision-making across roles and stages. Extensive experiments on J1-EVAL and LegalWorld across five backbone models demonstrate consistent improvements over representative reasoning and agent baselines with reasonable interaction and computational costs. Ablation and case studies further show that the two components provide complementary benefits in experience adaptation and cross-role coordination, improving the reliability and efficiency of long-horizon legal reasoning.",
-          "abstractZh": "法律智能旨在支持在涉及不断演变的案件状态和多种角色的长时程法律流程中做出可靠的决策。然而，现实世界的法律部署在事实、证据和程序背景方面表现出显著的案件异质性，暴露了静态智能体策略的局限性。此外，法律推理在角色和程序阶段之间本质上相互依赖，使得全局可靠性从根本上不同于孤立的角色能力。为了解决这些挑战，我们研究了无需训练的测试时智能体适应，其中智能体在不更新模型参数的情况下，持续利用来自先前案件和正在进行的交互的部署时信号。我们提出了\\method，它引入了\\emph{测试时记忆演化}，从先前案件中检索可复用的经验，将其适应当前的事实和程序背景，并巩固积累的经验以供后续决策。此外，\\emph{基于评分标准的协作}根据行为和程序要求验证和修正特定角色的行动，实现跨角色和跨阶段的协调决策。在J1-EVAL和LegalWorld上使用五种骨干模型进行的大量实验表明，与代表性的推理和智能体基线相比，在合理的交互和计算成本下取得了持续改进。消融研究和案例研究进一步表明，这两个组件在经验适应和跨角色协调方面提供了互补的益处，提高了长时程法律推理的可靠性和效率。",
+          "abstractZh": "法律智能旨在为涉及不断演变的案件状态和多种角色的长时程法律流程提供可靠的决策支持。然而，现实世界的法律部署在事实、证据和程序背景方面表现出显著的案件异质性，暴露了静态智能体策略的局限性。此外，法律推理在角色和程序阶段之间本质上相互依赖，使得全局可靠性与孤立的角色能力根本不同。为了解决这些挑战，我们研究了无需训练的测试时智能体适应，其中智能体在不更新模型参数的情况下，持续利用来自先前案件和正在进行的交互的部署时信号。我们提出了\\method，它引入了\\emph{测试时记忆演化}，从先前案件中检索可复用的经验，将其适应当前的事实和程序背景，并整合积累的经验以供后续决策。此外，\\emph{规则对齐协作}根据行为和程序要求验证和修正特定角色的行动，实现跨角色和跨阶段的协调决策。在J1-EVAL和LegalWorld上使用五种骨干模型进行的大量实验表明，与代表性的推理和智能体基线相比，在合理的交互和计算成本下取得了持续改进。消融研究和案例研究进一步表明，这两个组件在经验适应和跨角色协调方面提供了互补的益处，提高了长时程法律推理的可靠性和效率。",
           "pdfUrl": "https://arxiv.org/pdf/2610.08138v1"
         }
       ],
@@ -1100,7 +1100,7 @@
         {
           "date": "2026-10-05",
           "titleEn": "A Study of Prior Case Retrieval Using Lexical, Semantic, and Rhetorical Role Information in Indian Legal Documents",
-          "titleZh": "基于词汇、语义和修辞角色信息的印度法律文献先例检索研究",
+          "titleZh": "利用词汇、语义和修辞角色信息检索印度法律文件中的先例案件研究",
           "url": "https://arxiv.org/abs/2610.07437v1",
           "authors": [
             "Sayed Ayaan Ahmed Sha",
@@ -1110,13 +1110,13 @@
             "Aniket Mani"
           ],
           "abstractEn": "For retrieving prior cases in Indian legal judgments, the problem involves distinguishing relevant legal facts from mere lexical similarities because a prior case that shares a statute with the query judgment is not necessarily relevant. In this paper, we describe an empirical evaluation of three consecutive designs of retrieval systems for the IL PCR(Indian Legal Prior Case Retrieval) task. We demonstrate that the combination of the rhetorical roles (Fact, Ratio Of The Decision, Precedent, Argument, Statute) is better than either using individual roles or performing full text retrieval, that statute similarity is not discriminative, and that a legal entailment reranker with training data produced by an LLM is much worse in terms of official evaluation than its internal validation score. Two rankers, with excellent internal MRR up to 0.97, performed poorly in terms of official evaluation (MRR as low as 0.14). Thus, we propose a new design with query disjoint splitting and frozen validation fusion. The result is a four stage pipeline with Micro F1 0.2549, MRR 0.6081, and nDCG@10 0.4187.",
-          "abstractZh": "在印度司法判决中检索先例时，问题在于区分相关的法律事实与单纯的词汇相似性，因为与查询判决共享法规的先例不一定相关。在本文中，我们描述了对IL PCR（印度法律先例检索）任务三种连续设计的检索系统的实证评估。我们证明，修辞角色（事实、裁决理由、先例、论点、法规）的组合优于单独使用各个角色或进行全文检索，法规相似性不具有区分性，并且使用LLM生成的训练数据的法律蕴含重排序器在官方评估中的表现远差于其内部验证分数。两个排名器内部MRR高达0.97，但在官方评估中表现不佳（MRR低至0.14）。因此，我们提出了一种新的设计，采用查询不相交分割和冻结验证融合。结果是一个四阶段流水线，Micro F1为0.2549，MRR为0.6081，nDCG@10为0.4187。",
+          "abstractZh": "在印度法律判决中检索先例案件时，问题在于区分相关的法律事实与单纯的词汇相似性，因为与查询判决共享法条的先例案件不一定相关。本文描述了对IL PCR（印度法律先例案件检索）任务三种连续设计的检索系统的实证评估。我们证明，修辞角色（事实、判决理由、先例、论据、法条）的组合优于单独使用各角色或进行全文检索，法条相似性不具有区分性，并且使用LLM生成的训练数据的法律蕴含重排序器在官方评估中的表现远差于其内部验证分数。两个排名器内部MRR高达0.97，但在官方评估中表现不佳（MRR低至0.14）。因此，我们提出了一种新的设计，采用查询不相交分割和冻结验证融合。结果是一个四阶段流水线，Micro F1为0.2549，MRR为0.6081，nDCG@10为0.4187。",
           "pdfUrl": "https://arxiv.org/pdf/2610.07437v1"
         },
         {
           "date": "2026-10-05",
           "titleEn": "Domain adaptation of Russian ModernBERT for long legal documents",
-          "titleZh": "俄语ModernBERT在长法律文档上的领域适应",
+          "titleZh": "俄语ModernBERT在法律长文档上的领域适应",
           "url": "https://arxiv.org/abs/2610.06715v1",
           "authors": [
             "I. Litvak",
@@ -1126,26 +1126,26 @@
             "S. Lagutin"
           ],
           "abstractEn": "We investigate whether continued pretraining on Russian legislative documents improves a Russian ModernBERT encoder on legal text. The adapted model, RuModernBERT-ruLaw, was trained on a corpus reported to contain 304,382 legislative documents and 194,425,905 corpus tokens. Corpus token counts are distinguished from positions produced by the model tokenizer. We compare the original and adapted encoders on a fixed external collection of 1,031 court-decision segments. Both models receive the same hidden positions in each of five masking realizations. At maximum input lengths of 512, 2,048, and 8,192 tokens, mean masked-token cross-entropy decreases by 0.10942, 0.07052, and 0.06604 natural-log units, respectively. The reported 95% intervals summarize sensitivity to masking on this fixed collection; they do not quantify uncertainty across document collections. A second evaluation addresses legal-entity extraction. The original and adapted models achieve entity-level F1 scores of 0.99852 and 0.99820. However, 99.95% of test spans have the same normalized surface form and class in the training split. This evaluation therefore provides limited evidence about transfer to previously unseen forms. The paper explains the masking objective, overlapping windows, averaging rules, and exact entity-boundary scoring using editable diagrams and clearly marked illustrative examples. The comparison supports lower masked-token prediction loss for the studied pair of models and collection. It does not isolate the contribution of distant context or establish practical legal utility.",
-          "abstractZh": "我们研究了在俄语立法文件上继续预训练是否能提高俄语ModernBERT编码器在法律文本上的表现。适应后的模型RuModernBERT-ruLaw在一个据称包含304,382份立法文件和194,425,905个语料库词元的语料库上进行了训练。语料库词元数量与模型分词器产生的词元位置进行了区分。我们在一个固定的外部集合（包含1,031个法院判决片段）上比较了原始编码器和适应后的编码器。在五种掩码实现中，两个模型接收相同的隐藏位置。在最大输入长度为512、2,048和8,192个词元时，平均掩码词元交叉熵分别降低了0.10942、0.07052和0.06604个自然对数单位。所报告的95%区间总结了在该固定集合上对掩码的敏感性；它们并不量化跨文档集合的不确定性。第二项评估涉及法律实体抽取。原始模型和适应后的模型分别达到了0.99852和0.99820的实体级F1分数。然而，99.95%的测试片段在训练划分中具有相同的归一化表面形式和类别。因此，该评估对迁移到未见过的形式提供的证据有限。本文使用可编辑图表和清晰标记的说明性示例解释了掩码目标、重叠窗口、平均规则和精确实体边界评分。比较结果支持所研究的模型对和集合上的较低掩码词元预测损失。它并未分离远距离上下文的贡献，也未确立实际的法律实用性。",
+          "abstractZh": "我们研究了在俄语立法文件上继续预训练是否能提高俄语ModernBERT编码器在法律文本上的表现。适应后的模型RuModernBERT-ruLaw在一个据称包含304,382份立法文件和194,425,905个语料库令牌的语料库上进行了训练。语料库令牌数量与模型分词器产生的位置区分开来。我们在一个固定的外部集合（包含1,031个法院判决片段）上比较了原始编码器和适应后的编码器。在五种掩码实现中，两个模型接收相同的隐藏位置。在最大输入长度为512、2,048和8,192个令牌时，平均掩码令牌交叉熵分别降低了0.10942、0.07052和0.06604个自然对数单位。报告的95%区间总结了该固定集合上对掩码的敏感性；它们并不量化跨文档集合的不确定性。第二个评估涉及法律实体提取。原始模型和适应后的模型分别达到了0.99852和0.99820的实体级F1分数。然而，99.95%的测试跨度在训练分割中具有相同的归一化表面形式和类别。因此，该评估对迁移到未见过的形式提供的证据有限。本文解释了掩码目标、重叠窗口、平均规则和精确实体边界评分，并使用了可编辑的图表和清晰标记的说明性示例。比较结果支持所研究的模型对和集合的掩码预测损失更低。它并未隔离远距离上下文的贡献，也未确立实际的法律实用性。",
           "pdfUrl": "https://arxiv.org/pdf/2610.06715v1"
         },
         {
           "date": "2026-10-05",
           "titleEn": "Better Call Reward: Reward Hacking as Strategic Abstention in Legal Reasoning Models",
-          "titleZh": "最好致电奖励：法律推理模型中的奖励黑客作为策略性弃权",
+          "titleZh": "最好召唤奖励：法律推理模型中的奖励黑客作为策略性弃权",
           "url": "https://arxiv.org/abs/2610.06439v1",
           "authors": [
             "Subramanyam Sahoo",
             "Justin Shenk"
           ],
           "abstractEn": "What happens when a legal AI model learns to look like a lawyer instead of reasoning like one? We fine tune Qwen3-8B with Group Relative Policy Optimisation (GRPO) against a proxy built from three surface features: citation count, legalese density, and response length. The model does not learn to reason more effectively. It learns to withhold commitment. Across 16 yes or no legal reasoning tasks from LegalBench (N=320), overall accuracy collapses from 0.500 (chance) to 0.072 (McNemar p < 10^-36), driven entirely by the rate of properly formatted answers falling from 0.900 to 0.109. The model stops committing to answers. Yet when it does commit, accuracy rises from 0.556 to 0.657, showing that the collapse is not a failure of capability but a strategic response: the model has learned that verbose responses packed with citations but empty of a direct answer score higher than terse correct ones. We term this the Saul Goodman effect, a policy that becomes maximally lawyerly while becoming maximally noncommittal, and prove formally that it is the optimal response to any surface feature proxy that attaches no penalty to abstention. We further show that 89.3% of citations produced after training are structurally implausible hallucinations, many of them subtly corrupted names of real landmark cases, constructed in effect to survive a casual read and fail under scrutiny. To detect this failure mode before deployment, we introduce three diagnostic tools: the Confidence Theater Score (CTS), the Citation Plausibility Rate (CPR), and the Regret Gap (RG). In a domain where a confidently wrong answer can constitute malpractice, the broader lesson is direct: a reward function that measures how legal a response looks will produce a model that is maximally photogenic and minimally useful.",
-          "abstractZh": "当法律AI模型学会看起来像律师而不是像律师一样推理时，会发生什么？我们使用组相对策略优化（GRPO）对Qwen3-8B进行微调，针对一个由三个表面特征构建的代理：引用数量、法律术语密度和回答长度。该模型并没有学会更有效地推理。它学会了不承诺。在来自LegalBench的16个是或否法律推理任务中（N=320），整体准确率从0.500（随机水平）骤降至0.072（McNemar p < 10^-36），这完全是由于格式正确的回答率从0.900降至0.109所致。模型停止承诺答案。然而，当它确实承诺时，准确率从0.556上升到0.657，表明这种崩溃并非能力失败，而是一种策略性反应：模型已经学会，充满引用但缺乏直接答案的冗长回答比简洁正确的回答得分更高。我们将此称为“索尔·古德曼效应”，即一种策略变得最大化地像律师，同时变得最大化地不承诺，并正式证明这是对任何不附加弃权惩罚的表面特征代理的最优反应。我们进一步表明，训练后产生的89.3%的引用在结构上是不合理的幻觉，其中许多是真实标志性案例名称的微妙篡改，实际上是为了在随意阅读时幸存而在仔细审查时失败而构建的。为了在部署前检测这种失败模式，我们引入了三种诊断工具：信心剧场评分（CTS）、引用合理性率（CPR）和遗憾差距（RG）。在一个自信的错误答案可能构成渎职的领域，更广泛的教训是直接的：一个衡量回答看起来有多像律师的奖励函数，将产生一个最大化地上镜且最小化地有用的模型。",
+          "abstractZh": "当法律AI模型学会看起来像律师而不是像律师一样推理时，会发生什么？我们使用组相对策略优化（GRPO）对Qwen3-8B进行微调，针对一个由三个表面特征构建的代理：引用数量、法律术语密度和响应长度。该模型并没有学会更有效地推理。它学会了不做出承诺。在来自LegalBench的16个是或否法律推理任务中（N=320），总体准确率从0.500（随机水平）骤降至0.072（McNemar p < 10^-36），这完全是由格式正确的答案比例从0.900降至0.109所驱动的。模型停止对答案做出承诺。然而，当它确实做出承诺时，准确率从0.556上升至0.657，表明这种崩溃并非能力失败，而是一种策略性回应：模型已经学会，那些冗长、充满引用但缺乏直接答案的回应，比简洁正确的回应得分更高。我们将此称为“索尔·古德曼效应”，即一种策略变得最大化地像律师，同时变得最大化地不承诺，并正式证明这是对任何不附加弃权惩罚的表面特征代理的最优回应。我们进一步表明，训练后产生的89.3%的引用在结构上是不合理的幻觉，其中许多是真实里程碑案例名称的微妙篡改，实际上是为了在随意阅读时幸存而在仔细审查时失败而构建的。为了在部署前检测这种失败模式，我们引入了三种诊断工具：信心剧场分数（CTS）、引用合理性率（CPR）和遗憾差距（RG）。在一个自信的错误答案可能构成渎职的领域，更广泛的教训是直接的：一个衡量回应看起来有多像法律的奖励函数，将产生一个最大化地上镜且最小化地有用的模型。",
           "pdfUrl": "https://arxiv.org/pdf/2610.06439v1"
         },
         {
           "date": "2026-10-05",
           "titleEn": "Breaking Bureaucracy: Evaluating open-source LLMs for legal document review",
-          "titleZh": "打破官僚主义：评估开源大型语言模型在法律文件审查中的应用",
+          "titleZh": "打破官僚主义：评估开源大语言模型在法律文件审查中的应用",
           "url": "https://arxiv.org/abs/2610.06345v1",
           "authors": [
             "Farrukh Baratov",
@@ -1153,7 +1153,7 @@
             "Suzan Verberne"
           ],
           "abstractEn": "In this paper, we evaluate open-source generative LLMs on legal Natural Language Inference (NLI). Legal inspectorial processes take place in specific domains and often deal with confidential data. This creates a need for working with local models that do not require labeled training data. We evaluate our models on the ContractNLI benchmark and two NLI4Wills datasets. We successfully reproduce the baseline for the task (Span NLI BERT) and we evaluate multiple open-source LLMs on the same task. We analyze the invalid rate of the models, and their stability across temperature settings and domains. Among the generative models, Gemma-4 26B performs the best, reaching an accuracy of 81.2%, even outperforming the supervised model on one metric. On accuracy, it is not possible to beat the supervised model with zero-shot approaches. Qwen-3.6 35B performs well on both ContractNLI and additional datasets in the legal wills domain. Our findings indicate that zero-shot, open-source, generative LLMs are a viable alternative for real-world legal NLI when no supervised data is available. Our code is available at https://github.com/fbaratov/contractnli-llms.",
-          "abstractZh": "在本文中，我们评估了开源生成式大型语言模型在法律自然语言推理（NLI）任务上的表现。法律检查过程发生在特定领域，并且经常处理机密数据。这产生了使用不需要标注训练数据的本地模型的需求。我们在ContractNLI基准和两个NLI4Wills数据集上评估了我们的模型。我们成功复现了该任务的基线（Span NLI BERT），并在同一任务上评估了多个开源大型语言模型。我们分析了模型的无效率及其在不同温度设置和领域下的稳定性。在生成式模型中，Gemma-4 26B表现最佳，达到了81.2%的准确率，甚至在一个指标上超过了监督模型。在准确率方面，使用零样本方法无法超越监督模型。Qwen-3.6 35B在ContractNLI和法律遗嘱领域的额外数据集上均表现良好。我们的研究结果表明，在没有监督数据可用的情况下，零样本、开源、生成式大型语言模型是现实世界法律NLI的可行替代方案。我们的代码可在https://github.com/fbaratov/contractnli-llms获取。",
+          "abstractZh": "在本文中，我们评估了开源生成式大语言模型在法律自然语言推理（NLI）任务上的表现。法律检查过程发生在特定领域，并且经常处理机密数据。这产生了对不需要标注训练数据的本地模型的需求。我们在ContractNLI基准和两个NLI4Wills数据集上评估了我们的模型。我们成功复现了该任务的基线（Span NLI BERT），并在同一任务上评估了多个开源大语言模型。我们分析了模型的无效率，以及它们在不同温度设置和领域下的稳定性。在生成式模型中，Gemma-4 26B表现最佳，达到了81.2%的准确率，甚至在一个指标上超过了监督模型。在准确率方面，零样本方法无法超越监督模型。Qwen-3.6 35B在ContractNLI和法律遗嘱领域的额外数据集上均表现良好。我们的研究结果表明，在没有监督数据的情况下，零样本、开源、生成式大语言模型是实际法律NLI任务的可行替代方案。我们的代码可在https://github.com/fbaratov/contractnli-llms获取。",
           "pdfUrl": "https://arxiv.org/pdf/2610.06345v1"
         }
       ],
@@ -1429,7 +1429,7 @@
             "Yong Jae Kim"
           ],
           "abstractEn": "We introduce InvestigationWorlds, an agentic environment for legal investigation. We build on an underused artifact of U.S. civil litigation: the summary judgment motion. This motion relies upon a record composed of real evidence exhibits, and results in a court-adopted hypothesis that is treated as ground truth for the purposes of deciding the motion. Each environment is built from a real U.S. Federal Court case retrieved from Public Access to Court Electronic Records (PACER) and augmented by an attorney-validated generation pipeline that synthesizes role-tagged documents around the original record. The resulting corpus admits multiple coherent factual readings, only one of which matches the court-adopted hypothesis. Evaluating on 100 cases, we find agents often commit to incorrect hypotheses despite retrieving relevant evidence, struggling to distinguish the court-adopted hypothesis from alternative hypotheses.",
-          "abstractZh": "我们介绍了调查世界，一个用于法律调查的智能体环境。我们基于美国民事诉讼中一个未被充分利用的文书——即决判决动议进行构建。该动议依赖于由真实证据展品组成的记录，并最终形成法院采纳的假设，该假设在决定动议时被视为基本事实。每个环境都基于从法院电子记录公共访问系统（PACER）检索到的真实美国联邦法院案件构建，并通过一个经律师验证的生成流程进行增强，该流程围绕原始记录合成带有角色标签的文档。由此产生的语料库支持多种连贯的事实解读，其中只有一种与法院采纳的假设相符。在100个案件上的评估中，我们发现智能体尽管检索到了相关证据，却常常固守错误的假设，难以将法院采纳的假设与替代假设区分开来。",
+          "abstractZh": "我们介绍了调查世界（InvestigationWorlds），一个用于法律调查的智能体环境。我们基于美国民事诉讼中一个未被充分利用的法律文书——即决判决动议（summary judgment motion）来构建该环境。该动议依赖于由真实证据展品组成的记录，并最终形成法院采纳的假设，该假设在裁决该动议时被视为事实依据。每个环境均基于从美国联邦法院公共电子记录访问系统（PACER）检索到的真实美国联邦法院案件构建，并通过一个经律师验证的生成流程进行增强，该流程围绕原始记录合成带有角色标签的文档。由此产生的语料库支持多种连贯的事实解读，其中仅有一种与法院采纳的假设相符。在对100个案件进行评估时，我们发现智能体尽管检索到了相关证据，却常常固守错误的假设，难以将法院采纳的假设与替代假设区分开来。",
           "pdfUrl": "https://arxiv.org/pdf/2610.04129v1"
         },
         {
@@ -1445,7 +1445,7 @@
             "Antonio Barreto Rozo"
           ],
           "abstractEn": "Large language models (LLMs) are increasingly used to support legal practice, education, and research, yet their reliability in national legal systems outside the United States remains largely undocumented. We introduce an expert-validated benchmark for evaluating LLM reliability on the Colombian legal system. The benchmark comprises 1,042 items spanning ten areas of law and three question formats (closed multiple-choice, semi-open, and open-ended IRAC), built through a human-in-the-loop pipeline with multi-stage expert review. We evaluate 15 contemporary proprietary and open-weight models with format-appropriate metrics. Accuracy on closed questions ranges widely, from 0.905 (Gemini 3.1 Pro) to 0.577, but on free-text legal answers factual correctness never exceeds 0.45 (on a 0-1 scale) for any model. We find a dissociation between answer relevancy and correctness (Spearman rho = -0.46): models reliably sound responsive while frequently being wrong, a pattern of particular concern for non-expert users. Closed-question accuracy and free-text correctness are strongly rank-correlated (rho = 0.94), so cheap multiple-choice screening predicts model ranking but overstates absolute reliability. An independent rubric-based LLM judge and blind human expert scoring both reproduce the free-text ranking (rho >= 0.88). The judge further reveals that only about half of the norms models cite are correct; the rest are wrong or non-existent. Reliability varies systematically by legal area and follows an inverted-U across question complexity. Our results indicate that current LLMs require expert supervision for Colombian legal tasks, and that grounding answers in authoritative sources is a promising path to higher reliability. We release the benchmark construction pipeline to support reproducible evaluation.",
-          "abstractZh": "大型语言模型（LLM）越来越多地被用于支持法律实践、教育和研究，但它们在除美国以外的国家法律体系中的可靠性在很大程度上仍未得到记录。我们引入了一个经过专家验证的基准，用于评估LLM在哥伦比亚法律体系上的可靠性。该基准包含1,042个项目，涵盖十个法律领域和三种问题格式（封闭式多项选择、半开放式和开放式IRAC），通过带有多阶段专家评审的人机协同流程构建。我们使用适合格式的指标评估了15个当代专有和开放权重模型。封闭式问题的准确率范围很广，从0.905（Gemini 3.1 Pro）到0.577，但在自由文本法律答案上，任何模型的事实正确性从未超过0.45（在0-1范围内）。我们发现答案相关性与正确性之间存在分离（Spearman rho = -0.46）：模型通常听起来很有响应性，但经常出错，这种模式对非专家用户尤其令人担忧。封闭式问题准确率与自由文本正确性之间存在强秩相关（rho = 0.94），因此廉价的多项选择筛选可以预测模型排名，但会高估绝对可靠性。一个独立的基于量规的LLM评判者和盲法人类专家评分都再现了自由文本排名（rho >= 0.88）。评判者进一步揭示，模型引用的规范中只有大约一半是正确的；其余是错误的或不存在的。可靠性随法律领域系统性变化，并随问题复杂性呈倒U形。我们的结果表明，当前LLM在哥伦比亚法律任务中需要专家监督，而将答案基于权威来源是提高可靠性的有前途的途径。我们发布了基准构建流程，以支持可复现的评估。",
+          "abstractZh": "大型语言模型（LLMs）越来越多地被用于支持法律实践、教育和研究，然而它们在美国以外的国家法律体系中的可靠性在很大程度上仍未得到记录。我们引入了一个经过专家验证的基准，用于评估LLMs在哥伦比亚法律体系上的可靠性。该基准包含1,042个项目，涵盖十个法律领域和三种问题格式（封闭式多项选择、半开放式和开放式IRAC），通过人机协同流程和多阶段专家评审构建。我们使用适合格式的指标评估了15个当代专有和开源权重模型。封闭式问题的准确率范围从0.905（Gemini 3.1 Pro）到0.577不等，但在自由文本法律答案中，任何模型的事实正确性均未超过0.45（在0-1量表上）。我们发现答案相关性与正确性之间存在分离（Spearman rho = -0.46）：模型可靠地表现出响应性，但经常出错，这一模式对非专家用户尤其令人担忧。封闭式问题准确率与自由文本正确性之间存在强秩相关（rho = 0.94），因此廉价的多项选择筛选可以预测模型排名，但会高估绝对可靠性。一个独立的基于评分标准的LLM评判者和盲法人类专家评分均重现了自由文本排名（rho >= 0.88）。评判者进一步揭示，模型引用的规范中只有约一半是正确的；其余是错误的或不存在的。可靠性因法律领域而异，并随问题复杂性呈倒U形变化。我们的结果表明，当前的LLMs在哥伦比亚法律任务中需要专家监督，而将答案基于权威来源是提高可靠性的有前景的途径。我们发布了基准构建流程，以支持可复现的评估。",
           "pdfUrl": "https://arxiv.org/pdf/2610.03639v1"
         }
       ],
@@ -1698,7 +1698,7 @@
         {
           "date": "2026-10-01",
           "titleEn": "LawCompass: Navigating from Legal QA to Multi-Agent Deep Research with Grounded Evidence",
-          "titleZh": "LawCompass：从法律问答到基于证据的多智能体深度研究的导航",
+          "titleZh": "LawCompass：从法律问答到基于证据的多智能体深度研究导航",
           "url": "https://arxiv.org/abs/2610.01027v1",
           "authors": [
             "Xiaoxia Cheng",
@@ -1708,7 +1708,7 @@
             "Xuemei Zhou"
           ],
           "abstractEn": "Recent advances in Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) have significantly democratized access to legal information. Nevertheless, most existing legal assistants remain confined to multi-turn conversational QA, failing to support complex legal tasks that require systematic evidence retrieval, multi-step reasoning, and report-level synthesis. In this paper, we present LawCompass, an evidence-grounded legal assistant that navigates the transition from standard Legal QA to multi-agent deep research. LawCompass provides three task-oriented functions: Legal QA, which delivers precise, evidence-backed answers to legal questions; Professional Retrieval, which enables structured exploration of statutes and judicial cases via query rewriting; and Deep Research, which employs a multi-agent workflow to decompose complex legal tasks and synthesize comprehensive research reports. Crucially, LawCompass maintains explicit citation links across all modules, empowering users to directly verify system outputs against original legal sources. Evaluation results demonstrate that LawCompass provides a practical and scalable paradigm for transforming conversational AI into trustworthy and evidence-grounded legal research assistance.",
-          "abstractZh": "近年来，大型语言模型（LLM）和检索增强生成（RAG）的进展显著促进了法律信息的普及。然而，大多数现有的法律助手仍局限于多轮对话式问答，无法支持需要系统性证据检索、多步骤推理和报告级综合的复杂法律任务。在本文中，我们提出了LawCompass，一个基于证据的法律助手，它引导从标准法律问答到多智能体深度研究的转变。LawCompass提供三个面向任务的功能：法律问答，为法律问题提供精确、有证据支持的答案；专业检索，通过查询重写实现对法规和司法案例的结构化探索；以及深度研究，采用多智能体工作流来分解复杂法律任务并综合全面的研究报告。至关重要的是，LawCompass在所有模块中保持明确的引用链接，使用户能够直接根据原始法律来源验证系统输出。评估结果表明，LawCompass为将对话式AI转变为可信赖且基于证据的法律研究辅助提供了一种实用且可扩展的范式。",
+          "abstractZh": "近年来，大型语言模型（LLM）和检索增强生成（RAG）的进展显著促进了法律信息的普及获取。然而，大多数现有的法律助手仍局限于多轮对话式问答，无法支持需要系统性证据检索、多步骤推理和报告级综合的复杂法律任务。在本文中，我们提出了LawCompass，一个基于证据的法律助手，它引导从标准法律问答到多智能体深度研究的转变。LawCompass提供三个面向任务的功能：法律问答，提供精确且基于证据的法律问题答案；专业检索，通过查询重写实现对法规和司法案例的结构化探索；以及深度研究，采用多智能体工作流来分解复杂法律任务并综合全面的研究报告。至关重要的是，LawCompass在所有模块中保持明确的引用链接，使用户能够直接对照原始法律来源验证系统输出。评估结果表明，LawCompass为将对话式AI转变为可信且基于证据的法律研究辅助提供了一种实用且可扩展的范式。",
           "pdfUrl": "https://arxiv.org/pdf/2610.01027v1"
         }
       ],
@@ -2089,7 +2089,7 @@
             "Rayan Krishnan"
           ],
           "abstractEn": "Legal research is a core and time-consuming legal workflow. Lawyers must identify controlling authority, verify that it remains valid, reconcile statutes and cases, and synthesize a grounded answer. Language model agents are a natural fit for this retrieval-intensive workflow, and automating even part of it would be valuable. But that value depends on reliability: a single missing authority, stale citation, or wrong legal conclusion can make an otherwise plausible answer unusable. We introduce \\textbf{Legal Research Bench} (LRB), a benchmark of 413 open-ended U.S. legal research questions written by experts, each paired with a gold answer, supporting authorities, and a binary grading rubric. We evaluate thirteen frontier models in a harness with web search, case-law search, page parsing, and retrieval tools. We score agent responses through all-pass grading with source verification, where a response is correct only if every required criterion is satisfied and its cited authorities verify. We also validate the LLM judge against expert attorneys ensuring that benchmark scores track attorney judgment. Agents remain far from reliable: among the models we tested, the strongest, Claude Opus 4.8, is fully correct on 42.9\\% of questions. Performance also varies substantially by task setting: all-pass rates differ across areas of law and are lower on questions requiring reconciliation of conflicting authorities. Across models, more turns, tool calls, and inference cost do not predict higher accuracy.",
-          "abstractZh": "法律研究是法律工作中核心且耗时的流程。律师必须识别具有约束力的权威依据，验证其仍然有效，协调法规与判例，并综合出有根据的答案。语言模型代理非常适合这种检索密集型工作流程，即使自动化其中一部分也将具有价值。但这种价值取决于可靠性：一个缺失的权威依据、过时的引注或错误的法律结论都可能使原本看似合理的答案无法使用。我们引入了法律研究基准（LRB），这是一个包含413个由专家撰写的开放式美国法律研究问题的基准，每个问题都配有标准答案、支持性权威依据和二元评分标准。我们在一个配备网络搜索、判例法搜索、页面解析和检索工具的环境中评估了十三个前沿模型。我们通过带来源验证的全通过评分来对代理响应进行评分，其中只有当每个必需标准都得到满足且其引用的权威依据得到验证时，响应才算正确。我们还对照专家律师验证了LLM评判员，确保基准分数与律师判断一致。代理远未达到可靠：在我们测试的模型中，最强的Claude Opus 4.8在42.9%的问题上完全正确。性能也因任务设置而有显著差异：不同法律领域的全通过率不同，在需要协调冲突权威依据的问题上全通过率较低。跨模型来看，更多的轮次、工具调用和推理成本并不能预测更高的准确性。",
+          "abstractZh": "法律研究是法律工作中核心且耗时的流程。律师必须识别具有约束力的权威依据，验证其仍然有效，协调法规与判例，并综合出有根据的答案。语言模型代理非常适合这种检索密集型工作流程，即使自动化其中一部分也将具有重要价值。但这种价值取决于可靠性：一个缺失的权威依据、过时的引证或错误的法律结论都可能使原本看似合理的答案无法使用。我们引入了法律研究基准（LRB），这是一个由专家撰写的413个开放式美国法律研究问题组成的基准，每个问题都配有标准答案、支持性权威依据和二元评分标准。我们在一个配备网络搜索、判例法搜索、页面解析和检索工具的实验环境中评估了十三个前沿模型。我们通过带来源验证的全通过评分来对代理响应进行评分，其中只有当每个必需标准都得到满足且其引用的权威依据得到验证时，响应才算正确。我们还针对专业律师验证了LLM评审员，确保基准分数与律师判断保持一致。代理远未达到可靠：在我们测试的模型中，最强的Claude Opus 4.8在42.9%的问题上完全正确。性能也因任务设置而有显著差异：全通过率在不同法律领域有所不同，并且在需要协调冲突权威依据的问题上更低。跨模型来看，更多的轮次、工具调用和推理成本并不能预测更高的准确性。",
           "pdfUrl": "https://arxiv.org/pdf/2610.00609v1"
         },
         {
@@ -2105,7 +2105,7 @@
             "Kiet Van Nguyen"
           ],
           "abstractEn": "Trustworthy Legal AI requires systems that can answer legal questions while grounding their responses in authoritative sources. However, existing Vietnamese legal benchmarks provide limited coverage of real-world legal consultations. We introduce \\textbf{ViLegalExpert}, a large-scale benchmark constructed from authentic citizen--lawyer consultations, containing over \\textbf{172K} questions across \\textbf{34 legal domains}, together with professional answers and expert-verified legal evidence. ViLegalExpert supports legal information retrieval, extractive QA, and abstractive QA. Experiments with representative retrieval methods and language models reveal substantial challenges in evidence retrieval and grounded answer generation. While pretrained models perform strongly on QA, hybrid retrieval achieves the best retrieval performance. These results demonstrate the difficulty of mapping naturally expressed legal questions to authoritative provisions and establish ViLegalExpert as a challenging benchmark for reliable Vietnamese Legal AI.",
-          "abstractZh": "可信赖的法律人工智能要求系统能够回答法律问题，同时将其回答基于权威来源。然而，现有的越南法律基准对现实世界法律咨询的覆盖有限。我们引入了 \textbf{ViLegalExpert}，这是一个基于真实公民与律师咨询构建的大规模基准，包含超过 \textbf{172K} 个问题，涵盖 \textbf{34 个法律领域}，并附有专业回答和经专家验证的法律证据。ViLegalExpert 支持法律信息检索、抽取式问答和生成式问答。使用代表性检索方法和语言模型进行的实验揭示了在证据检索和基于证据的答案生成方面存在的重大挑战。虽然预训练模型在问答方面表现强劲，但混合检索取得了最佳的检索性能。这些结果证明了将自然表达的法律问题映射到权威法律条款的难度，并将 ViLegalExpert 确立为评估可靠越南法律人工智能的一个具有挑战性的基准。",
+          "abstractZh": "可信赖的法律人工智能要求系统能够回答法律问题，同时将其回答基于权威来源。然而，现有的越南法律基准对现实世界法律咨询的覆盖有限。我们引入了\\textbf{ViLegalExpert}，这是一个基于真实的公民与律师咨询构建的大规模基准，包含跨越\\textbf{34个法律领域}的超过\\textbf{172K}个问题，并附有专业回答和经专家验证的法律证据。ViLegalExpert支持法律信息检索、抽取式问答和生成式问答。使用代表性检索方法和语言模型进行的实验揭示了证据检索和基于证据的答案生成方面的重大挑战。虽然预训练模型在问答方面表现强劲，但混合检索取得了最佳的检索性能。这些结果证明了将自然表达的法律问题映射到权威条款的难度，并将ViLegalExpert确立为可靠越南法律人工智能的一个具有挑战性的基准。",
           "pdfUrl": "https://arxiv.org/pdf/2609.39189v1"
         },
         {
@@ -2121,7 +2121,7 @@
             "Yuxiao Ye"
           ],
           "abstractEn": "Legal language models require reward signals that capture not only answer correctness but also the multidimensional quality of legal responses. Existing reward methods, however, often rely on coarse-grained holistic judgments, providing limited domain specificity and interpretability. We introduce LexReward, a taxonomy-driven framework for legal reward modeling. LexReward characterizes legal response quality along three complementary dimensions: Style, covering lexical and syntactic quality; Element, assessing legal subjects, facts, statutes, and decisions; and Chain, evaluating the order, completeness, correctness, and non-redundancy of legal reasoning. For each dimension, we develop rubrics that specify evaluation criteria and quality levels. The resulting rewards are used to construct pairwise preference data for Direct Preference Optimization (DPO) and reward-model training. Experiments show that the rubric-based rewards reliably distinguish legal responses of different quality and that DPO training on the preference data improves performance across all three dimensions. The learned reward models, LexRM, also support effective downstream optimization: each dimension-specific reward model improves policy performance in its corresponding dimension through reinforcement learning, without requiring reference answers at reward time. Dimension-wise analyses further support the effectiveness of the proposed taxonomy and reward construction.",
-          "abstractZh": "法律语言模型需要能够捕捉不仅答案正确性，而且法律回答的多维质量的奖励信号。然而，现有的奖励方法通常依赖于粗粒度的整体判断，提供的领域特异性和可解释性有限。我们引入了LexReward，一个用于法律奖励建模的基于分类法的框架。LexReward从三个互补的维度来刻画法律回答的质量：风格，涵盖词汇和句法质量；要素，评估法律主体、事实、法规和判决；以及链条，评估法律推理的顺序、完整性、正确性和非冗余性。对于每个维度，我们制定了详细说明评估标准和质量等级的评分细则。由此产生的奖励被用于构建用于直接偏好优化（DPO）和奖励模型训练的成对偏好数据。实验表明，基于评分细则的奖励能够可靠地区分不同质量的法律回答，并且在这些偏好数据上进行DPO训练可以提高所有三个维度的性能。学习到的奖励模型LexRM也支持有效的下游优化：每个特定维度的奖励模型通过强化学习提高其对应维度的策略性能，而无需在奖励时提供参考答案。逐维度的分析进一步支持了所提出的分类法和奖励构建的有效性。",
+          "abstractZh": "法律语言模型需要能够捕捉答案正确性以及法律回答多维质量的奖励信号。然而，现有的奖励方法通常依赖于粗粒度的整体判断，提供的领域特异性和可解释性有限。我们引入了LexReward，一个用于法律奖励建模的基于分类法的框架。LexReward从三个互补的维度来表征法律回答质量：风格，涵盖词汇和句法质量；要素，评估法律主体、事实、法规和判决；以及链条，评估法律推理的顺序、完整性、正确性和非冗余性。对于每个维度，我们制定了详细说明评估标准和质量水平的评分细则。由此产生的奖励被用于构建用于直接偏好优化（DPO）和奖励模型训练的成对偏好数据。实验表明，基于评分细则的奖励能够可靠地区分不同质量的法律回答，并且基于偏好数据的DPO训练提高了所有三个维度的性能。学习到的奖励模型LexRM也支持有效的下游优化：每个特定维度的奖励模型通过强化学习提高了其对应维度的策略性能，而无需在奖励时提供参考答案。逐维度的分析进一步支持了所提出的分类法和奖励构建的有效性。",
           "pdfUrl": "https://arxiv.org/pdf/2609.39071v1"
         },
         {
@@ -2137,7 +2137,7 @@
             "Jimmy Huang"
           ],
           "abstractEn": "A sound judgment applies the law to established facts and weighs the circumstances in which they arose. However, existing methods swing between rigid statute matching and ungrounded discretion, benchmarks score a label or a rubric, and the experience that would supply the balance stays unverified. We formalize legal judgment as a reference-anchored task, whose object is a single decision that stays tied to the statute and to the circumstances at once. We introduce JusticeAxis, 256 real-world criminal cases from 18 countries with audio, image, and text evidence, and three lawyer-written judgments for every case: the recorded one and one for each failure. We further propose JusticeAgent, a harness whose element agents establish the facts and whose judge agent applies the law under skills carrying experience of the circumstances. Skills are distilled from execution trajectories and admitted only under Bayesian credible bounds. Experiments show that failure turns direction with scale: open-weight backbones drift to unsupported grounds, frontier models to the statutory default. We further verify that JusticeAgent, as a simple yet effective plugin, carries a frozen open-weight backbone to commercial level. Project resources are available at https://github.com/beita6969/JusticeAxis.",
-          "abstractZh": "健全的判决应当将法律适用于已认定的事实，并权衡其产生的具体情境。然而，现有方法在僵化的法条匹配与无依据的自由裁量之间摇摆不定，基准测试仅对标签或评分标准进行评分，而能够提供平衡的经验却未得到验证。我们将法律判决形式化为一个以参考为锚定的任务，其目标是作出一个既与法条紧密相连又兼顾具体情境的单一决定。我们引入了JusticeAxis，包含来自18个国家的256个真实刑事案件，附带音频、图像和文本证据，并为每个案件提供三份由律师撰写的判决：一份是实际记录在案的判决，另外两份分别对应两种失败模式。我们进一步提出了JusticeAgent，一个框架，其要素代理负责认定事实，而法官代理则在承载情境经验的技能指导下适用法律。这些技能从执行轨迹中提炼，并仅在贝叶斯可信区间内被采纳。实验表明，失败方向随规模而变化：开放权重的基础模型倾向于无依据的推理，而前沿模型则倾向于法条默认。我们进一步验证了JusticeAgent作为一个简单而有效的插件，能够将冻结的开放权重基础模型提升至商业水平。项目资源可在https://github.com/beita6969/JusticeAxis获取。",
+          "abstractZh": "健全的判决应当将法律适用于已认定的事实，并权衡事实发生的具体情境。然而，现有方法在僵化的法条匹配与无依据的自由裁量之间摇摆不定，基准测试仅对标签或评分标准进行评分，而能够提供平衡的经验却未得到验证。我们将法律判决形式化为一个以参考为锚定的任务，其目标是作出一个既与法条紧密相连又兼顾具体情境的单一决定。我们引入了JusticeAxis，包含来自18个国家的256个真实世界刑事案件，配有音频、图像和文本证据，并为每个案件提供三份由律师撰写的判决书：一份是记录在案的判决，另外两份分别对应两种失败情形。我们进一步提出了JusticeAgent，一个框架，其要素代理负责认定事实，而法官代理则在承载情境经验的技能指导下适用法律。这些技能从执行轨迹中提炼，并仅在贝叶斯可信界限内被采纳。实验表明，失败方向随规模变化：开放权重的基础模型倾向于无依据的推理，而前沿模型则倾向于法定默认。我们还验证了JusticeAgent作为一个简单而有效的插件，能够将冻结的开放权重基础模型提升至商业水平。项目资源可在https://github.com/beita6969/JusticeAxis获取。",
           "pdfUrl": "https://arxiv.org/pdf/2610.00353v1"
         }
       ],
@@ -2339,7 +2339,7 @@
         {
           "date": "2026-09-29",
           "titleEn": "LAURA: Knowledge Distillation for Interpretable Ambiguous Clause Identification in Legal Contracts",
-          "titleZh": "LAURA：面向法律合同中可解释歧义条款识别的知识蒸馏",
+          "titleZh": "LAURA：法律合同中可解释歧义条款识别的知识蒸馏",
           "url": "https://arxiv.org/abs/2609.36707v1",
           "authors": [
             "Amrita Singh",
@@ -2348,7 +2348,7 @@
             "Hye-young Paik"
           ],
           "abstractEn": "Legal contracts contain ambiguities that expose enterprises to financial and legal risks. Some ambiguities allow flexible interpretation without triggering disputes, while others lead to significant legal conflicts. This makes identification alone insufficient, and interpretable rationale analysis essential. We propose LAURA, a post-training framework for interpretable ambiguous clause identification. LAURA leverages knowledge distillation with an IRAC-Unlearning prompting technique to transfer knowledge from a teacher LLM to an open-weight student model (<=1B parameters), which is then trained using a joint objective combining classification and rationale generation losses. The framework supports both legal and non-legal stakeholders in making informed decisions about which ambiguities require further attention. Extensive experiments across 7 baselines and 7 open-weight models demonstrate that LAURA with Flan-T5 (250M) delivers state-of-the-art interpretability over all interpretable baselines while matching the identification performance of the best-performing opaque baseline.",
-          "abstractZh": "法律合同中的歧义使企业面临财务和法律风险。某些歧义允许灵活解释而不会引发争议，而另一些则可能导致重大的法律冲突。这使得仅识别歧义是不够的，可解释的推理分析至关重要。我们提出了LAURA，一个用于可解释歧义条款识别的训练后框架。LAURA利用知识蒸馏和IRAC-取消提示技术，将知识从教师大语言模型迁移到开放权重学生模型（参数不超过10亿），然后使用结合分类和推理生成损失的联合目标进行训练。该框架支持法律和非法律利益相关者就哪些歧义需要进一步关注做出明智决策。在7个基线和7个开放权重模型上的大量实验表明，带有Flan-T5（250M）的LAURA在所有可解释基线上实现了最先进的可解释性，同时匹配了性能最佳的不透明基线的识别性能。",
+          "abstractZh": "法律合同中的歧义使企业面临财务和法律风险。某些歧义允许灵活解释而不引发争议，而其他歧义则可能导致重大法律冲突。这使得仅识别歧义是不够的，可解释的推理分析至关重要。我们提出了LAURA，一个用于可解释歧义条款识别的训练后框架。LAURA利用知识蒸馏和IRAC-取消提示技术，将知识从教师大语言模型转移到开放权重学生模型（参数不超过10亿），然后使用结合分类和推理生成损失的联合目标进行训练。该框架支持法律和非法律利益相关者就哪些歧义需要进一步关注做出明智决策。在7个基线和7个开放权重模型上的广泛实验表明，带有Flan-T5（250M）的LAURA在所有可解释基线上实现了最先进的可解释性，同时匹配了最佳不透明基线的识别性能。",
           "pdfUrl": "https://arxiv.org/pdf/2609.36707v1"
         }
       ],
