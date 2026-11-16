@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T09:11:16.174Z",
+  "generatedAt": "2026-11-16T09:25:48.858Z",
   "range": {
     "start": "2026-01-01",
-    "end": "2026-11-15"
+    "end": "2026-11-16"
   },
   "totals": {
     "news": 1007,
-    "research": 265,
+    "research": 266,
     "policy": 263,
     "days": 275
   },
@@ -154,7 +154,24 @@
           "isAggregatedSource": false
         }
       ],
-      "research": [],
+      "research": [
+        {
+          "date": "2026-11-13",
+          "titleEn": "Auditing Chatbots for Incursion into Professional Legal Practice",
+          "titleZh": "审计聊天机器人是否侵入专业法律实践",
+          "url": "https://arxiv.org/abs/2611.17622v1",
+          "authors": [
+            "Nel Escher",
+            "Megan Elliott",
+            "Isabelle Qian",
+            "Yana Sharifullina",
+            "Svenja Guhr"
+          ],
+          "abstractEn": "The provision of legal advice has long been in the exclusive jurisdiction of licensed attorneys-a boundary that unauthorized practice of law (UPL) doctrine maintains to protect the public from incompetent counsel. We argue that this boundary is being redrawn, not by courts or bar authorities, but by frontier AI companies. While early chat models were trained to avoid dispensing legal advice, modern models have been reconfigured to reduce refusals and prioritize helpfulness. We ask whether chatbots increasingly do tasks that require a law degree and bar admission, and whether this is harmful in high-stakes legal domains. We develop UPLBench, a benchmark derived from court decisions finding UPL in high-stakes legal domains (e.g., immigration, family law). We then audit 23 chatbot models dating from 2023 to present, evaluating whether chatbots refuse or provide substantive legal advice, and whether they refer users to lawyers or legal aid. Unlike prior work that aims to establish the legal capabilities of chatbots (e.g., bar exam performance), our approach converts legal doctrine into a testable benchmark for evaluating chatbot adherence to law. We find modern chatbots increasingly perform tasks courts reserve for lawyers and decreasingly recommend that users consult lawyers. Subject matter expert attorneys reviewing our transcripts identified interaction patterns, such as failure to elicit relevant facts, that would be considered inadequate counsel. If acted upon, such advice could lead to deportations, loss of homes, and family separations-the very harms that UPL rules are designed to protect against. We weigh paths forward to protect the public, including compelling models to comply with existing law. We call upon the legal profession to respond to this incursion into its domain of expertise as there are insufficient protections and remedies for users who rely on chatbot legal advice.",
+          "abstractZh": "长期以来，提供法律建议一直属于持照律师的专属管辖范围——这一边界由未经授权从事法律实践（UPL）原则所维护，旨在保护公众免受不称职律师的侵害。我们认为，这一边界正在被重新划定，不是由法院或律师协会，而是由前沿人工智能公司。早期的聊天模型被训练为避免提供法律建议，而现代模型已被重新配置以减少拒绝并优先考虑有用性。我们追问聊天机器人是否越来越多地执行需要法律学位和律师资格的任务，以及这在高风险法律领域是否有害。我们开发了UPLBench，这是一个从在高风险法律领域（例如移民、家庭法）认定UPL的法院判决中衍生的基准。然后，我们审计了2023年至今的23个聊天机器人模型，评估聊天机器人是拒绝还是提供实质性法律建议，以及它们是否将用户转介给律师或法律援助。与先前旨在确立聊天机器人法律能力（例如律师资格考试表现）的工作不同，我们的方法将法律原则转化为可测试的基准，以评估聊天机器人对法律的遵守情况。我们发现现代聊天机器人越来越多地执行法院保留给律师的任务，并越来越少地建议用户咨询律师。审查我们转录记录的主题专家律师识别出交互模式，例如未能引出相关事实，这将被视为不称职的律师建议。如果据此采取行动，此类建议可能导致驱逐出境、失去住房和家庭分离——这正是UPL规则旨在防止的危害。我们权衡了保护公众的前进路径，包括强制模型遵守现行法律。我们呼吁法律职业界回应这一对其专业领域的侵入，因为依赖聊天机器人法律建议的用户缺乏足够的保护和救济。",
+          "pdfUrl": "https://arxiv.org/pdf/2611.17622v1"
+        }
+      ],
       "policy": [
         {
           "category": "policy",
@@ -649,7 +666,7 @@
         {
           "date": "2026-11-11",
           "titleEn": "ChJGBench: A Comprehensive Benchmark for Chinese Legal Judgment Generation with Diagnostic Evaluation",
-          "titleZh": "ChJGBench：面向中文法律判决生成与诊断评估的综合基准",
+          "titleZh": "ChJGBench：面向中文法律判决生成与诊断式评估的综合基准",
           "url": "https://arxiv.org/abs/2611.15639v1",
           "authors": [
             "Yinghao Hu",
@@ -659,13 +676,13 @@
             "Yunlong Zhang"
           ],
           "abstractEn": "With the rapid development of LLMs, increasing attention has been paid to whether they can reliably generate complete and legally valid judicial documents. This calls for a benchmark capable of evaluating whether models can accurately apply statutes and resolve outcome-critical issues, including claims, charges, penalties, and monetary obligations. However, existing benchmarks typically focus on isolated legal tasks or coarse-grained evaluation. We introduce ChJGBench, a benchmark for generating the reasoning and dispositive sections of Chinese judgments across civil, criminal, and administrative cases. Built from 3,462 real-world judgments, ChJGBench provides a case-type-aware diagnostic evaluation framework comprising 13 metric types and adopts a hybrid paradigm. Experiments reveal no uniform advantage for legal-domain models over general-purpose models, with model strengths varying across diagnostic dimensions. Performance is generally stronger on criminal cases, while civil and administrative cases continue to present substantial challenges.",
-          "abstractZh": "随着大语言模型（LLM）的快速发展，人们日益关注其能否可靠地生成完整且具有法律效力的司法文书。这需要一个能够评估模型是否准确适用法律条文并解决对裁判结果至关重要的问题（包括诉讼请求、罪名、刑罚和金钱义务）的基准。然而，现有基准通常聚焦于孤立的法律任务或粗粒度评估。我们提出 ChJGBench，这是一个用于生成民事、刑事和行政案件中文判决书说理部分和裁判部分的基准。ChJGBench 基于 3,462 份真实判决书构建，提供了一个包含 13 种指标类型、能够感知案件类型的诊断评估框架，并采用混合范式。实验表明，法律领域模型相对于通用模型并无一致优势，且模型优势在不同诊断维度上存在差异。模型在刑事案件上的表现总体更强，而民事和行政案件仍构成重大挑战。",
+          "abstractZh": "随着大语言模型（LLM）的快速发展，人们日益关注其能否可靠地生成完整且具有法律效力的司法文书。这需要一个能够评估模型是否准确适用法律条文并解决对裁判结果具有决定性意义的问题（包括诉讼请求、罪名、刑罚和金钱给付义务）的基准。然而，现有基准通常聚焦于孤立的法律任务或粗粒度评估。我们提出 ChJGBench，这是一个用于生成民事、刑事和行政案件中文判决书中说理部分与裁判结果部分的基准。ChJGBench 基于 3,462 份真实判决书构建，提供了一个包含 13 种指标类型、能够感知案件类型的诊断式评估框架，并采用混合范式。实验表明，法律领域模型相对于通用模型并不具有一致优势，模型优势在不同诊断维度上存在差异。模型在刑事案件上的表现总体更强，而民事和行政案件仍构成重大挑战。",
           "pdfUrl": "https://arxiv.org/pdf/2611.15639v1"
         },
         {
           "date": "2026-11-11",
           "titleEn": "Towards Better Legal Reasoning LLMs: Signal Balancing and Reward Scheduling",
-          "titleZh": "迈向更好的法律推理大语言模型：信号平衡与奖励调度",
+          "titleZh": "面向更好的法律推理大语言模型：信号平衡与奖励调度",
           "url": "https://arxiv.org/abs/2611.15346v1",
           "authors": [
             "Yinghao Hu",
@@ -675,7 +692,7 @@
             "Yiquan Wu"
           ],
           "abstractEn": "In the legal domain, LLMs can improve reliability and interpretability by generating explicit reasoning traces. However, training LLMs to produce high-quality reasoning traces remains challenging. Existing supervised fine-tuning methods struggle when reasoning traces are significantly longer than final answers, as the learning signal for the answer becomes diluted. Meanwhile, reinforcement learning methods such as Group Relative Policy Optimization also have several limitations, including costly reward design, performance plateaus, and reward hacking. We therefore propose a two-stage training framework. In Stage I, JurisCoT-SFT employs a length-normalized dual objective to balance learning signals between reasoning traces and final answers. In Stage II, Lifecycle-Aware Backtrackable Policy Optimization dynamically evaluates and retires auxiliary reward signals based on their impact on final evaluation objectives, enabling efficient reward utilization. Our framework substantially improves legal reasoning performance on relevant tasks selected from multiple legal benchmarks, including ChJGBench, LawBench, and LegalBench. Experimental results demonstrate consistent improvements in both reasoning trace quality and final answer accuracy, while our models remain competitive with larger models.",
-          "abstractZh": "在法律领域，大语言模型（LLMs）可以通过生成显式的推理轨迹来提高可靠性和可解释性。然而，训练LLMs产生高质量的推理轨迹仍然具有挑战性。现有的监督微调方法在推理轨迹显著长于最终答案时表现不佳，因为答案的学习信号被稀释。同时，诸如组相对策略优化（Group Relative Policy Optimization）之类的强化学习方法也存在若干局限性，包括奖励设计成本高昂、性能停滞以及奖励黑客（reward hacking）问题。因此，我们提出了一个两阶段训练框架。在第一阶段，JurisCoT-SFT采用长度归一化的双目标来平衡推理轨迹和最终答案之间的学习信号。在第二阶段，生命周期感知的可回溯策略优化（Lifecycle-Aware Backtrackable Policy Optimization）根据辅助奖励信号对最终评估目标的影响动态评估并淘汰这些信号，从而实现高效的奖励利用。我们的框架在从多个法律基准（包括ChJGBench、LawBench和LegalBench）中选择的相关任务上显著提高了法律推理性能。实验结果表明，推理轨迹质量和最终答案准确性均得到持续改进，同时我们的模型与更大的模型相比仍具有竞争力。",
+          "abstractZh": "在法律领域，大语言模型（LLM）可以通过生成显式的推理轨迹来提高可靠性和可解释性。然而，训练LLM生成高质量的推理轨迹仍然具有挑战性。当推理轨迹显著长于最终答案时，现有的监督微调方法难以应对，因为答案的学习信号被稀释。同时，诸如组相对策略优化（Group Relative Policy Optimization）之类的强化学习方法也存在若干局限性，包括奖励设计成本高昂、性能停滞以及奖励黑客（reward hacking）问题。因此，我们提出了一个两阶段训练框架。在第一阶段，JurisCoT-SFT采用长度归一化的双目标来平衡推理轨迹和最终答案之间的学习信号。在第二阶段，生命周期感知的可回溯策略优化（Lifecycle-Aware Backtrackable Policy Optimization）根据辅助奖励信号对最终评估目标的影响，动态评估并淘汰这些信号，从而实现高效的奖励利用。我们的框架在从多个法律基准（包括ChJGBench、LawBench和LegalBench）中选择的相关任务上显著提升了法律推理性能。实验结果表明，推理轨迹质量和最终答案准确性均得到持续提升，同时我们的模型与更大的模型相比仍具有竞争力。",
           "pdfUrl": "https://arxiv.org/pdf/2611.15346v1"
         },
         {
@@ -691,7 +708,7 @@
             "Naveena Karusala"
           ],
           "abstractEn": "Laws and regulations deeply shape physicians' workflows and impact how they incorporate AI-based decision support tools to care for patients. Despite calls to comply with legal standards, many AI-based decision support tools have not transitioned well to clinical settings. The medical community remains concerned about their legal liability, risks to patients, and limited clinical value of such tools. To better understand how to address these concerns in the design of AI tools for clinical decision-making, we conducted 19 interviews with physicians in the U.S. We used scenario-based design to investigate physicians' legal concerns in the context of an AI-based drug recommendation tool. Drawing on the ethics of care, we surface connections between physicians' care and the healthcare laws and regulations that deeply shape their information needs. We describe how physicians wanted to use the tool in individual and collective practices to care for themselves, their patients, their colleagues, work institution, and even the broader medical profession. We discuss how the design of AI-based decision support tools can present legal ambiguities that would prevent their caring actions and lead to non-use of the AI tool. Through our work, we contribute to responsible AI development in healthcare. Our analysis illuminates why and how certain kinds of information reduce legal ambiguity and support physicians' care when using AI-based decision support tools. We contribute an understanding of how to help physicians navigate legal liability and draw implications for grounding AI tools' designs in their care.",
-          "abstractZh": "法律和法规深刻塑造了医生的工作流程，并影响他们如何采用基于AI的决策支持工具来护理患者。尽管有呼吁要求遵守法律标准，但许多基于AI的决策支持工具并未很好地过渡到临床环境。医学界仍然担心其法律责任、对患者的风险以及此类工具的有限临床价值。为了更好地理解如何在临床决策AI工具的设计中解决这些担忧，我们对美国的医生进行了19次访谈。我们使用基于场景的设计来研究医生在基于AI的药物推荐工具背景下的法律担忧。借鉴关怀伦理，我们揭示了医生的护理与深刻塑造其信息需求的医疗法律法规之间的联系。我们描述了医生希望如何在个人和集体实践中使用该工具来护理自己、患者、同事、工作机构甚至更广泛的医学专业。我们讨论了基于AI的决策支持工具的设计如何呈现法律模糊性，从而阻止他们的护理行动并导致AI工具不被使用。通过我们的工作，我们为医疗保健中负责任的AI发展做出贡献。我们的分析阐明了为什么以及如何某些类型的信息可以减少法律模糊性，并在使用基于AI的决策支持工具时支持医生的护理。我们贡献了对如何帮助医生应对法律责任的理解，并提出了将AI工具的设计基于其护理的启示。",
+          "abstractZh": "法律和法规深刻塑造了医生的工作流程，并影响他们如何采用基于AI的决策支持工具来护理患者。尽管有呼吁要求遵守法律标准，但许多基于AI的决策支持工具并未很好地过渡到临床环境。医学界仍然担心其法律责任、对患者的风险以及此类工具的有限临床价值。为了更好地理解如何在临床决策的AI工具设计中解决这些担忧，我们对美国的医生进行了19次访谈。我们使用基于场景的设计来研究医生在基于AI的药物推荐工具背景下的法律担忧。借鉴关怀伦理，我们揭示了医生的护理与深刻塑造其信息需求的医疗法律法规之间的联系。我们描述了医生希望如何在个人和集体实践中使用该工具来护理自己、患者、同事、工作机构甚至更广泛的医学职业。我们讨论了基于AI的决策支持工具的设计如何呈现法律模糊性，从而阻止他们的护理行动并导致AI工具不被使用。通过我们的工作，我们为医疗保健中负责任的AI发展做出贡献。我们的分析阐明了为什么以及如何某些类型的信息可以减少法律模糊性，并在使用基于AI的决策支持工具时支持医生的护理。我们贡献了对如何帮助医生应对法律责任的理解，并为将AI工具的设计基于他们的护理提出了启示。",
           "pdfUrl": "https://arxiv.org/pdf/2611.14989v1"
         }
       ],
@@ -1237,7 +1254,7 @@
             "Jakob Merane"
           ],
           "abstractEn": "We introduce FraudBench, an evaluation of large language models' (LLMs) propensities to recommend, assist, or directly take actions that would constitute fraud under U.S. law. Our evaluation contains a novel dataset of 159 scenarios based on real-world U.S. court cases and validated by legal experts. We present each scenario to LLMs via three tasks at varying levels of autonomy: advising users, drafting messages for users to send, and acting directly on behalf of users (477 tasks total). In each scenario, FraudBench re-enacts the facts of a court case to give LLMs an opportunity, but no explicit instruction, to either misrepresent or conceal a material fact in a high-stakes commercial setting--e.g., whether to describe company-funded product testing as \"independent\" to customers (misrepresentation) or whether to hide unfavorable regulatory investigations from clients (concealment). We evaluate 20 LLMs across 25 experimental conditions (totaling >300,000 generations) and include a preregistered human baseline ($n_{\\texttt{annotations}} = 2{,}957$, $n_{\\texttt{humans}} = 996$). We score a response as fraudulent when it engages in, assists with, or recommends misrepresentation or concealment. Key findings include: (1) across LLMs, fraud rates ranged from near 0% to over 40%; (2) LLM fraud rates increased with autonomy, with overall rates of 3.0% when advising, 14.7% when drafting, and 21.4% when acting directly, without applying pressure; (3) LLMs sometimes engaged in fraud despite recognizing legal risks; (4) LLMs more often engaged in fraud by concealment than by misrepresentation; and (5) prompt-based interventions substantially affected fraud rates, with a prompt to obey the law reducing fraud rates, while prompts to maximize profits and act agentically increased fraud rates.",
-          "abstractZh": "我们提出FraudBench，这是一项针对大型语言模型（LLM）推荐、协助或直接采取根据美国法律将构成欺诈的行为之倾向的评估。我们的评估包含一个新颖的数据集，由159个基于美国真实法院案例的情景组成，并经法律专家验证。我们通过三种不同自主程度的任务向LLM呈现每个情景：为用户提供建议、为用户起草待发送的消息，以及直接代表用户行事（共477项任务）。在每个情景中，FraudBench重现法院案例的事实，为LLM提供机会（但无明确指示）在高风险商业环境中虚假陈述或隐瞒重大事实——例如，是否将公司资助的产品测试向客户描述为“独立”（虚假陈述），或是否向客户隐瞒不利的监管调查（隐瞒）。我们在25种实验条件下评估了20个LLM（总计超过300,000次生成），并包含一个预注册的人类基线（$n_{\\texttt{annotations}} = 2{,}957$，$n_{\\texttt{humans}} = 996$）。当回答实施、协助或推荐虚假陈述或隐瞒时，我们将其评为欺诈性回答。主要发现包括：（1）在各LLM中，欺诈率从接近0%到超过40%不等；（2）LLM欺诈率随自主程度提高而上升，在未施加压力的情况下，提供建议时总体欺诈率为3.0%，起草时为14.7%，直接行事时为21.4%；（3）LLM有时尽管认识到法律风险仍实施欺诈；（4）LLM通过隐瞒实施欺诈的频率高于通过虚假陈述；（5）基于提示的干预显著影响欺诈率，要求遵守法律的提示降低了欺诈率，而要求最大化利润和以代理方式行事的提示则提高了欺诈率。",
+          "abstractZh": "我们推出FraudBench，这是一个评估大型语言模型（LLM）倾向于推荐、协助或直接采取根据美国法律构成欺诈行为的评估。我们的评估包含一个新颖的数据集，由159个基于美国真实法庭案例的场景组成，并经过法律专家验证。我们通过三个不同自主级别的任务向LLM呈现每个场景：为用户提供建议、为用户起草要发送的消息，以及代表用户直接采取行动（共477个任务）。在每个场景中，FraudBench重新演绎法庭案例的事实，给LLM一个机会（但没有明确指示）在高风险商业环境中歪曲或隐瞒重要事实——例如，是否将公司资助的产品测试描述为对客户的“独立”（歪曲），或是否向客户隐瞒不利的监管调查（隐瞒）。我们评估了20个LLM在25种实验条件下（总计超过30万次生成），并包括一个预注册的人类基线（$n_{\\texttt{annotations}} = 2{,}957$，$n_{\\texttt{humans}} = 996$）。当响应参与、协助或推荐歪曲或隐瞒时，我们将其评为欺诈。主要发现包括：（1）在不同LLM中，欺诈率从接近0%到超过40%不等；（2）LLM欺诈率随着自主性增加而上升，在提供建议时总体比率为3.0%，起草时为14.7%，直接行动时为21.4%，且未施加压力；（3）LLM有时尽管认识到法律风险仍参与欺诈；（4）LLM更常通过隐瞒而非歪曲参与欺诈；（5）基于提示的干预措施显著影响欺诈率，遵守法律的提示降低了欺诈率，而最大化利润和主动行动的提示增加了欺诈率。",
           "pdfUrl": "https://arxiv.org/pdf/2611.12167v1"
         }
       ],
@@ -1334,7 +1351,7 @@
             "Quan Tran Minh"
           ],
           "abstractEn": "A legal answer is only as good as the article it rests on. Vietnam's largest open legal corpus pairs 109,543 published questions and answers with 573,851 legal documents, yet its citations are free text: \"Khoan 3 Dieu 101 cua Bo luat nay\" (\"Clause 3, Article 101 of this Code\") names neither the code nor its version. Following the five stages of NVIDIA Auto Ontology, Discover, Ground, Validate, Expose and Learn, we turn four open datasets into a knowledge graph of 11.5 M nodes and 16.0 M edges in which every node and edge carries its source record and method, with no duplicate keys, dangling edges or schema violations. Of 67,868 cited provisions, 61,487 resolve to a dated law version, 51,694 to a parsed article, clause or point, and 19,012 are confirmed word for word. The ontology then shows what flat records hide. 36% of the 78,361 answers whose citations resolve now cite a law that is no longer in force; 2,525 verified citations point to an article number that says something else in the current law; 2,520 citations were re-versioned because their words match a different version than their date suggests; and 5,575 document numbers are shared by several local authorities, one of them by 72. Every number in this paper is computed from the graph.",
-          "abstractZh": "法律答案的质量取决于其所依据的条款。越南最大的开放法律语料库将109,543个已发布的问题与答案和573,851份法律文件配对，但其引用是自由文本：“Khoan 3 Dieu 101 cua Bo luat nay”（“本法典第101条第3款”）既未指明法典名称，也未指明版本。遵循NVIDIA Auto Ontology的五个阶段——发现、锚定、验证、暴露和学习，我们将四个开放数据集转化为一个包含1150万个节点和1600万条边的知识图谱，其中每个节点和边都携带其源记录和方法，且没有重复键、悬空边或模式违规。在67,868个被引用的条款中，61,487个解析到有日期的法律版本，51,694个解析到已解析的条、款或项，19,012个逐字确认。然后，本体揭示了扁平记录所隐藏的内容。在引用可解析的78,361个答案中，36%现在引用的是已不再生效的法律；2,525个已验证的引用指向的条号在当前法律中表达的是其他内容；2,520个引用被重新确定版本，因为其文字与日期所暗示的版本不同；5,575个文件编号被多个地方当局共享，其中一个被72个地方当局共享。本文中的每个数字都是从图中计算得出的。",
+          "abstractZh": "法律答案的可靠性取决于其所依据的条款。越南最大的开放法律语料库将109,543个已发布问答与573,851份法律文件配对，但其引用是自由文本：“Khoan 3 Dieu 101 cua Bo luat nay”（“本法第101条第3款”）既未指明法典名称，也未指明版本。遵循NVIDIA Auto Ontology的五个阶段——发现、锚定、验证、暴露和学习，我们将四个开放数据集转化为一个包含1150万个节点和1600万条边的知识图谱，其中每个节点和边都携带其源记录和方法，且没有重复键、悬空边或模式违规。在67,868个被引用的条款中，61,487个解析到带日期的法律版本，51,694个解析到已解析的条、款或点，19,012个被逐字确认。该本体随后揭示了扁平记录所隐藏的问题。在78,361个引用可解析的答案中，36%现在引用了已不再有效的法律；2,525个已验证的引用指向的条款编号在现行法律中表示其他内容；2,520个引用因与其日期所暗示的版本不符而被重新版本化；5,575个文件编号被多个地方当局共享，其中一个被72个当局共享。本文中的每个数字均从图谱计算得出。",
           "pdfUrl": "https://arxiv.org/pdf/2611.11426v1"
         },
         {
@@ -1348,7 +1365,7 @@
             "Noam Kolt"
           ],
           "abstractEn": "AI agents deployed on the open web are becoming more capable of performing actions that may breach contractual provisions and violate computer security laws. In this paper, we introduce ScrapeBench, the first agentic benchmark for empirically evaluating the legal compliance of AI agents with website scraping policies, namely terms of service (ToS) and robots$.$txt directives. Across widely used closed-weight and open-weight AI agents, we find that most agents exhibit low compliance rates (below 5%) when instructed to scrape websites in our sample of 1,626 popular websites that explicitly prohibit scraping. In addition, we observe that even where AI agents actively check the applicable ToS and robots$.$txt, they continue to exhibit low compliance rates. Conversely, in our sample of 269 websites that do not prohibit scraping, we observe that agents sometimes refuse to scrape despite it being lawful, such as Claude Opus 4.6 exhibiting an over-refusal rate of 98.5%. Our human baseline experiments (n = 180 participants) suggest that humans exhibit compliance rates comparable to AI agents but over-refuse at much higher rates.",
-          "abstractZh": "部署在开放网络上的AI智能体正日益能够执行可能违反合同条款和触犯计算机安全法的行为。在本文中，我们推出ScrapeBench，这是首个用于实证评估AI智能体对网站抓取政策（即服务条款（ToS）和robots$.$txt指令）法律合规性的智能体基准测试。在广泛使用的闭源权重和开源权重AI智能体中，我们发现，在我们选取的1,626个明确禁止抓取的流行网站样本中，当被指示抓取这些网站时，大多数智能体表现出较低的合规率（低于5%）。此外，我们观察到，即使AI智能体主动检查适用的ToS和robots$.$txt，它们仍表现出较低的合规率。相反，在我们选取的269个不禁止抓取的网站样本中，我们观察到智能体有时会拒绝抓取，尽管该行为是合法的，例如Claude Opus 4.6表现出98.5%的过度拒绝率。我们的人类基线实验（n = 180名参与者）表明，人类的合规率与AI智能体相当，但过度拒绝率要高得多。",
+          "abstractZh": "部署在开放网络上的AI智能体正日益具备执行可能违反合同条款和触犯计算机安全法的行为的能力。在本文中，我们提出了ScrapeBench，这是首个用于实证评估AI智能体对网站抓取政策（即服务条款（ToS）和robots$.$txt指令）法律合规性的智能体基准。在广泛使用的闭源权重和开源权重AI智能体中，我们发现，在我们选取的1,626个明确禁止抓取的流行网站样本中，当被指示抓取这些网站时，大多数智能体表现出较低的合规率（低于5%）。此外，我们观察到，即使AI智能体主动检查适用的ToS和robots$.$txt，它们仍然表现出较低的合规率。相反，在我们选取的269个不禁止抓取的网站样本中，我们观察到智能体有时尽管抓取行为合法却拒绝抓取，例如Claude Opus 4.6表现出98.5%的过度拒绝率。我们的人类基线实验（n = 180名参与者）表明，人类的合规率与AI智能体相当，但过度拒绝率要高得多。",
           "pdfUrl": "https://arxiv.org/pdf/2611.11306v3"
         }
       ],
@@ -1388,7 +1405,7 @@
             "Ahmed Touila"
           ],
           "abstractEn": "This paper introduces Cascading Circle Loss (CasCL), a contrastive learning framework for legal retrieval tasks with graded relevance. CasCL combines an InfoNCE objective for positive-negative separation with a cascade of ranking boundaries that model ordered relevance levels between queries and legal clauses. The framework also includes a negative-aware self-paced optimization mechanism and a relevance gain weighting strategy to improve ranking quality. Experiments on legal passage retrieval benchmarks show that CasCL consistently outperforms existing methods, including InfoNCE, Circle Loss, MNRL and Margin MSE, across both binary retrieval and graded ranking metrics.",
-          "abstractZh": "本文提出级联圆损失（CasCL），一种面向具有分级相关性的法律检索任务的对比学习框架。CasCL 将用于正负样本分离的 InfoNCE 目标与一组级联排序边界相结合，这些边界对查询与法律条款之间的有序相关性等级进行建模。该框架还包含一种负样本感知的自步优化机制和一种相关性增益加权策略，以提升排序质量。在法律段落检索基准上的实验表明，CasCL 在二值检索指标和分级排序指标上均持续优于现有方法，包括 InfoNCE、Circle Loss、MNRL 和 Margin MSE。",
+          "abstractZh": "本文提出了级联圆损失（CasCL），一种面向具有分级相关性的法律检索任务的对比学习框架。CasCL 将用于正负样本分离的 InfoNCE 目标与一组排序边界级联相结合，以建模查询与法律条款之间有序的相关性等级。该框架还包含一种负样本感知的自步优化机制和一种相关性增益加权策略，以提升排序质量。在法律段落检索基准上的实验表明，CasCL 在二值检索指标和分级排序指标上均持续优于现有方法，包括 InfoNCE、Circle Loss、MNRL 和 Margin MSE。",
           "pdfUrl": "https://arxiv.org/pdf/2611.10765v1"
         }
       ]
@@ -1561,7 +1578,7 @@
             "Bruno Jacob"
           ],
           "abstractEn": "Specialized prompt injection guards are deployed in front of document analysis systems, but no false positive rate has been published for any of them on legal contracts. We measure eleven open-weights guards on two corpora of legal contracts and find that existing guards struggle: document-level false positive rates are as high as 92.39%; two guards fall below chance on paired AUC; and a five-regex baseline is not Pareto-dominated by any guard in the panel. Controlled probes locate model-specific as well as general failure modes. Prompted LLMs resolve the tested failures, including a second threat category (unauthorized scope claims) on which every guard scores zero. A cascaded LLM solution, where the positives of a mid-tier model are verified by a frontier model, is 6.5x cheaper than using exclusively a frontier model and approaches its performance.",
-          "abstractZh": "专门的提示注入防护被部署在文档分析系统之前，但尚未有公开的针对法律合同的任何此类防护的假阳性率。我们在两个法律合同语料库上测量了十一个开放权重防护，发现现有防护表现不佳：文档级假阳性率高达92.39%；两个防护在配对AUC上低于随机水平；一个五正则表达式基线在帕累托意义上未被面板中任何防护支配。受控探测定位了模型特定的以及一般的失败模式。提示的LLM解决了测试的失败，包括第二个威胁类别（未经授权的范围声明），在该类别上每个防护得分均为零。一种级联LLM解决方案，其中中级模型的阳性结果由前沿模型验证，比仅使用前沿模型便宜6.5倍，并且接近其性能。",
+          "abstractZh": "专门的提示注入防护被部署在文档分析系统前端，但尚未有任何一个防护在法律合同上发布过误报率。我们在两个法律合同语料库上测量了十一个开放权重防护，发现现有防护表现不佳：文档级误报率高达92.39%；两个防护在配对AUC上低于随机水平；一个五正则基线在面板中未被任何防护帕累托支配。受控探测定位了模型特定的以及一般的失效模式。提示LLM解决了测试的失效，包括第二个威胁类别（未经授权的范围声明），所有防护在该类别上得分均为零。级联LLM解决方案，即由前沿模型验证中级模型的正例，比仅使用前沿模型便宜6.5倍，且性能接近。",
           "pdfUrl": "https://arxiv.org/pdf/2611.08834v1"
         }
       ],
@@ -1880,7 +1897,7 @@
         {
           "date": "2026-11-05",
           "titleEn": "Compression Through a Context Lens: Evaluating Adaptation, Quantization, and Distillation in Arabic Legal LLMs",
-          "titleZh": "语境视角下的压缩：评估阿拉伯语法律大语言模型中的适配、量化与蒸馏",
+          "titleZh": "通过上下文视角的压缩：评估阿拉伯语法律大语言模型中的自适应、量化和蒸馏",
           "url": "https://arxiv.org/abs/2611.07988v1",
           "authors": [
             "Md. Rafiul Biswas",
@@ -1888,7 +1905,7 @@
             "Wajdi Zaghouani"
           ],
           "abstractEn": "Model compression can facilitate the deployment of large language models in resource-constrained legal settings, but its effects on domain-specific performance may depend on the evaluation protocol. We investigate this issue using ArabLegalEval, a Saudi Arabic legal benchmark, under both with-context and no-context evaluation. The former provides supporting legal passages, while the latter assesses performance without external context. Removing the context produces accuracy gaps of up to 27 percentage points for the base model. We examine three stages: domain adaptation, quantization, and knowledge distillation across FANAR-9B, JAIS-8B, and Qwen2.5-7B. Four-bit quantization reduces model memory by 64-71%, with changes in no-context MCQ accuracy ranging from -3.2 to +1.6 percentage points. Distillation produces more variable results, with accuracy generally declining as student size decreases. A Qwen2.5-7B student distilled from FANAR achieves 76.6% no-context accuracy, compared with 77.2% for its teacher. Our findings suggest that no-context evaluation provides a useful complement to context-supported testing when assessing the effects of adaptation and compression on Arabic legal language models.",
-          "abstractZh": "模型压缩有助于在资源受限的法律场景中部署大语言模型，但其对领域特定性能的影响可能取决于评估协议。我们使用沙特阿拉伯语法律基准 ArabLegalEval，在有上下文和无上下文两种评估方式下研究这一问题。前者提供支持性法律段落，后者则在无外部上下文的情况下评估性能。移除上下文会使基础模型的准确率差距最高达到27个百分点。我们考察了领域适配、量化和知识蒸馏三个阶段，涵盖 FANAR-9B、JAIS-8B 和 Qwen2.5-7B。四比特量化使模型内存减少64-71%，无上下文多项选择问答准确率的变化范围为-3.2至+1.6个百分点。蒸馏产生的结果波动更大，准确率通常随学生模型规模减小而下降。由 FANAR 蒸馏得到的 Qwen2.5-7B 学生模型达到76.6%的无上下文准确率，而其教师模型为77.2%。我们的研究结果表明，在评估适配与压缩对阿拉伯语法律语言模型的影响时，无上下文评估为有上下文支持的测试提供了有用的补充。",
+          "abstractZh": "模型压缩可以促进大语言模型在资源受限的法律环境中的部署，但其对领域特定性能的影响可能取决于评估协议。我们使用沙特阿拉伯语法律基准 ArabLegalEval 在有上下文和无上下文两种评估下研究这一问题。前者提供支持性法律段落，而后者在没有外部上下文的情况下评估性能。移除上下文导致基础模型的准确率差距高达 27 个百分点。我们研究了三个阶段：领域自适应、量化和知识蒸馏，涉及 FANAR-9B、JAIS-8B 和 Qwen2.5-7B。四位量化将模型内存减少 64-71%，无上下文多项选择准确率的变化范围从 -3.2 到 +1.6 个百分点。蒸馏产生更可变的结果，随着学生模型规模减小，准确率通常下降。从 FANAR 蒸馏得到的 Qwen2.5-7B 学生模型达到 76.6% 的无上下文准确率，而其教师模型为 77.2%。我们的研究结果表明，在评估自适应和压缩对阿拉伯语法律语言模型的影响时，无上下文评估为有上下文支持的测试提供了有用的补充。",
           "pdfUrl": "https://arxiv.org/pdf/2611.07988v1"
         },
         {
@@ -1902,7 +1919,7 @@
             "Paraskevi Fragopoulou"
           ],
           "abstractEn": "The detection of previously unidentified Child Sexual Abuse Material (CSAM) remains a significant challenge for law enforcement authorities, online service providers, and child protection organizations, as traditional hash-matching technologies are primarily designed to identify previously verified material. This paper reviews and classifies existing AI-based technologies that could complement hash-based approaches and support the detection, analysis, and prioritization of potentially harmful content. The reviewed approaches are organized into three categories: real-time image and video analysis, image and video classification and tagging, and AI-based behavioral monitoring. A comparative analysis examines the capabilities, limitations, and potential integration of general-purpose computer vision platforms, content moderation services, and specialized CSAM detection tools within existing detection workflows. An experimental evaluation was conducted using Google Cloud Vision AI and Sightengine to investigate sexual-content classification and child-adult age estimation. The results highlight differences in classification taxonomies and outputs across providers, as well as significant limitations in age classification, particularly for adolescents. These findings highlight the importance of using AI-based assessments as complementary tools for analysis and prioritization, rather than as definitive determination of CSAM. Finally, the paper examines the relevant European Union regulatory framework, with particular attention to the EU AI Act, the General Data Protection Regulation (GDPR), fundamental rights, transparency, accountability, and human oversight. The legal analysis highlights how regulatory obligations and safeguards may differ depending on the deployment context, potentially creating inconsistencies across interconnected detection and reporting workflows.",
-          "abstractZh": "检测未知的儿童性虐待材料（CSAM）仍然是执法机构、在线服务提供商和儿童保护组织面临的重大挑战，因为传统的哈希匹配技术主要设计用于识别先前已验证的材料。本文回顾并分类了现有基于人工智能的技术，这些技术可以补充基于哈希的方法，并支持对潜在有害内容的检测、分析和优先级排序。所回顾的方法分为三类：实时图像和视频分析、图像和视频分类与标记，以及基于人工智能的行为监控。比较分析考察了通用计算机视觉平台、内容审核服务和专用CSAM检测工具在现有检测工作流程中的能力、局限性和潜在集成。使用Google Cloud Vision AI和Sightengine进行了实验评估，以研究性内容分类和儿童-成人年龄估计。结果突出了不同提供商在分类体系和输出方面的差异，以及年龄分类的显著局限性，特别是对于青少年。这些发现强调了将基于人工智能的评估用作分析和优先级排序的补充工具，而非作为CSAM的确定性判定。最后，本文考察了相关的欧盟监管框架，特别关注《欧盟人工智能法案》、《通用数据保护条例》（GDPR）、基本权利、透明度、问责制和人机监督。法律分析强调了监管义务和保障措施可能因部署环境而异，从而可能在相互关联的检测和报告工作流程中造成不一致。",
+          "abstractZh": "检测未知的儿童性虐待材料（CSAM）仍然是执法机构、在线服务提供商和儿童保护组织面临的重大挑战，因为传统的哈希匹配技术主要设计用于识别先前已验证的材料。本文回顾并分类了现有基于人工智能的技术，这些技术可以补充基于哈希的方法，并支持对潜在有害内容的检测、分析和优先级排序。所回顾的方法分为三类：实时图像和视频分析、图像和视频分类与标记，以及基于人工智能的行为监控。比较分析考察了通用计算机视觉平台、内容审核服务和专用CSAM检测工具在现有检测工作流程中的能力、局限性和潜在集成。使用Google Cloud Vision AI和Sightengine进行了实验评估，以研究性内容分类和儿童-成人年龄估计。结果突显了不同提供商在分类体系和输出上的差异，以及年龄分类的显著局限性，尤其是对青少年。这些发现强调了将基于人工智能的评估用作分析和优先级排序的补充工具，而非CSAM的确定性判定。最后，本文考察了相关的欧盟监管框架，特别关注《欧盟人工智能法案》、《通用数据保护条例》（GDPR）、基本权利、透明度、问责制和人机监督。法律分析强调了监管义务和保障措施可能因部署环境而异，可能在相互关联的检测和报告工作流程中造成不一致。",
           "pdfUrl": "https://arxiv.org/pdf/2611.10028v1"
         }
       ],
@@ -2041,7 +2058,7 @@
             "Tongyu Wen"
           ],
           "abstractEn": "As LLM-based agents develop, they have been increasingly applied in the legal domain. Legal Judgment Prediction~(LJP) requires models to conduct multi-step reasoning and external legal evidence retrieval. Existing legal search agents' performance is often constrained by the quality of retrieval queries. They often formulate queries directly from the initial user request, overlooking latent legal issues and legally salient details. To address this issue, we propose \\emph{LegalEvolver}, a query optimization framework specifically designed to generate legally informative queries for LJP-oriented retrieval. Sampling high-quality optimized queries and their corresponding search trajectories is challenging, as relying solely on unguided high-temperature rollouts is both inefficient and constrained by the model's initial capabilities. We therefore heuristically optimize queries as seeds, improving the efficiency of trajectory generation. Furthermore, we summarize rollout experience into rubrics and use them to guide multi-round iterative self-evolution. Iteratively performing rubric optimization and rubric-guided RL enables the model to surpass its initial performance ceiling. End-to-end performance on extensive benchmarks demonstrates the effectiveness of query optimization on LJP. Comparisons with direct SFT followed by RL demonstrate the effectiveness of rubric guidance. Evolving rubrics further outperform fixed rubrics, confirming the benefits of self-evolution.",
-          "abstractZh": "随着基于大语言模型的智能体不断发展，它们越来越多地应用于法律领域。法律判决预测（LJP）要求模型进行多步推理和外部法律证据检索。现有法律搜索智能体的性能往往受限于检索查询的质量。它们通常直接根据初始用户请求制定查询，忽略了潜在的法律问题和法律上显著的细节。为了解决这个问题，我们提出了\\emph{LegalEvolver}，一个专门为面向LJP的检索生成具有法律信息量的查询的查询优化框架。采样高质量的优化查询及其对应的搜索轨迹具有挑战性，因为仅依赖无引导的高温随机采样既低效又受限于模型的初始能力。因此，我们启发式地优化查询作为种子，提高轨迹生成的效率。此外，我们将随机采样经验总结为评分标准，并用其指导多轮迭代自我进化。迭代执行评分标准优化和评分标准引导的强化学习使模型超越其初始性能上限。在大量基准上的端到端性能证明了查询优化对LJP的有效性。与直接监督微调后接强化学习的比较证明了评分标准引导的有效性。进化评分标准进一步优于固定评分标准，证实了自我进化的优势。",
+          "abstractZh": "随着基于大语言模型的智能体不断发展，它们越来越多地应用于法律领域。法律判决预测（LJP）要求模型进行多步推理和外部法律证据检索。现有法律搜索智能体的性能往往受限于检索查询的质量。它们通常直接根据初始用户请求制定查询，忽略了潜在的法律问题和法律上显著的细节。为了解决这个问题，我们提出了\\emph{LegalEvolver}，一个专门为面向LJP的检索生成具有法律信息量的查询的查询优化框架。采样高质量的优化查询及其对应的搜索轨迹具有挑战性，因为仅依赖无引导的高温随机采样既低效又受限于模型的初始能力。因此，我们启发式地优化查询作为种子，提高轨迹生成的效率。此外，我们将随机采样经验总结为评分标准，并用其指导多轮迭代自我进化。迭代执行评分标准优化和评分标准引导的强化学习使模型能够超越其初始性能上限。在大量基准上的端到端性能证明了查询优化对LJP的有效性。与直接监督微调后接强化学习的比较证明了评分标准引导的有效性。进化评分标准进一步优于固定评分标准，证实了自我进化的优势。",
           "pdfUrl": "https://arxiv.org/pdf/2611.06381v1"
         }
       ],
@@ -2341,7 +2358,7 @@
         {
           "date": "2026-11-03",
           "titleEn": "PROSE: Preservation-Constrained Selective Editing for Guilty Bias in Legal Judgment Prediction",
-          "titleZh": "PROSE：法律判决预测中有罪偏差的保真约束选择性编辑",
+          "titleZh": "PROSE：法律判决预测中针对有罪偏见的保持约束选择性编辑",
           "url": "https://arxiv.org/abs/2611.04921v1",
           "authors": [
             "Yimeng Wang",
@@ -2351,7 +2368,7 @@
             "Chenglei Shen"
           ],
           "abstractEn": "Legal judgment prediction models may retain a guilty verdict after a legally decisive condition has been altered such that the specified charge is no longer established. We study this guilty bias via selective repair over matched charge-established and charge-not-established cases, where the unsupported verdict should change while its supported counterpart remains stable. We construct CAIL-MC, a legally reviewed dataset of 11,478 matched pairs covering 261 Chinese criminal charges. Held-out activation interventions show that contrasts learned from correctly resolved pairs transfer to false-guilty cases, but target-reaching interventions can also damage matched supported-guilty decisions. Motivated by this observation, we introduce PROSE, which reconstructs case-specific targets from a training-derived residual geometry, aligns them with a local margin-descent signal, attenuates supported-guilty-sensitive components, and realizes bounded targets through a preservation-regularized low-rank parameter update. Across Qwen3-8B and GLM4-9B, PROSE achieves stronger pairwise safe repair and evidence sensitivity, while preserving standard single-pass inference.",
-          "abstractZh": "法律判决预测模型可能在法律决定性条件被改变、使得指定罪名不再成立后，仍然保留有罪判决。我们通过对匹配的罪名成立与罪名不成立案件进行选择性修复来研究这种有罪偏差，其中无支持的判决应改变，而受支持的对应判决应保持稳定。我们构建了CAIL-MC，一个经过法律审查的数据集，包含11,478个匹配对，覆盖261项中国刑事罪名。留出激活干预表明，从正确解决的配对中学到的对比可以迁移到错误有罪案件，但达到目标的干预也可能损害匹配的受支持有罪判决。受此观察启发，我们引入了PROSE，它从训练导出的残差几何中重建案件特定目标，将其与局部边际下降信号对齐，衰减对受支持有罪敏感的组件，并通过保真正则化的低秩参数更新实现有界目标。在Qwen3-8B和GLM4-9B上，PROSE实现了更强的成对安全修复和证据敏感性，同时保留了标准的单次推理。",
+          "abstractZh": "法律判决预测模型可能在法律决定性条件被改变、以致指定罪名不再成立后，仍保留有罪判决。我们通过对匹配的罪名成立与罪名不成立案件进行选择性修复来研究这种有罪偏见，其中无依据的判决应改变，而与其匹配的有依据判决应保持稳定。我们构建了CAIL-MC，这是一个经法律审查的数据集，包含11,478个匹配对，覆盖261项中国刑事罪名。留出激活干预表明，从正确解决的配对中学习到的对比可迁移到错误有罪案件，但目标到达干预也可能损害匹配的有依据有罪判决。受此观察启发，我们提出PROSE，它从训练衍生的残差几何中重建案件特定目标，将其与局部边际下降信号对齐，衰减对有依据有罪敏感的组件，并通过保持正则化的低秩参数更新实现有界目标。在Qwen3-8B和GLM4-9B上，PROSE实现了更强的成对安全修复和证据敏感性，同时保持标准的单次推理。",
           "pdfUrl": "https://arxiv.org/pdf/2611.04921v1"
         }
       ],
@@ -2735,7 +2752,7 @@
             "Chompakorn Chaksangchaichot"
           ],
           "abstractEn": "Law changes over time. A court decides a case under the law in force on that day, and legal QA benchmarks grade answers against today's law. We checked 156,650 decisions of four Thai courts. Up to 67% of them cite law that has since been amended or repealed. We introduce NitiBench+, the sequel of our NitiBench, a Thai legal QA benchmark with 1,670 items across 17 domains, built from decisions of three courts. For each cited section it holds both the text in force on the decision date and the current text, and its retrieval corpus holds every dated version of every Thai statute section. Answers are graded on the Thai Bar Council rubric, the Bar-standard score, and on the overlap between the cited sections and the court's. The report has two parts. Part I measures the cost of the wrong text on 13 open-weight models. Reading the current text of amended law drops the Bar-standard score by 0.25 and missing repealed law drops it by 0.79. The penalty comes from rule changes, 0.45 on the 428 rule-changed items and none on the 331 wording-only items, and Citation F1 does not see it. The text in force is the fair setting. Part II benchmarks today's models on that setting. A public leaderboard ranks 26 models on a held-out test split of 500 items stratified by domain, with a validation split of the same shape released for public use, from memory alone, with the court's sections provided, and as a retrieval agent over the law in force, with the cost per item and the hallucinated citations. The best model scores 7.78 out of 10 and the best open-weight model 6.39. Without a search tool only five open-weight models recall any Thai law, and with it twenty of the 26 models gain and six lose. Leaderboard will take new models as they are released. Legal benchmarks must track dates, and on the right text today's models still leave a wide gap on Thai law.",
-          "abstractZh": "法律随时间而变化。法院根据判决当日有效的法律裁决案件，而法律问答基准则依据现行法律对答案进行评分。我们检查了泰国四家法院的156,650份判决。其中高达67%的判决引用了此后已被修订或废止的法律。我们推出了NitiBench+，这是我们NitiBench的续作，一个包含17个领域、1,670个条目的泰国法律问答基准，基于三家法院的判决构建。对于每个被引用的条款，它同时包含判决日期有效的文本和当前文本，其检索语料库包含泰国每一法律条款的每个日期版本。答案根据泰国律师委员会评分标准、律师标准分数以及引用条款与法院条款的重叠程度进行评分。报告分为两部分。第一部分在13个开放权重模型上衡量错误文本的代价。阅读修订后法律的当前文本会使律师标准分数下降0.25，缺失已废止法律会使分数下降0.79。惩罚来自规则变化，在428个规则变化条目上为0.45，在331个仅措辞变化条目上为零，而引用F1分数未能反映这一点。有效文本是公平的设置。第二部分在该设置下对当今模型进行基准测试。一个公开排行榜对26个模型进行排名，测试集为按领域分层的500个条目的保留测试分割，同时发布相同形状的验证分割供公众使用，评估条件包括仅凭记忆、提供法院条款、以及作为检索代理在有效法律上运行，并记录每个条目的成本和幻觉引用。最佳模型得分为7.78分（满分10分），最佳开放权重模型得分为6.39分。在没有搜索工具的情况下，只有五个开放权重模型能回忆起任何泰国法律，而有搜索工具时，26个模型中有20个获益，6个受损。排行榜将随着新模型的发布而纳入新模型。法律基准必须跟踪日期，而在正确的文本上，当今模型在泰国法律上仍然存在很大差距。",
+          "abstractZh": "法律随时间而变化。法院根据判决当日有效的法律裁决案件，而法律问答基准则依据现行法律对答案进行评分。我们检查了泰国四家法院的156,650份判决。其中高达67%的判决引用了此后已被修订或废止的法律。我们推出了NitiBench+，这是我们NitiBench的续作，一个包含17个领域、1,670个条目的泰国法律问答基准，基于三家法院的判决构建。对于每个被引用的条款，它同时保存了判决日期有效的文本和当前文本，其检索语料库包含了泰国每一法条每一个有日期的版本。答案根据泰国律师委员会评分标准、律师标准分数以及引用条款与法院引用条款之间的重叠度进行评分。报告分为两部分。第一部分在13个开放权重模型上衡量错误文本的代价。阅读修订后法律的当前文本会使律师标准分数下降0.25，而缺失已废止法律会使分数下降0.79。惩罚来自规则变化，在428个规则变化条目上为0.45，在331个仅措辞变化条目上为零，而引用F1分数未能反映这一点。有效文本是公平的设置。第二部分在该设置下对当今模型进行基准测试。一个公开排行榜对26个模型进行排名，测试集为按领域分层的500个条目的留出测试分割，并发布了相同形状的验证分割供公众使用，评估场景包括仅凭记忆、提供法院条款、以及作为检索代理在有效法律上运行，同时记录每个条目的成本和幻觉引用。最佳模型得分为7.78分（满分10分），最佳开放权重模型为6.39分。在没有搜索工具的情况下，只有五个开放权重模型能回忆起任何泰国法律，而有了搜索工具后，26个模型中有20个获益，6个受损。排行榜将随着新模型的发布而接纳新模型。法律基准必须跟踪日期，而在正确的文本上，当今模型在泰国法律上仍然存在很大差距。",
           "pdfUrl": "https://arxiv.org/pdf/2611.03576v2"
         },
         {
@@ -2751,7 +2768,7 @@
             "Jaromír Šavelka"
           ],
           "abstractEn": "Criminal verdicts contain descriptions of criminal behavior that can support quantitative legal research, but structuring them requires attributes and extraction rules that cannot always be fully specified in advance. We present an LLM-based pipeline that builds a structured dataset through attribute exploration, text span extraction, and value normalization, guided by annotation instructions that legal experts can refine. We evaluate it on two traffic offenses: driving under the influence (DUI) and driving despite a ban (DDB). For DUI, revising the instructions was associated with higher extraction accuracy (from 52% to 70% of correctly extracted values) and higher agreement between human annotators. Repeated runs of the same model agreed with each other more than with the gold annotations, showing that consistent output is not necessarily correct, while disagreement between annotators and between models helped reveal unclear instructions. For DDB, where the instructions defined fixed categories and output formats, agreement was high for most attributes.",
-          "abstractZh": "刑事判决书包含可支持定量法律研究的犯罪行为描述，但将其结构化需要属性和抽取规则，而这些属性和规则并非总能事先完全确定。我们提出了一种基于大语言模型（LLM）的流水线，通过属性探索、文本片段抽取和值归一化来构建结构化数据集，并以法律专家可完善的标注指令为指导。我们在两类交通犯罪上对其进行了评估：酒后驾驶（DUI）和禁驾期间驾驶（DDB）。对于DUI，修订指令与更高的抽取准确率（正确抽取的值从52%提高到70%）以及人类标注者之间更高的一致性相关。同一模型的重复运行彼此之间的一致性高于其与金标准标注之间的一致性，表明输出一致并不一定正确，而标注者之间以及模型之间的分歧有助于揭示不清晰的指令。对于DDB，由于指令定义了固定类别和输出格式，大多数属性的一致性很高。",
+          "abstractZh": "刑事判决书包含对犯罪行为的描述，这些描述可以支持定量法律研究，但将其结构化需要属性和抽取规则，而这些规则并非总能事先完全指定。我们提出了一种基于大语言模型（LLM）的流程，通过属性探索、文本片段抽取和值归一化来构建结构化数据集，并以法律专家可以完善的标注指令为指导。我们在两种交通犯罪上对其进行了评估：酒后驾驶（DUI）和禁驾期间驾驶（DDB）。对于DUI，修订指令与更高的抽取准确率（正确抽取的值从52%提高到70%）以及人类标注者之间更高的一致性相关。同一模型的重复运行彼此之间的一致性高于与黄金标注的一致性，表明输出一致并不一定正确，而标注者之间以及模型之间的分歧有助于揭示不明确的指令。对于DDB，指令定义了固定类别和输出格式，大多数属性的一致性很高。",
           "pdfUrl": "https://arxiv.org/pdf/2611.03051v1"
         }
       ],
